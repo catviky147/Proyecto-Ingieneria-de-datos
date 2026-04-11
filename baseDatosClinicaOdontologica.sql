@@ -1,5 +1,6 @@
 create database clinicaodontologica;
 use clinicaodontologica;
+
 create table usuario(
 idUsuario  int (10) primary key ,
 nombreUsuario varchar (50),
@@ -24,6 +25,27 @@ usuarioFK int (10),
 foreign key (usuarioFk) references usuario(idUsuario)
 );
 
+
+create table paciente(
+idpaciente int auto_increment primary key,
+nombrePaciente varchar (50) not null, 
+documentoPaciente int (10) not null,
+direccionPaciente varchar (100)not null,
+fechaNacPaciente date not null,
+Preexistencias varchar (500),
+Alergias varchar (100)
+);
+
+create table historiaClinica(
+idHistoriaClinica int primary key auto_increment,
+fechaApertura date not null,
+estado varchar (70),
+observaciones varchar (10000),
+pacienteFK int not null,
+foreign key (pacienteFk) references paciente(idpaciente)
+);
+
+
 create table citaOdontologico(
 idCity int auto_increment primary key,
 odontologo int not null, 
@@ -33,4 +55,16 @@ tratamiento int,
 foreign key (usuarioFk) references usuario(idUsuario)
 );
 
+create table pago(
+idPago int auto_increment primary key,
+fecha date not null,
+monto double not null,
+metodoPago varchar (100) not null,
+estado varchar (50)
+);
 
+alter table pagos
+add constraint 
+
+
+use clinicaodontologica;
