@@ -63,8 +63,20 @@ metodoPago varchar (100) not null,
 estado varchar (50)
 );
 
-alter table pagos
-add constraint 
+alter table citaOdontologico
+add pagoFK int;
+
+alter table citaOdontologico
+add constraint citaPagoFK 
+foreign key(pagoFK)
+references pago(idPago);
+
+alter table citaOdontologico change odontologo odontologoFK int;
+
+alter table citaOdontologico
+add constraint citaOdontologoFK 
+foreign key(odontologoFK)
+references odontologo(idOdontologo);
 
 
 use clinicaodontologica;
