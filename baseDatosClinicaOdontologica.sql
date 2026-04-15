@@ -78,5 +78,35 @@ add constraint citaOdontologoFK
 foreign key(odontologoFK)
 references odontologo(idOdontologo);
 
+describe citaOdontologico;
+ALTER TABLE citaOdontologico MODIFY tratamiento VARCHAR(100);
 
+
+##consultas
+##consulta general
+select * from pago where metodoPago="Efectivo";
+
+##consulta especifica
+
+#1 paciente
+select nombrePaciente as nombre ,Preexistencias as pre_Existencias
+from paciente where Alergias="Latex";
+
+#1 cita
+select odontologoFK as Odontologo, paciente as Paciente, horario as fecha  from citaodontologico
+where month(horario)=4;
+
+#1 odontologo
+select 
+    u.nombreUsuario as nombreOdontologo,
+    u.telefono as telefono,
+    o.especialidad as especialidad
+from odontologo o
+inner join usuario u on o.usuarioFK = u.idUsuario;
+
+
+##cositas de la base de datos
 use clinicaodontologica;
+ALTER DATABASE clinicaodontologica CHARACTER SET utf8mb4 COLLATE utf8mb4_spanish_ci;
+ALTER TABLE paciente CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_spanish_ci;
+

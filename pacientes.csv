@@ -1,0 +1,101 @@
+idpaciente,nombrePaciente,documentoPaciente,direccionPaciente,fechaNacPaciente,Preexistencias,Alergias
+1,Ana Ramirez,1001234501,Calle 12 #34-56 Bogota,1990-03-15,Hipertension,Penicilina
+2,Bernardo Lopez,1001234502,Carrera 7 #89-12 Medellin,1985-07-22,Diabetes tipo 2,Ninguna
+3,Clara Jimenez,1001234503,Av 68 #45-23 Bogota,1992-11-08,Ninguna,Ibuprofeno
+4,David Morales,1001234504,Calle 80 #12-34 Cali,1978-01-30,Asma,Latex
+5,Elena Vargas,1001234505,Carrera 15 #67-89 Bogota,1995-05-17,Ninguna,Ninguna
+6,Francisco Pena,1001234506,Calle 50 #23-45 Barranquilla,1988-09-03,Hipotiroidismo,Sulfonamidas
+7,Gloria Torres,1001234507,Av Principal #78-90 Cucuta,1975-12-25,Diabetes tipo 1,Aspirina
+8,Hector Gomez,1001234508,Calle 30 #56-78 Bucaramanga,1993-04-11,Ninguna,Ninguna
+9,Irene Salazar,1001234509,Carrera 9 #34-56 Pereira,1980-08-19,Artritis reumatoide,Ninguna
+10,Jorge Castro,1001234510,Calle 6 #12-34 Manizales,1997-02-28,Ninguna,Penicilina
+11,Karen Rios,1001234511,Carrera 20 #45-67 Bogota,1991-06-14,Anemia,Ninguna
+12,Luis Herrera,1001234512,Calle 100 #23-45 Bogota,1983-10-07,Hipertension,Ibuprofeno
+13,Monica Cruz,1001234513,Av 30 #67-89 Cali,1996-03-21,Ninguna,Ninguna
+14,Nicolas Diaz,1001234514,Carrera 5 #89-12 Medellin,1987-07-09,Epilepsia,Ninguna
+15,Olivia Mendoza,1001234515,Calle 45 #34-56 Bogota,1979-11-16,Ninguna,Latex
+16,Pablo Suarez,1001234516,Carrera 13 #12-34 Bogota,1994-01-05,Asma,Ninguna
+17,Quintero Ana,1001234517,Calle 72 #45-67 Barranquilla,1989-05-30,Ninguna,Penicilina
+18,Ricardo Lara,1001234518,Av 9 #78-90 Bogota,1976-09-18,Diabetes tipo 2,Sulfonamidas
+19,Sandra Mejia,1001234519,Calle 26 #23-45 Cucuta,1998-02-07,Ninguna,Ninguna
+20,Tomas Guerrero,1001234520,Carrera 30 #56-78 Bogota,1984-06-24,Hipertension,Ninguna
+21,ursula Parra,1001234521,Calle 13 #34-56 Pereira,1992-10-12,Ninguna,Aspirina
+22,Victor Reyes,1001234522,Carrera 11 #12-34 Manizales,1986-03-01,Hipotiroidismo,Ninguna
+23,Wendy Soto,1001234523,Av 50 #45-67 Bogota,1999-07-19,Ninguna,Ibuprofeno
+24,Xavier Romero,1001234524,Calle 19 #67-89 Medellin,1981-11-06,Anemia,Ninguna
+25,Yolanda Ortiz,1001234525,Carrera 7 #89-12 Bogota,1993-04-23,Ninguna,Penicilina
+26,Zaira Navarro,1001234526,Calle 63 #23-45 Cali,1977-08-11,Artritis,Ninguna
+27,alvaro Pineda,1001234527,Av 19 #78-90 Bogota,1995-12-29,Ninguna,Ninguna
+28,Beatriz Fuentes,1001234528,Carrera 24 #56-78 Bucaramanga,1988-05-16,Asma,Latex
+29,Cesar Aguilar,1001234529,Calle 22 #34-56 Barranquilla,1982-09-04,Diabetes tipo 1,Ninguna
+30,Diana Bermudez,1001234530,Carrera 16 #12-34 Bogota,1997-01-21,Ninguna,Ninguna
+31,Ernesto Cano,1001234531,Calle 57 #45-67 Bogota,1975-06-09,Hipertension,Penicilina
+32,Fernanda Delgado,1001234532,Av 40 #67-89 Medellin,1990-10-26,Ninguna,Ninguna
+33,Guillermo Estrada,1001234533,Carrera 3 #89-12 Bogota,1984-03-14,Epilepsia,Ibuprofeno
+34,Helena Figueroa,1001234534,Calle 34 #23-45 Cali,1996-07-02,Ninguna,Sulfonamidas
+35,Ignacio Gil,1001234535,Av 6 #78-90 Bogota,1979-11-19,Diabetes tipo 2,Ninguna
+36,Jacqueline Holguin,1001234536,Calle 11 #56-78 Pereira,1991-04-07,Ninguna,Aspirina
+37,Kevin Ibarra,1001234537,Carrera 22 #34-56 Bogota,1987-08-24,Anemia,Ninguna
+38,Liliana Jaramillo,1001234538,Av 68 #12-34 Bucaramanga,1993-12-12,Ninguna,Ninguna
+39,Mario Keller,1001234539,Calle 76 #45-67 Bogota,1980-05-30,Hipotiroidismo,Penicilina
+40,Natalia Leon,1001234540,Carrera 6 #67-89 Medellin,1998-09-17,Ninguna,Ninguna
+41,Omar Macias,1001234541,Calle 28 #89-12 Bogota,1976-02-05,Asma,Latex
+42,Patricia Nieto,1001234542,Av 30 #23-45 Cali,1989-06-22,Ninguna,Ninguna
+43,Quintin Ospina,1001234543,Carrera 10 #78-90 Bogota,1994-10-10,Hipertension,Ninguna
+44,Rosa Pacheco,1001234544,Calle 90 #56-78 Barranquilla,1983-03-28,Ninguna,Ibuprofeno
+45,Samuel Quiroga,1001234545,Av 9 #34-56 Bogota,1997-07-15,Ninguna,Ninguna
+46,Tatiana Rios,1001234546,Carrera 17 #12-34 Pereira,1981-11-03,Artritis reumatoide,Ninguna
+47,Ulises Salazar,1001234547,Calle 15 #45-67 Bogota,1995-04-20,Ninguna,Penicilina
+48,Vanessa Torres,1001234548,Av 19 #67-89 Cucuta,1986-08-08,Diabetes tipo 1,Sulfonamidas
+49,Walter Uribe,1001234549,Calle 43 #89-12 Bogota,1992-12-25,Ninguna,Ninguna
+50,Ximena Vega,1001234550,Carrera 28 #23-45 Medellin,1978-05-13,Anemia,Ninguna
+51,Yerson Zabala,1001234551,Calle 53 #78-90 Bogota,1990-09-01,Ninguna,Aspirina
+52,Zulma Acosta,1001234552,Av 30 #56-78 Cali,1985-02-18,Hipotiroidismo,Ninguna
+53,Alberto Bernal,1001234553,Carrera 5 #34-56 Bogota,1999-06-06,Ninguna,Ibuprofeno
+54,Barbara Castano,1001234554,Calle 8 #12-34 Bucaramanga,1982-10-23,Asma,Ninguna
+55,Camilo Davila,1001234555,Av 6 #45-67 Bogota,1975-03-12,Hipertension,Penicilina
+56,Daniela Echeverri,1001234556,Carrera 12 #67-89 Barranquilla,1993-07-29,Ninguna,Ninguna
+57,Eduardo Florez,1001234557,Calle 60 #89-12 Bogota,1988-11-16,Epilepsia,Latex
+58,Fabiola Garcia,1001234558,Av 40 #23-45 Pereira,1996-04-04,Ninguna,Ninguna
+59,German Huertas,1001234559,Carrera 8 #78-90 Bogota,1980-08-21,Diabetes tipo 2,Sulfonamidas
+60,Hilda Isaza,1001234560,Calle 47 #56-78 Medellin,1991-12-09,Ninguna,Ninguna
+61,Ivan Jimenez,1001234561,Av 13 #34-56 Bogota,1984-05-27,Anemia,Aspirina
+62,Juliana Krause,1001234562,Carrera 19 #12-34 Cali,1997-09-14,Ninguna,Ninguna
+63,Karolina Londono,1001234563,Calle 33 #45-67 Bogota,1979-02-02,Hipotiroidismo,Penicilina
+64,Leonardo Molina,1001234564,Av 50 #67-89 Bucaramanga,1992-06-19,Ninguna,Ninguna
+65,Marcela Naranjo,1001234565,Carrera 23 #89-12 Bogota,1986-10-07,Asma,Ibuprofeno
+66,Nicolas Olaya,1001234566,Calle 23 #23-45 Barranquilla,1994-03-24,Ninguna,Ninguna
+67,Olga Patino,1001234567,Av 19 #78-90 Bogota,1977-07-12,Hipertension,Ninguna
+68,Pedro Quintero,1001234568,Carrera 14 #56-78 Pereira,1989-11-29,Ninguna,Latex
+69,Quiroga Laura,1001234569,Calle 71 #34-56 Bogota,1983-04-17,Artritis,Ninguna
+70,Rodrigo Sanchez,1001234570,Av 9 #12-34 Medellin,1998-08-05,Ninguna,Penicilina
+71,Sofia Tamayo,1001234571,Calle 116 #45-67 Bogota,1976-12-22,Diabetes tipo 1,Sulfonamidas
+72,Tadeo Urrego,1001234572,Carrera 4 #67-89 Cali,1990-05-10,Ninguna,Ninguna
+73,Uriel Varon,1001234573,Av 30 #89-12 Bogota,1985-09-27,Epilepsia,Aspirina
+74,Valentina Wills,1001234574,Calle 39 #23-45 Bucaramanga,1993-02-15,Ninguna,Ninguna
+75,Wilson Xiomara,1001234575,Carrera 26 #78-90 Bogota,1981-06-03,Anemia,Ibuprofeno
+76,Xenia Yanez,1001234576,Calle 7 #56-78 Barranquilla,1996-10-20,Ninguna,Ninguna
+77,Yency Zapata,1001234577,Av 68 #34-56 Bogota,1978-03-09,Hipotiroidismo,Penicilina
+78,Zoraya Arango,1001234578,Carrera 9 #12-34 Pereira,1991-07-26,Ninguna,Ninguna
+79,Arturo Bedoya,1001234579,Calle 55 #45-67 Bogota,1987-11-13,Asma,Latex
+80,Blanca Correa,1001234580,Av 19 #67-89 Medellin,1995-04-01,Ninguna,Ninguna
+81,Carlos Duran,1001234581,Carrera 15 #89-12 Bogota,1982-08-18,Hipertension,Sulfonamidas
+82,Dayana Espitia,1001234582,Calle 94 #23-45 Cali,1999-12-06,Ninguna,Ninguna
+83,Esteban Fajardo,1001234583,Av 6 #78-90 Bogota,1975-05-24,Diabetes tipo 2,Aspirina
+84,Flor Gonzalez,1001234584,Carrera 21 #56-78 Bucaramanga,1988-09-11,Ninguna,Ninguna
+85,Gilberto Hoyos,1001234585,Calle 18 #34-56 Bogota,1994-02-28,Artritis reumatoide,Penicilina
+86,Hortencia Infante,1001234586,Av 40 #12-34 Barranquilla,1979-06-16,Ninguna,Ninguna
+87,Isaias Jaimes,1001234587,Carrera 7 #45-67 Bogota,1992-10-04,Epilepsia,Ibuprofeno
+88,Janeth Kuevas,1001234588,Calle 42 #67-89 Pereira,1984-02-21,Ninguna,Ninguna
+89,Kenner Lerma,1001234589,Av 30 #89-12 Bogota,1997-06-09,Anemia,Ninguna
+90,Lorena Mantilla,1001234590,Carrera 13 #23-45 Medellin,1981-10-26,Ninguna,Latex
+91,Miguel Nieves,1001234591,Calle 66 #78-90 Bogota,1976-03-15,Hipotiroidismo,Penicilina
+92,Nelly Ordonez,1001234592,Av 9 #56-78 Cali,1989-07-02,Ninguna,Ninguna
+93,Osvaldo Pinto,1001234593,Carrera 6 #34-56 Bogota,1993-11-19,Asma,Sulfonamidas
+94,Piedad Ramos,1001234594,Calle 5 #12-34 Bucaramanga,1985-04-07,Ninguna,Ninguna
+95,Querubin Rojas,1001234595,Av 68 #45-67 Bogota,1998-08-24,Hipertension,Aspirina
+96,Raquel Sierra,1001234596,Carrera 10 #67-89 Barranquilla,1980-12-12,Ninguna,Ninguna
+97,Silvio Trujillo,1001234597,Calle 50 #89-12 Bogota,1994-05-30,Diabetes tipo 1,Ibuprofeno
+98,Teresa Urquijo,1001234598,Av 19 #23-45 Pereira,1983-09-17,Ninguna,Ninguna
+99,Ubaldo Valencia,1001234599,Carrera 18 #78-90 Bogota,1977-02-05,Artritis,Penicilina
+100,Violeta Zapata,1001234600,Calle 24 #56-78 Medellin,1990-06-22,Ninguna,Ninguna

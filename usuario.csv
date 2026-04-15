@@ -1,0 +1,15 @@
+idUsuario,nombreUsuario,telefono,correoElectronico,tipoDocumento,userName,contrasena
+1,Laura Gómez Ruiz,3101234567,laura.gomez@clinica.com,CC,lgomez,Pass1234
+2,Andrés Martínez,3112345678,andres.martinez@clinica.com,CC,amartinez,Pass2345
+3,Camila Torres,3123456789,camila.torres@clinica.com,CC,ctorres,Pass3456
+4,Felipe Herrera,3134567890,felipe.herrera@clinica.com,CC,fherrera,Pass4567
+5,Daniela Ríos,3145678901,daniela.rios@clinica.com,CC,drios,Pass5678
+6,Sebastián Mora,3156789012,sebastian.mora@clinica.com,CC,smora,Pass6789
+7,Valentina Cruz,3167890123,valentina.cruz@clinica.com,CC,vcruz,Pass7890
+8,Julián Pérez,3178901234,julian.perez@clinica.com,CC,jperez,Pass8901
+9,Mariana Salcedo,3189012345,mariana.salcedo@clinica.com,CC,msalcedo,Pass9012
+10,Diego Castillo,3190123456,diego.castillo@clinica.com,CC,dcastillo,Pass0123
+11,Carlos Mendoza,3201234567,carlos.mendoza@clinica.com,CC,cmendoza,DocPass01
+12,Patricia Suárez,3212345678,patricia.suarez@clinica.com,CC,psuarez,DocPass02
+13,Roberto Vargas,3223456789,roberto.vargas@clinica.com,CC,rvargas,DocPass03
+14,Lucía Fernández,3234567890,lucia.fernandez@clinica.com,CC,lfernandez,DocPass04
