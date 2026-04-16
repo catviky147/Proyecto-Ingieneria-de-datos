@@ -1,0 +1,101 @@
+idHistoriaClinica,fechaApertura,estado,observaciones,pacienteFK
+1,2022-01-10,Activa,Paciente con hipertensión controlada. Se recomienda anestesia sin vasoconstrictor.,1
+2,2022-01-15,Activa,Paciente diabético. Control glucémico previo a procedimientos.,2
+3,2022-02-01,Activa,Sin antecedentes relevantes. Motivo consulta: dolor molar inferior derecho.,3
+4,2022-02-10,Activa,Paciente asmático. Evitar AINES. Traer inhalador a consultas.,4
+5,2022-02-20,Activa,Primera consulta. Revisión general. Requiere limpieza y sellantes.,5
+6,2022-03-05,Activa,Hipotiroidismo en tratamiento. Verificar medicamentos antes de procedimientos.,6
+7,2022-03-12,Activa,Diabética tipo 1. Citas matutinas preferibles. Monitoreo glucosa.,7
+8,2022-03-20,Activa,Sin preexistencias. Consulta por sensibilidad dental generalizada.,8
+9,2022-04-01,Activa,Artritis reumatoide. Limitación apertura bucal. Citas cortas.,9
+10,2022-04-10,Activa,Alérgico a penicilina. Usar amoxicilina alternativa clindamicina.,10
+11,2022-04-18,Activa,Anemia. Hemograma reciente solicitado antes de cirugía.,11
+12,2022-05-02,Activa,Hipertensión. Toma enalapril. Control PA antes de cada cita.,12
+13,2022-05-15,Activa,Sin preexistencias. Ortodoncia estética solicitada.,13
+14,2022-05-22,Activa,Epilepsia controlada. Evitar estrés. Citas cortas y tranquilas.,14
+15,2022-06-01,Activa,Alérgica a látex. Usar guantes de nitrilo en todo procedimiento.,15
+16,2022-06-10,Activa,Asma leve. Consulta por revisión general y profilaxis.,16
+17,2022-06-20,Activa,Alérgica a penicilina. Requiere extracción tercer molar.,17
+18,2022-07-05,Activa,Diabetes tipo 2. Requiere endodoncia molar superior izquierdo.,18
+19,2022-07-15,Activa,Sin antecedentes. Motivo: caries múltiples. Plan de tratamiento extenso.,19
+20,2022-07-25,Activa,Hipertensión moderada. Consulta periodoncia por sangrado encías.,20
+21,2022-08-02,Activa,Alérgica a aspirina. Dolor agudo molar inferior.,21
+22,2022-08-12,Activa,Hipotiroidismo. Caries cervical múltiple. Iniciar remineralización.,22
+23,2022-08-22,Activa,Alérgica ibuprofeno. Bruxismo severo. Requiere férula oclusal.,23
+24,2022-09-01,Activa,Anemia aplásica. Consulta previa con médico tratante requerida.,24
+25,2022-09-10,Activa,Alérgica penicilina. Tratamiento periodontal fase I.,25
+26,2022-09-20,Activa,Artritis. Fisioterapia ATM recomendada. Dolor articular.,26
+27,2022-10-03,Activa,Sin preexistencias. Implante dental región 46 planificado.,27
+28,2022-10-12,Activa,Asmática. Alérgica látex. Requiere limpieza profesional semestral.,28
+29,2022-10-22,Activa,Diabetes tipo 1. Cicatrización lenta. Controles postoperatorios.,29
+30,2022-11-01,Activa,Sin antecedentes. Primera consulta adulto joven. Revisión completa.,30
+31,2022-11-10,Activa,Hipertensión. Toma losartán. Extracciones contraindicadas sin control médico.,31
+32,2022-11-20,Activa,Sin preexistencias. Blanqueamiento dental y ortodoncia estética.,32
+33,2022-12-01,Activa,Epilepsia. Fenobarbital genera hiperplasia gingival. Control periódico.,33
+34,2022-12-12,Activa,Alérgica sulfonamidas. Caries interproximales múltiples.,34
+35,2022-12-22,Activa,Diabetes tipo 2. Endodoncia urgente por absceso periapical.,35
+36,2023-01-10,Activa,Alérgica aspirina. Revisión general. Sin caries activas.,36
+37,2023-01-20,Activa,Anemia. Extracción indicada piezas 17 y 47.,37
+38,2023-02-01,Activa,Sin preexistencias. Control ortodoncia mensual.,38
+39,2023-02-10,Activa,Hipotiroidismo. Xerostomía asociada. Uso de saliva artificial.,39
+40,2023-02-20,Activa,Sin preexistencias. Implante oseointegrado región 36.,40
+41,2023-03-01,Activa,Asmático. Alérgico látex. Prótesis parcial removible inferior.,41
+42,2023-03-12,Activa,Sin preexistencias. Tratamiento periodontal mantenimiento.,42
+43,2023-03-22,Activa,Hipertensión. Revisión semestral. Profilaxis indicada.,43
+44,2023-04-01,Activa,Alérgica ibuprofeno. Dolor crónico ATM. Tratamiento multidisciplinario.,44
+45,2023-04-12,Activa,Sin preexistencias. Revisión primer consulta. Caries oclusal pieza 36.,45
+46,2023-04-22,Activa,Artritis reumatoide. Higiene oral adaptada. Cepillo eléctrico.,46
+47,2023-05-02,Activa,Alérgico penicilina. Control postoperatorio extracción.,47
+48,2023-05-12,Activa,Diabetes tipo 1. Alérgica sulfonamidas. Control periódico mucosa.,48
+49,2023-05-22,Activa,Sin preexistencias. Ortodoncia brackets metálicos.,49
+50,2023-06-01,Activa,Anemia. Prótesis total superior e inferior planificada.,50
+51,2023-06-10,Activa,Alérgico aspirina. Bruxismo nocturno. Férula de descarga.,51
+52,2023-06-20,Activa,Hipotiroidismo. Endodoncia pieza 21.,52
+53,2023-07-01,Activa,Alérgico ibuprofeno. Caries múltiples. Plan restaurativo amplio.,53
+54,2023-07-12,Activa,Asmática. Sin caries. Profilaxis semestral.,54
+55,2023-07-22,Activa,Hipertensión. Alérgico penicilina. Extracción pieza 28.,55
+56,2023-08-01,Activa,Sin preexistencias. Revisión pediátrica adolescente.,56
+57,2023-08-12,Activa,Epilepsia. Alérgico látex. Control encías y mucosa.,57
+58,2023-08-22,Activa,Sin preexistencias. Blanqueamiento dental profesional.,58
+59,2023-09-01,Activa,Diabetes tipo 2. Alérgico sulfonamidas. Mantenimiento periodontal.,59
+60,2023-09-12,Activa,Sin preexistencias. Revisión semestral sin hallazgos relevantes.,60
+61,2023-09-22,Activa,Anemia. Alérgico aspirina. Sangrado post extracción moderado.,61
+62,2023-10-01,Activa,Sin preexistencias. Ortodoncia alineadores Invisalign.,62
+63,2023-10-12,Activa,Hipotiroidismo. Alérgica penicilina. Caries radicular.,63
+64,2023-10-22,Activa,Sin preexistencias. Implante unitario región 46 oseointegrado.,64
+65,2023-11-01,Activa,Asmática. Alérgica ibuprofeno. Revisión ortodoncia.,65
+66,2023-11-12,Activa,Sin preexistencias. Extracción terceros molares superiores.,66
+67,2023-11-22,Activa,Hipertensión. Mantenimiento periodontal trimestral.,67
+68,2023-12-01,Activa,Alérgico látex. Control postoperatorio implante.,68
+69,2023-12-12,Activa,Artritis. Prótesis fija puente 3 piezas región anterior.,69
+70,2023-12-22,Activa,Alérgico penicilina. Sensibilidad dentinaria generalizada.,70
+71,2024-01-10,Activa,Diabetes tipo 1. Alérgica sulfonamidas. Control mucosa oral.,71
+72,2024-01-20,Activa,Sin preexistencias. Cirugía periodontal colgajo.,72
+73,2024-02-01,Activa,Epilepsia. Alérgico aspirina. Revisión semestral.,73
+74,2024-02-12,Activa,Sin preexistencias. Ortodoncia fase de retención.,74
+75,2024-02-22,Activa,Anemia. Alérgico ibuprofeno. Extracción indicada.,75
+76,2024-03-01,Activa,Sin preexistencias. Revisión general primera vez.,76
+77,2024-03-12,Activa,Hipotiroidismo. Alérgica penicilina. Xerostomía tratada.,77
+78,2024-03-22,Activa,Sin preexistencias. Profilaxis y sellantes preventivos.,78
+79,2024-04-01,Activa,Asmático. Alérgico látex. Urgencia dolor agudo pieza 46.,79
+80,2024-04-12,Activa,Sin preexistencias. Control ortodoncia y ajuste arcos.,80
+81,2024-04-22,Activa,Hipertensión. Alérgico sulfonamidas. Exodoncia simple.,81
+82,2024-05-02,Activa,Sin preexistencias. Revisión general anual.,82
+83,2024-05-12,Activa,Diabetes tipo 2. Alérgico aspirina. Profilaxis y raspaje.,83
+84,2024-05-22,Activa,Sin preexistencias. Carillas de porcelana estética.,84
+85,2024-06-01,Activa,Artritis reumatoide. Alérgico penicilina. Prótesis removible.,85
+86,2024-06-12,Activa,Sin preexistencias. Revisión semestral sin novedad.,86
+87,2024-06-22,Activa,Epilepsia. Alérgico ibuprofeno. Control hiperplasia gingival.,87
+88,2024-07-01,Activa,Sin preexistencias. Endodoncia urgente pieza 16.,88
+89,2024-07-12,Activa,Anemia. Sin alergias. Revisión pre quirúrgica.,89
+90,2024-07-22,Activa,Alérgica látex. Tratamiento periodontal fase II.,90
+91,2024-08-01,Activa,Hipotiroidismo. Alérgico penicilina. Revisión prostodoncia.,91
+92,2024-08-12,Activa,Sin preexistencias. Blanqueamiento y profilaxis.,92
+93,2024-08-22,Activa,Asmático. Alérgico sulfonamidas. Control asintomático.,93
+94,2024-09-01,Activa,Sin preexistencias. Extracción molar retenido.,94
+95,2024-09-12,Activa,Hipertensión. Alérgico aspirina. Control periódico PA.,95
+96,2024-09-22,Activa,Sin preexistencias. Revisión anual. Sin hallazgos.,96
+97,2024-10-01,Activa,Diabetes tipo 1. Alérgico ibuprofeno. Raspaje y alisado.,97
+98,2024-10-12,Activa,Sin preexistencias. Revisión postoperatoria extracción.,98
+99,2024-10-22,Activa,Artritis. Alérgico penicilina. Control ATM semestral.,99
+100,2024-11-01,Activa,Sin preexistencias. Primera consulta. Plan preventivo.,100

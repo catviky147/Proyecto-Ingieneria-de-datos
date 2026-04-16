@@ -1,0 +1,201 @@
+idCity,odontologoFK,paciente,horario,tratamiento,pagoFK
+1,1,1,2022-01-12 08:00:00,Brackets metálicos superiores e inferiores,1
+2,2,2,2022-01-17 09:00:00,Endodoncia molar inferior derecho,2
+3,3,3,2022-02-03 10:00:00,Raspaje y alisado radicular,3
+4,4,4,2022-02-12 08:30:00,Profilaxis y aplicación de flúor,4
+5,1,5,2022-02-22 11:00:00,Instalación retenedor fijo inferior,5
+6,2,6,2022-03-07 09:30:00,Endodoncia premolar superior izquierdo,6
+7,3,7,2022-03-14 08:00:00,Cirugía periodontal colgajo,7
+8,4,8,2022-03-22 10:30:00,Sellantes en molares permanentes,8
+9,1,9,2022-04-03 09:00:00,Ajuste de arcos ortodoncia,9
+10,2,10,2022-04-12 11:00:00,Endodoncia incisivo central superior,10
+11,3,11,2022-04-20 08:30:00,Mantenimiento periodontal trimestral,11
+12,4,12,2022-05-04 09:00:00,Extracción tercer molar inferior derecho,12
+13,1,13,2022-05-17 10:00:00,Colocación brackets cerámicos superiores,13
+14,2,14,2022-05-24 08:00:00,Endodoncia molar superior izquierdo,14
+15,3,15,2022-06-03 11:30:00,Raspaje supragingival,15
+16,4,16,2022-06-12 09:30:00,Profilaxis y control de caries,16
+17,1,17,2022-06-22 08:00:00,Retiro de brackets y toma de impresiones,17
+18,2,18,2022-07-07 10:00:00,Endodoncia premolar inferior izquierdo,18
+19,3,19,2022-07-17 09:00:00,Raspaje y alisado cuadrante superior derecho,19
+20,4,20,2022-07-27 08:30:00,Exodoncia simple pieza 28,20
+21,1,21,2022-08-04 11:00:00,Colocación alineadores Invisalign,21
+22,2,22,2022-08-14 09:00:00,Endodoncia molar inferior izquierdo,22
+23,3,23,2022-08-24 10:30:00,Cirugía resectiva periodontal,23
+24,4,24,2022-09-03 08:00:00,Sellantes preventivos en premolares,24
+25,1,25,2022-09-12 09:30:00,Ajuste alineadores y control ortodoncia,25
+26,2,26,2022-09-22 11:00:00,Retratamiento endodóntico molar superior,26
+27,3,27,2022-10-05 08:30:00,Mantenimiento periodontal implante,27
+28,4,28,2022-10-14 09:00:00,Profilaxis ultrasónica y pulido coronal,28
+29,1,29,2022-10-24 10:00:00,Control mensual ortodoncia brackets,29
+30,2,30,2022-11-03 08:00:00,Endodoncia canino superior derecho,30
+31,3,31,2022-11-12 11:30:00,Raspaje subgingival cuadrante inferior,31
+32,4,32,2022-11-22 09:30:00,Extracción molar retenido inferior,32
+33,1,33,2022-12-03 08:00:00,Colocación retenedor removible superior,33
+34,2,34,2022-12-14 10:00:00,Endodoncia segundo molar superior derecho,34
+35,3,35,2022-12-24 09:00:00,Curetaje cerrado cuadrante superior izquierdo,35
+36,4,36,2023-01-11 08:30:00,Control de erupción en niño,36
+37,1,37,2023-01-22 11:00:00,Brackets metálicos fase activa,37
+38,2,38,2023-02-03 09:00:00,Endodoncia molar inferior derecho con calcificación,38
+39,3,39,2023-02-12 10:30:00,Mantenimiento periodontal semestral,39
+40,4,40,2023-02-22 08:00:00,Exodoncia piezas 17 y 47,40
+41,1,41,2023-03-03 09:30:00,Control ortodoncia y activación arcos,41
+42,2,42,2023-03-14 11:00:00,Endodoncia urgencia por absceso,42
+43,3,43,2023-03-24 08:30:00,Raspaje y alisado cuatro cuadrantes,43
+44,4,44,2023-04-03 09:00:00,Profilaxis pediátrica y sellantes,44
+45,1,45,2023-04-14 10:00:00,Instalación brackets sapphire superiores,45
+46,2,46,2023-04-24 08:00:00,Endodoncia molar superior derecho,46
+47,3,47,2023-05-04 11:30:00,Cirugía de alargamiento coronal,47
+48,4,48,2023-05-14 09:30:00,Extracción tercer molar superior izquierdo,48
+49,1,49,2023-05-24 08:00:00,Ajuste brackets y cambio ligaduras,49
+50,2,50,2023-06-03 10:00:00,Endodoncia incisivo lateral superior,50
+51,3,51,2023-06-12 09:00:00,Raspaje subgingival zona anterior,51
+52,4,52,2023-06-22 08:30:00,Exodoncia simple pieza 48,52
+53,1,53,2023-07-03 11:00:00,Colocación arco de nivelación NiTi,53
+54,2,54,2023-07-14 09:00:00,Endodoncia primer molar superior izquierdo,54
+55,3,55,2023-07-24 10:30:00,Mantenimiento periodontal con irrigación,55
+56,4,56,2023-08-03 08:00:00,Profilaxis y detartraje supragingival,56
+57,1,57,2023-08-14 09:30:00,Control retenedor y revisión periódica,57
+58,2,58,2023-08-24 11:00:00,Endodoncia segundo premolar inferior,58
+59,3,59,2023-09-03 08:30:00,Raspaje y alisado radicular cuadrante posterior,59
+60,4,60,2023-09-14 09:00:00,Extracción restos radiculares pieza 36,60
+61,1,61,2023-09-24 10:00:00,Alineadores Invisalign control mensual,61
+62,2,62,2023-10-03 08:00:00,Endodoncia molar con hipercalcificación,62
+63,3,63,2023-10-14 11:30:00,Curetaje abierto zona posterior,63
+64,4,64,2023-10-24 09:30:00,Control implante oseointegrado,64
+65,1,65,2023-11-03 08:00:00,Activación arcos ortodoncia fase cierre,65
+66,2,66,2023-11-14 10:00:00,Endodoncia tercer molar inferior,66
+67,3,67,2023-11-24 09:00:00,Mantenimiento implante con sonda periodontal,67
+68,4,68,2023-12-03 08:30:00,Extracción tercer molar inferior izquierdo,68
+69,1,69,2023-12-14 11:00:00,Colocación brackets en paciente adulto,69
+70,2,70,2023-12-24 09:00:00,Endodoncia canino inferior derecho,70
+71,3,71,2024-01-12 10:30:00,Raspaje cuadrante inferior derecho,71
+72,4,72,2024-01-22 08:00:00,Profilaxis y revisión general,72
+73,1,73,2024-02-03 09:30:00,Control ortodoncia y toma de registros,73
+74,2,74,2024-02-14 11:00:00,Endodoncia molar con reabsorción interna,74
+75,3,75,2024-02-24 08:30:00,Curetaje cerrado zona anterior superior,75
+76,4,76,2024-03-03 09:00:00,Exodoncia simple pieza 24,76
+77,1,77,2024-03-14 10:00:00,Ajuste retenedor y control retención,77
+78,2,78,2024-03-24 08:00:00,Endodoncia premolar superior con dilaceración,78
+79,3,79,2024-04-03 11:30:00,Cirugía periodontal estética,79
+80,4,80,2024-04-14 09:30:00,Control desarrollo dental niño,80
+81,1,81,2024-04-24 08:00:00,Brackets metálicos control fase retención,81
+82,2,82,2024-05-04 10:00:00,Endodoncia urgencia dolor agudo,82
+83,3,83,2024-05-14 09:00:00,Raspaje y alisado cuatro cuadrantes con anestesia,83
+84,4,84,2024-05-24 08:30:00,Extracción molar inferior retenido con odontosección,84
+85,1,85,2024-06-03 11:00:00,Instalación brackets paciente adulto mayor,85
+86,2,86,2024-06-14 09:00:00,Endodoncia control postoperatorio,86
+87,3,87,2024-06-24 10:30:00,Mantenimiento periodontal con antibioticoterapia,87
+88,4,88,2024-07-03 08:00:00,Profilaxis y sellantes en adolescente,88
+89,1,89,2024-07-14 09:30:00,Toma de impresiones para alineadores,89
+90,2,90,2024-07-24 11:00:00,Endodoncia molar superior con cuatro conductos,90
+91,3,91,2024-08-03 08:30:00,Cirugía resectiva zona posterior inferior,91
+92,4,92,2024-08-14 09:00:00,Exodoncia simple pieza 14,92
+93,1,93,2024-08-24 10:00:00,Ajuste arcos y control ortodoncia,93
+94,2,94,2024-09-03 08:00:00,Endodoncia molar inferior con curvatura,94
+95,3,95,2024-09-14 11:30:00,Mantenimiento periodontal mensual,95
+96,4,96,2024-09-24 09:30:00,Profilaxis y revisión semestral,96
+97,1,97,2024-10-03 08:00:00,Control ortodoncia fase finalización,97
+98,2,98,2024-10-14 10:00:00,Endodoncia segundo molar inferior izquierdo,98
+99,3,99,2024-10-24 09:00:00,Raspaje y alisado zona anterior inferior,99
+100,4,100,2024-11-03 08:30:00,Extracción tercer molar superior derecho,100
+101,1,1,2024-11-14 11:00:00,Retiro de brackets y pulido dental,101
+102,2,2,2024-11-24 09:00:00,Endodoncia molar con fístula activa,102
+103,3,3,2024-12-03 10:30:00,Curetaje abierto zona posterior superior,103
+104,4,4,2024-12-14 08:00:00,Control sellantes y profilaxis,104
+105,1,5,2024-12-24 09:30:00,Colocación retenedor removible inferior,105
+106,2,6,2025-01-05 11:00:00,Endodoncia pieza con reabsorción externa,106
+107,3,7,2025-01-15 08:30:00,Mantenimiento periodontal con sonda Florida,107
+108,4,8,2025-01-25 09:00:00,Exodoncia molar superior con odontosección,108
+109,1,9,2025-02-05 10:00:00,Ajuste alineadores control bimensual,109
+110,2,10,2025-02-15 08:00:00,Endodoncia urgencia absceso periapical,110
+111,3,11,2025-02-25 11:30:00,Raspaje y alisado radicular zona posterior,111
+112,4,12,2025-03-05 09:30:00,Control postoperatorio exodoncia,112
+113,1,13,2025-03-15 08:00:00,Brackets sapphire ajuste y progreso,113
+114,2,14,2025-03-25 10:00:00,Endodoncia molar con lesión periapical crónica,114
+115,3,15,2025-04-05 09:00:00,Cirugía periodontal regenerativa,115
+116,4,16,2025-04-15 08:30:00,Profilaxis ultrasónica y fluorización,116
+117,1,17,2025-04-25 11:00:00,Control retenedor fijo inferior,117
+118,2,18,2025-05-05 09:00:00,Endodoncia premolar con conducto en S,118
+119,3,19,2025-05-15 10:30:00,Mantenimiento periodontal implante múltiple,119
+120,4,20,2025-05-25 08:00:00,Extracción molar inferior con quiste folicular,120
+121,1,21,2025-06-05 09:30:00,Alineadores Invisalign cambio de etapa,121
+122,2,22,2025-06-15 11:00:00,Endodoncia molar inferior con bifurcación,122
+123,3,23,2025-06-25 08:30:00,Curetaje cerrado y antibiótico sistémico,123
+124,4,24,2025-07-05 09:00:00,Profilaxis y orientación higiene oral,124
+125,1,25,2025-07-15 10:00:00,Activación ortodoncia y fotografías de progreso,125
+126,2,26,2025-07-25 08:00:00,Endodoncia con obturación termoplástica,126
+127,3,27,2025-08-05 11:30:00,Mantenimiento implante y control óseo,127
+128,4,28,2025-08-15 09:30:00,Exodoncia tercer molar incluido con pericoronaritis,128
+129,1,29,2025-08-25 08:00:00,Control alineadores y ajuste de presión,129
+130,2,30,2025-09-05 10:00:00,Endodoncia molar superior con taurodontismo,130
+131,3,31,2025-09-15 09:00:00,Raspaje cuadrante superior izquierdo,131
+132,4,32,2025-09-25 08:30:00,Control de erupción y profilaxis,132
+133,1,33,2025-10-05 11:00:00,Brackets metálicos fase de cierre espacios,133
+134,2,34,2025-10-15 09:00:00,Endodoncia con microscopio operatorio,134
+135,3,35,2025-10-25 10:30:00,Mantenimiento periodontal pos-cirugía,135
+136,4,36,2025-11-05 08:00:00,Sellantes en primeros molares permanentes,136
+137,1,37,2025-11-15 09:30:00,Control ortodoncia y ajuste torque,137
+138,2,38,2025-11-25 11:00:00,Endodoncia molar con condensación lateral,138
+139,3,39,2025-12-05 08:30:00,Raspaje y alisado radicular completo,139
+140,4,40,2025-12-15 09:00:00,Extracción molar inferior con anestesia local,140
+141,1,41,2025-12-25 10:00:00,Colocación alineadores nueva serie,141
+142,2,42,2026-01-05 08:00:00,Endodoncia canino con conducto lateral,142
+143,3,43,2026-01-15 11:30:00,Mantenimiento periodontal y revisión implantes,143
+144,4,44,2026-01-25 09:30:00,Profilaxis y detartraje en paciente sistémico,144
+145,1,45,2026-02-05 08:00:00,Control retención ortodoncia alineadores,145
+146,2,46,2026-02-15 10:00:00,Endodoncia segundo premolar superior,146
+147,3,47,2026-02-25 09:00:00,Curetaje abierto zona anterior inferior,147
+148,4,48,2026-03-05 08:30:00,Extracción simple pieza 34 con raíz fracturada,148
+149,1,49,2026-03-15 11:00:00,Brackets metálicos control y cambio arco,149
+150,2,50,2026-03-25 09:00:00,Endodoncia urgente por necrosis pulpar,150
+151,3,51,2026-01-08 10:30:00,Raspaje subgingival con ultrasonido,151
+152,4,52,2026-01-18 08:00:00,Exodoncia tercer molar superior derecho,152
+153,1,53,2026-02-02 09:30:00,Ajuste alineadores y evaluación de cierre,153
+154,2,54,2026-02-12 11:00:00,Endodoncia pieza vital con síntomas agudos,154
+155,3,55,2026-02-22 08:30:00,Mantenimiento periodontal pos-raspaje,155
+156,4,56,2026-03-02 09:00:00,Profilaxis y revisión niño 8 años,156
+157,1,57,2026-03-10 10:00:00,Control ortodoncia y toma de fotografías,157
+158,2,58,2026-03-18 08:00:00,Endodoncia segundo molar con anatomía compleja,158
+159,3,59,2026-03-28 11:30:00,Cirugía periodontal de regeneración ósea,159
+160,4,60,2026-04-01 09:30:00,Extracción molar con elevación de seno maxilar,160
+161,1,61,2022-03-10 08:00:00,Instalación brackets primera consulta,161
+162,2,62,2022-05-20 09:00:00,Endodoncia molar inferior por trauma,162
+163,3,63,2022-07-15 10:30:00,Raspaje y alisado radicular inicial,163
+164,4,64,2022-09-05 08:00:00,Control implante región 46,164
+165,1,65,2022-11-18 09:30:00,Ajuste brackets y elásticos intermaxilares,165
+166,2,66,2023-01-25 11:00:00,Endodoncia molar superior con cuatro conductos,166
+167,3,67,2023-03-08 08:30:00,Mantenimiento periodontal con desbridamiento,167
+168,4,68,2023-05-20 09:00:00,Extracción quirúrgica molar retenido,168
+169,1,69,2023-07-12 10:00:00,Control ortodoncia adulto mayor,169
+170,2,70,2023-09-25 08:00:00,Endodoncia pieza con reabsorción radicular,170
+171,3,71,2023-11-08 11:30:00,Curetaje cerrado con irrigación de clorhexidina,171
+172,4,72,2024-01-20 09:30:00,Profilaxis y aplicación de flúor profesional,172
+173,1,73,2024-03-10 08:00:00,Brackets ajuste y control radiográfico,173
+174,2,74,2024-05-22 10:00:00,Endodoncia molar inferior con obturación termoplástica,174
+175,3,75,2024-07-08 09:00:00,Raspaje subgingival con antibiótico local,175
+176,4,76,2024-09-18 08:30:00,Exodoncia premolar con restos radiculares,176
+177,1,77,2024-11-05 11:00:00,Retiro brackets y toma de modelos finales,177
+178,2,78,2025-01-20 09:00:00,Endodoncia canino superior con conducto curvo,178
+179,3,79,2025-03-10 10:30:00,Mantenimiento periodontal con evaluación ósea,179
+180,4,80,2025-05-22 08:00:00,Control de maloclusión en adolescente,180
+181,1,81,2025-07-08 09:30:00,Alineadores control y refinamiento,181
+182,2,82,2025-09-18 11:00:00,Endodoncia molar con cámara calcificada,182
+183,3,83,2025-11-05 08:30:00,Raspaje y alisado con perioscopia,183
+184,4,84,2026-01-20 09:00:00,Extracción molar superior con sinusitis maxilar,184
+185,1,85,2022-04-25 10:00:00,Instalación brackets en adulto mayor,185
+186,2,86,2022-08-10 08:00:00,Endodoncia molar con absceso crónico,186
+187,3,87,2022-12-05 11:30:00,Cirugía periodontal con injerto de tejido blando,187
+188,4,88,2023-04-18 09:30:00,Control postoperatorio extracción múltiple,188
+189,1,89,2023-08-08 08:00:00,Toma de impresiones para brackets,189
+190,2,90,2023-12-20 10:00:00,Endodoncia de urgencia pieza necrótica,190
+191,3,91,2024-04-10 09:00:00,Mantenimiento periodontal y revisión prótesis,191
+192,4,92,2024-08-22 08:30:00,Profilaxis semestral y control de higiene,192
+193,1,93,2024-12-08 11:00:00,Ajuste alineadores y control de espacios,193
+194,2,94,2025-04-20 09:00:00,Endodoncia molar inferior con instrucción rotatoria,194
+195,3,95,2025-08-10 10:30:00,Raspaje y alisado urgente por periodontitis aguda,195
+196,4,96,2025-12-22 08:00:00,Extracción diente temporal persistente,196
+197,1,97,2026-02-08 09:30:00,Control ortodoncia y evaluación de torque,197
+198,2,98,2026-03-20 11:00:00,Endodoncia segundo molar con dos conductos,198
+199,3,99,2026-04-02 08:30:00,Mantenimiento periodontal anual,199
+200,4,100,2026-04-08 09:00:00,Profilaxis y sellantes preventivos,200

@@ -1,0 +1,201 @@
+idPago,fecha,monto,metodoPago,estado
+1,2022-01-12,80000,Efectivo,Pagado
+2,2022-01-17,150000,Tarjeta Débito,Pagado
+3,2022-02-03,120000,Transferencia,Pagado
+4,2022-02-12,200000,Tarjeta Crédito,Pagado
+5,2022-02-22,60000,Efectivo,Pagado
+6,2022-03-07,180000,Transferencia,Pagado
+7,2022-03-14,90000,Efectivo,Pagado
+8,2022-03-22,110000,Tarjeta Débito,Pagado
+9,2022-04-03,75000,Transferencia,Pagado
+10,2022-04-12,140000,Tarjeta Crédito,Pagado
+11,2022-04-20,85000,Efectivo,Pagado
+12,2022-05-04,160000,Tarjeta Débito,Pagado
+13,2022-05-17,95000,Transferencia,Pagado
+14,2022-05-24,210000,Tarjeta Crédito,Pagado
+15,2022-06-03,70000,Efectivo,Pagado
+16,2022-06-12,130000,Tarjeta Débito,Pagado
+17,2022-06-22,88000,Transferencia,Pagado
+18,2022-07-07,175000,Tarjeta Crédito,Pagado
+19,2022-07-17,65000,Efectivo,Pagado
+20,2022-07-27,145000,Tarjeta Débito,Pagado
+21,2022-08-04,92000,Transferencia,Pagado
+22,2022-08-14,190000,Tarjeta Crédito,Pagado
+23,2022-08-24,78000,Efectivo,Pagado
+24,2022-09-03,115000,Tarjeta Débito,Pagado
+25,2022-09-12,135000,Transferencia,Pagado
+26,2022-09-22,220000,Tarjeta Crédito,Pagado
+27,2022-10-05,82000,Efectivo,Pagado
+28,2022-10-14,168000,Tarjeta Débito,Pagado
+29,2022-10-24,98000,Transferencia,Pagado
+30,2022-11-03,125000,Tarjeta Crédito,Pagado
+31,2022-11-12,73000,Efectivo,Pagado
+32,2022-11-22,185000,Tarjeta Débito,Pagado
+33,2022-12-03,105000,Transferencia,Pagado
+34,2022-12-14,195000,Tarjeta Crédito,Pagado
+35,2022-12-24,67000,Efectivo,Pagado
+36,2023-01-11,142000,Tarjeta Débito,Pagado
+37,2023-01-22,88000,Transferencia,Pagado
+38,2023-02-03,215000,Tarjeta Crédito,Pagado
+39,2023-02-12,77000,Efectivo,Pagado
+40,2023-02-22,158000,Tarjeta Débito,Pagado
+41,2023-03-03,93000,Transferencia,Pagado
+42,2023-03-14,172000,Tarjeta Crédito,Pagado
+43,2023-03-24,86000,Efectivo,Pagado
+44,2023-04-03,128000,Tarjeta Débito,Pagado
+45,2023-04-14,110000,Transferencia,Pagado
+46,2023-04-24,235000,Tarjeta Crédito,Pagado
+47,2023-05-04,72000,Efectivo,Pagado
+48,2023-05-14,165000,Tarjeta Débito,Pagado
+49,2023-05-24,102000,Transferencia,Pagado
+50,2023-06-03,188000,Tarjeta Crédito,Pagado
+51,2023-06-12,81000,Efectivo,Pagado
+52,2023-06-22,148000,Tarjeta Débito,Pagado
+53,2023-07-03,96000,Transferencia,Pagado
+54,2023-07-14,205000,Tarjeta Crédito,Pagado
+55,2023-07-24,74000,Efectivo,Pagado
+56,2023-08-03,138000,Tarjeta Débito,Pagado
+57,2023-08-14,118000,Transferencia,Pagado
+58,2023-08-24,225000,Tarjeta Crédito,Pagado
+59,2023-09-03,83000,Efectivo,Pagado
+60,2023-09-14,155000,Tarjeta Débito,Pagado
+61,2023-09-24,107000,Transferencia,Pagado
+62,2023-10-03,198000,Tarjeta Crédito,Pagado
+63,2023-10-14,76000,Efectivo,Pagado
+64,2023-10-24,162000,Tarjeta Débito,Pagado
+65,2023-11-03,91000,Transferencia,Pagado
+66,2023-11-14,178000,Tarjeta Crédito,Pagado
+67,2023-11-24,68000,Efectivo,Pagado
+68,2023-12-03,132000,Tarjeta Débito,Pagado
+69,2023-12-14,115000,Transferencia,Pagado
+70,2023-12-24,242000,Tarjeta Crédito,Pagado
+71,2024-01-12,85000,Efectivo,Pagado
+72,2024-01-22,172000,Tarjeta Débito,Pagado
+73,2024-02-03,99000,Transferencia,Pagado
+74,2024-02-14,195000,Tarjeta Crédito,Pagado
+75,2024-02-24,71000,Efectivo,Pagado
+76,2024-03-03,145000,Tarjeta Débito,Pagado
+77,2024-03-14,112000,Transferencia,Pagado
+78,2024-03-24,218000,Tarjeta Crédito,Pagado
+79,2024-04-03,80000,Efectivo,Pagado
+80,2024-04-14,158000,Tarjeta Débito,Pagado
+81,2024-04-24,104000,Transferencia,Pagado
+82,2024-05-04,185000,Tarjeta Crédito,Pagado
+83,2024-05-14,75000,Efectivo,Pagado
+84,2024-05-24,140000,Tarjeta Débito,Pagado
+85,2024-06-03,122000,Transferencia,Pagado
+86,2024-06-14,210000,Tarjeta Crédito,Pagado
+87,2024-06-24,88000,Efectivo,Pagado
+88,2024-07-03,168000,Tarjeta Débito,Pagado
+89,2024-07-14,95000,Transferencia,Pagado
+90,2024-07-24,228000,Tarjeta Crédito,Pagado
+91,2024-08-03,79000,Efectivo,Pagado
+92,2024-08-14,152000,Tarjeta Débito,Pagado
+93,2024-08-24,108000,Transferencia,Pagado
+94,2024-09-03,192000,Tarjeta Crédito,Pagado
+95,2024-09-14,84000,Efectivo,Pagado
+96,2024-09-24,165000,Tarjeta Débito,Pagado
+97,2024-10-03,97000,Transferencia,Pagado
+98,2024-10-14,205000,Tarjeta Crédito,Pagado
+99,2024-10-24,73000,Efectivo,Pagado
+100,2024-11-03,178000,Tarjeta Débito,Pagado
+101,2024-11-14,118000,Transferencia,Pendiente
+102,2024-11-24,235000,Tarjeta Crédito,Pagado
+103,2024-12-03,82000,Efectivo,Pagado
+104,2024-12-14,155000,Tarjeta Débito,Pendiente
+105,2024-12-24,101000,Transferencia,Pagado
+106,2025-01-05,188000,Tarjeta Crédito,Pagado
+107,2025-01-15,76000,Efectivo,Pagado
+108,2025-01-25,142000,Tarjeta Débito,Pagado
+109,2025-02-05,113000,Transferencia,Pagado
+110,2025-02-15,222000,Tarjeta Crédito,Pagado
+111,2025-02-25,87000,Efectivo,Pendiente
+112,2025-03-05,162000,Tarjeta Débito,Pagado
+113,2025-03-15,98000,Transferencia,Pagado
+114,2025-03-25,198000,Tarjeta Crédito,Pagado
+115,2025-04-05,74000,Efectivo,Pagado
+116,2025-04-15,148000,Tarjeta Débito,Pagado
+117,2025-04-25,115000,Transferencia,Pendiente
+118,2025-05-05,215000,Tarjeta Crédito,Pagado
+119,2025-05-15,89000,Efectivo,Pagado
+120,2025-05-25,172000,Tarjeta Débito,Pagado
+121,2025-06-05,103000,Transferencia,Pagado
+122,2025-06-15,195000,Tarjeta Crédito,Pagado
+123,2025-06-25,78000,Efectivo,Pagado
+124,2025-07-05,135000,Tarjeta Débito,Pagado
+125,2025-07-15,122000,Transferencia,Pagado
+126,2025-07-25,245000,Tarjeta Crédito,Pagado
+127,2025-08-05,85000,Efectivo,Pagado
+128,2025-08-15,168000,Tarjeta Débito,Pendiente
+129,2025-08-25,96000,Transferencia,Pagado
+130,2025-09-05,205000,Tarjeta Crédito,Pagado
+131,2025-09-15,72000,Efectivo,Pagado
+132,2025-09-25,158000,Tarjeta Débito,Pagado
+133,2025-10-05,110000,Transferencia,Pagado
+134,2025-10-15,228000,Tarjeta Crédito,Pagado
+135,2025-10-25,83000,Efectivo,Pagado
+136,2025-11-05,145000,Tarjeta Débito,Pagado
+137,2025-11-15,105000,Transferencia,Pendiente
+138,2025-11-25,192000,Tarjeta Crédito,Pagado
+139,2025-12-05,77000,Efectivo,Pagado
+140,2025-12-15,162000,Tarjeta Débito,Pagado
+141,2025-12-25,118000,Transferencia,Pagado
+142,2026-01-05,235000,Tarjeta Crédito,Pagado
+143,2026-01-15,88000,Efectivo,Pagado
+144,2026-01-25,175000,Tarjeta Débito,Pagado
+145,2026-02-05,102000,Transferencia,Pagado
+146,2026-02-15,210000,Tarjeta Crédito,Pagado
+147,2026-02-25,79000,Efectivo,Pendiente
+148,2026-03-05,148000,Tarjeta Débito,Pagado
+149,2026-03-15,125000,Transferencia,Pagado
+150,2026-03-25,218000,Tarjeta Crédito,Pagado
+151,2026-01-08,95000,Efectivo,Pagado
+152,2026-01-18,178000,Tarjeta Débito,Pagado
+153,2026-02-02,108000,Transferencia,Pagado
+154,2026-02-12,222000,Tarjeta Crédito,Pagado
+155,2026-02-22,81000,Efectivo,Pagado
+156,2026-03-02,155000,Tarjeta Débito,Pagado
+157,2026-03-10,115000,Transferencia,Pendiente
+158,2026-03-18,235000,Tarjeta Crédito,Pagado
+159,2026-03-28,74000,Efectivo,Pagado
+160,2026-04-01,162000,Tarjeta Débito,Pagado
+161,2022-03-10,98000,Transferencia,Pagado
+162,2022-05-20,188000,Tarjeta Crédito,Pagado
+163,2022-07-15,72000,Efectivo,Pagado
+164,2022-09-05,145000,Tarjeta Débito,Pagado
+165,2022-11-18,112000,Transferencia,Pagado
+166,2023-01-25,205000,Tarjeta Crédito,Pagado
+167,2023-03-08,86000,Efectivo,Pagado
+168,2023-05-20,168000,Tarjeta Débito,Pagado
+169,2023-07-12,101000,Transferencia,Pagado
+170,2023-09-25,225000,Tarjeta Crédito,Pagado
+171,2023-11-08,79000,Efectivo,Pagado
+172,2024-01-20,155000,Tarjeta Débito,Pagado
+173,2024-03-10,118000,Transferencia,Pagado
+174,2024-05-22,198000,Tarjeta Crédito,Pagado
+175,2024-07-08,83000,Efectivo,Pagado
+176,2024-09-18,165000,Tarjeta Débito,Pagado
+177,2024-11-05,107000,Transferencia,Pagado
+178,2025-01-20,215000,Tarjeta Crédito,Pagado
+179,2025-03-10,77000,Efectivo,Pagado
+180,2025-05-22,172000,Tarjeta Débito,Pendiente
+181,2025-07-08,95000,Transferencia,Pagado
+182,2025-09-18,208000,Tarjeta Crédito,Pagado
+183,2025-11-05,81000,Efectivo,Pagado
+184,2026-01-20,158000,Tarjeta Débito,Pagado
+185,2022-04-25,112000,Transferencia,Pagado
+186,2022-08-10,195000,Tarjeta Crédito,Pagado
+187,2022-12-05,76000,Efectivo,Pagado
+188,2023-04-18,148000,Tarjeta Débito,Pagado
+189,2023-08-08,105000,Transferencia,Pagado
+190,2023-12-20,222000,Tarjeta Crédito,Pagado
+191,2024-04-10,87000,Efectivo,Pagado
+192,2024-08-22,175000,Tarjeta Débito,Pagado
+193,2024-12-08,98000,Transferencia,Pagado
+194,2025-04-20,235000,Tarjeta Crédito,Pagado
+195,2025-08-10,73000,Efectivo,Pendiente
+196,2025-12-22,162000,Tarjeta Débito,Pagado
+197,2026-02-08,115000,Transferencia,Pagado
+198,2026-03-20,248000,Tarjeta Crédito,Pagado
+199,2026-04-02,90000,Efectivo,Pagado
+200,2026-04-08,178000,Tarjeta Débito,Pendiente
