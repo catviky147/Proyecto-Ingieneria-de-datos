@@ -162,12 +162,12 @@ delimiter ;
 
 #implementacion del procedimiento
 call crear_historia_Clinica(
-    'Juan Pérez',
+    'Balatro Balatres',
     1098765432,
-    'Calle 10 #20-30 Bogotá',
+    'Carrera 2 #38-40 Bogotá',
     '1995-06-15',
-    'Hipertensión',
-    'Penicilina',
+    '',
+    '',
     @mensaje,
     @id_paciente
 );
@@ -175,6 +175,96 @@ call crear_historia_Clinica(
 -- Ver los resultados de los parámetros OUT
 select @mensaje, @id_paciente;
 
+#HU02 buscar paciente e historia clinica
+
+delimiter //
+
+create procedure buscar_historia_clinica(
+    in p_busqueda varchar(100)
+)
+begin
+    select 
+        p.idpaciente,
+        p.nombrePaciente,
+        p.documentoPaciente,
+        p.fechaNacPaciente,
+        p.Preexistencias,
+        p.Alergias,
+        hc.idHistoriaClinica,
+        hc.fechaApertura,
+        hc.estado,
+        hc.observaciones
+    from paciente p
+    inner join historiaClinica hc on hc.pacienteFK = p.idpaciente
+    where p.nombrePaciente like CONCAT('%', p_busqueda, '%')
+    or p.documentoPaciente like CONCAT('%', p_busqueda, '%');
+end //
+
+delimiter ;
+ 
+#HU03 poner concentimiento
+
+-- Agregar campos de consentimiento a historiaClinica
+alter table historiaClinica
+add consentimiento tinyint (1) default 0;
+
+delimiter //
+
+create procedure registrar_consentimiento(
+    in p_busqueda varchar(100),
+    in p_consentimiento tinyint(1),
+    out p_mensaje VARCHAR(100)
+)
+begin
+    declare v_idHistoriaClinica INT;
+
+    -- Buscar la historia clínica por nombre o documento
+    select hc.idHistoriaClinica into v_idHistoriaClinica
+    from paciente p
+    inner join historiaClinica hc on hc.pacienteFK = p.idpaciente
+    where p.nombrePaciente like CONCAT('%', p_busqueda, '%')
+    or p.documentoPaciente like CONCAT('%', p_busqueda, '%')
+    limit 1;
+
+    if v_idHistoriaClinica is null then
+        set p_mensaje = 'Error: No se encontró ningún paciente con esa búsqueda.';
+    else
+        update historiaClinica
+        set
+            consentimiento = p_consentimiento
+        where idHistoriaClinica = v_idHistoriaClinica;
+
+        set p_mensaje = CONCAT('Consentimiento registrado en historia clínica ', v_idHistoriaClinica);
+
+    end if ;
+end //
+
+DELIMITER ;
+
+#HU04 actualizar historia clinica
+
+delimiter //
+
+create procedure actualizar_historia_clinica(
+  in p_busqueda varchar(100),
+  in h_actualizaciones varchar (1000)
+)
+begin
+    -- Verificar que la historia clínica existe
+    if not exists (select 1 from historiaClinica where idHistoriaClinica = p_idHistoriaClinica) then
+        set p_mensaje = 'Error: Historia clínica no encontrada.';
+    else
+        update historiaClinica
+        set 
+            estado        = p_estado,
+            observaciones =concat(p_observaciones) 
+        where idHistoriaClinica = p_idHistoriaClinica;
+
+        set p_mensaje = CONCAT('Historia clínica ', p_idHistoriaClinica, ' actualizada correctamente.');
+    end if;
+end //
+
+delimiter ;
 
 ##cositas de la base de datos
 use clinicaodontologica;
