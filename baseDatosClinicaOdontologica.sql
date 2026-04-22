@@ -266,6 +266,128 @@ end //
 
 delimiter ;
 
+#HU05
+alter table citaOdontologico
+add asistencia tinyint (1) default 0;
+
+delimiter //
+
+create procedure registrar_asistencia(
+    in p_busqueda varchar(100),
+    in p_asistencia tinyint(1),
+    out p_mensaje varchar(100)
+)
+begin
+    declare v_idCita INT;
+    declare v_idPaciente INT;
+
+    -- Buscar la cita más próxima del paciente por nombre o documento
+    select c.idCity, p.idpaciente into v_idCita, v_idPaciente
+    from citaOdontologico c
+    inner join paciente p on c.paciente = p.idpaciente
+    where p.nombrePaciente like CONCAT('%', p_busqueda, '%')
+    or p.documentoPaciente like CONCAT('%', p_busqueda, '%')
+    order by c.horario desc
+    limit 1;
+
+    if v_idCita is null then
+        set p_mensaje = 'Error: No se encontró ninguna cita para ese paciente.';
+    else
+        update citaOdontologico
+        set
+            asistencia = p_asistencia
+        where idCity = v_idCita;
+
+        set p_mensaje = CONCAT(
+            if(p_asistencia = 1, 'Asistencia confirmada', 'Inasistencia registrada'),
+            ' para cita ID: ', v_idCita
+        );
+
+        -- Mostrar el resumen de la cita
+        select
+            c.idCity,
+            p.nombrePaciente,
+            p.documentoPaciente,
+            u.nombreUsuario as odontologo,
+            c.horario,
+            c.tratamiento,
+            if(c.asistencia = 1, 'Asistió', 'No asistió') as asistencia,
+            c.observacionInasistencia
+        from citaOdontologico c
+        inner join paciente p  on c.paciente     = p.idpaciente
+        inner join odontologo o on c.odontologoFK = o.idOdontologo
+        inner join usuario u    on o.usuarioFK    = u.idUsuario
+        where c.idCity = v_idCita;
+    end if;
+end //
+
+delimiter ;
+
+#HU06 filtrar por preexistencias
+
+delimiter //
+
+create procedure filtrar_por_preexistencia(
+    in p_preexistencia varchar(100)
+)
+begin
+    select
+        p.idpaciente,
+        p.nombrePaciente,
+        p.documentoPaciente,
+        p.fechaNacPaciente,
+        p.Preexistencias,
+        p.Alergias,
+        hc.idHistoriaClinica,
+        hc.estado,
+        hc.observaciones
+    from paciente p
+    inner join historiaClinica hc on hc.pacienteFK = p.idpaciente
+    where p.Preexistencias like concat('%', p_preexistencia, '%');
+end //
+
+delimiter ;
+
+
+#HU07 actualizar información de paciente
+
+delimiter //
+
+create procedure actualizar_paciente(
+    in p_busqueda varchar(100),
+    in p_nombrePaciente varchar(50),
+    in p_direccionPaciente varchar(100),
+    in p_preexistencias varchar(500),
+    in p_alergias varchar(100),
+    out p_mensaje varchar(100)
+)
+begin
+    declare v_idPaciente int;
+
+    select idpaciente into v_idPaciente
+    from paciente
+    where nombrePaciente like concat('%', p_busqueda, '%')
+    or documentoPaciente like concat('%', p_busqueda, '%')
+    limit 1;
+
+    if v_idPaciente is null then
+        set p_mensaje = 'Error: No se encontró ningún paciente con esa búsqueda.';
+    else
+        update paciente
+        set
+            nombrePaciente    = coalesce(p_nombrePaciente, nombrePaciente),
+            direccionPaciente = coalesce(p_direccionPaciente, direccionPaciente),
+            Preexistencias    = coalesce(p_preexistencias, Preexistencias),
+            Alergias          = coalesce(p_alergias, Alergias)
+        where idpaciente = v_idPaciente;
+
+        set p_mensaje = concat('Paciente ', v_idPaciente, ' actualizado correctamente.');
+    end if;
+end //
+
+delimiter ;
+
+
 ##cositas de la base de datos
 use clinicaodontologica;
 ALTER DATABASE clinicaodontologica CHARACTER SET utf8mb4 COLLATE utf8mb4_spanish_ci;
