@@ -15,14 +15,14 @@ idOdontologo int auto_increment primary key,
 tarjetaProfesional varchar (50),
 especialidad varchar (50), 
 usuarioFK int (10),
-foreign key (usuarioFk) references usuario(idUsuario)
+foreign key (usuarioFK) references usuario(idUsuario) ON DELETE CASCADE
 );
 
 create table auxiliar(
-idOdontologo int auto_increment primary key,
+idAuxiliar int auto_increment primary key,
 tarjetaProfesionalAux varchar (50), 
 usuarioFK int (10),
-foreign key (usuarioFk) references usuario(idUsuario)
+foreign key (usuarioFK) references usuario(idUsuario) ON DELETE CASCADE
 );
 
 
@@ -33,7 +33,9 @@ documentoPaciente int (10) not null,
 direccionPaciente varchar (100)not null,
 fechaNacPaciente date not null,
 Preexistencias varchar (500),
-Alergias varchar (100)
+Alergias varchar (100),
+usuarioFK int(10),
+foreign key (usuarioFK) references usuario(idUsuario) ON DELETE CASCADE
 );
 
 create table historiaClinica(
@@ -45,16 +47,6 @@ pacienteFK int not null,
 foreign key (pacienteFk) references paciente(idpaciente)
 );
 
-
-create table citaOdontologico(
-idCity int auto_increment primary key,
-odontologo int not null, 
-paciente int not null,
-horario datetime,
-tratamiento int,
-foreign key (usuarioFk) references usuario(idUsuario)
-);
-
 create table pago(
 idPago int auto_increment primary key,
 fecha date not null,
@@ -63,74 +55,63 @@ metodoPago varchar (100) not null,
 estado varchar (50)
 );
 
-alter table citaOdontologico
-add pagoFK int;
+create table citaOdontologico(
+idCita int auto_increment primary key,
+odontologoFK int not null, 
+pacienteFK int not null,
+pagoFK int,
+horario datetime,
+tratamiento varchar(100),
+estado varchar(50) DEFAULT 'Pendiente', -- esto lo dejo para lo de la agenda
+foreign key (odontologoFK) references odontologo(idOdontologo),
+foreign key (pacienteFK) references paciente(idpaciente),
+foreign key (pagoFK) references pago(idPago)
+);
 
-alter table citaOdontologico
-add constraint citaPagoFK 
-foreign key(pagoFK)
-references pago(idPago);
+-- =======================================================
+-- 2. SECCIÓN DE CONSULTAS (Las 1 general y 7 específicas)
+-- =======================================================
 
-alter table citaOdontologico change odontologo odontologoFK int;
+-- ## CONSULTA GENERAL (1 Requerida)
+SELECT * FROM pago WHERE metodoPago = "Efectivo";
 
-alter table citaOdontologico
-add constraint citaOdontologoFK 
-foreign key(odontologoFK)
-references odontologo(idOdontologo);
+-- ## CONSULTAS ESPECÍFICAS (7 Requeridas)
 
-describe citaOdontologico;
-ALTER TABLE citaOdontologico MODIFY tratamiento VARCHAR(100);
+-- 1. Paciente: Filtro por alergias 
+SELECT nombrePaciente AS nombre, Preexistencias AS pre_Existencias 
+FROM paciente WHERE Alergias = "Latex";
 
+-- 2. Cita: Filtro de mes
+SELECT odontologoFK AS ID_Odontologo, pacienteFK AS ID_Paciente, horario AS fecha 
+FROM citaOdontologico 
+WHERE MONTH(horario) = 4;
 
-##consultas
-##consulta general
-select * from pago where metodoPago="Efectivo";
+-- 3. Odontólogo: Datos cruzados con Usuarios
+SELECT u.nombreUsuario AS nombreOdontologo, u.telefono, o.especialidad 
+FROM odontologo o
+INNER JOIN usuario u ON o.usuarioFK = u.idUsuario;
 
-select * from paciente;
-##consulta especifica
+-- 4. Administrativa: Total de ingresos por método de pago los agrupa btw
+SELECT metodoPago, SUM(monto) AS total_recaudado 
+FROM pago 
+GROUP BY metodoPago;
 
-#1
-select nombrePaciente as nombre ,Preexistencias as pre_Existencias
-from paciente where Alergias="Latex";
+-- 5. Clínica: Pacientes con enfermedades sistémicas (Filtro NOT NULL)
+SELECT nombrePaciente, Preexistencias 
+FROM paciente 
+WHERE Preexistencias IS NOT NULL AND Preexistencias != 'Ninguna';
 
-#2
-select odontologoFK as Odontologo, paciente as Paciente, horario as fecha  from citaodontologico
-where month(horario)=4;
+-- 6. Agenda: para ver las citas con el nombre del paciente usando (Join)
+SELECT c.horario, p.nombrePaciente, c.tratamiento 
+FROM citaOdontologico c
+INNER JOIN paciente p ON c.pacienteFK = p.idpaciente
+WHERE c.horario >= CURDATE();
 
-#3
-select 
-    u.nombreUsuario as nombreOdontologo,
-    u.telefono as telefono,
-    o.especialidad as especialidad
-from odontologo o
-inner join usuario u on o.usuarioFK = u.idUsuario;
+-- 7. Seguridad: Log de usuarios 
+SELECT nombreUsuario, correoElectronico, rol 
+FROM usuario 
+WHERE rol != 'Paciente';
 
-#4
-select tarjetaProfesional as Tarjeta_profesional, especialidad
-from odontologo 
-where idOdontologo=2;
-
-#5
-select fecha as fecha_pago, monto as monto_pagado
-from pago
-where monto>10000 and metodoPago="efectivo";
-
-#6
-select fechaApertura as fecha_de_apertura, estado, observaciones
-from historiaclinica
-where idHistoriaClinica= 50;
-
-#7
-alter table auxiliar change idOdontologo idAuxiliar int auto_increment; #no habia llamado bien el campo
-select 
-    u.nombreUsuario as nombre_auxiliar,
-    u.telefono as telefono,
-    u.correoElectronico as correo,
-    a.tarjetaProfesionalAux AS tarjeta_profesional
-from auxiliar A
-inner join usuario u on a.usuarioFK = u.idUsuario;
-
-describe paciente;
 #HU01 Crear historias clinicas
 
 delimiter // 
@@ -387,8 +368,3 @@ end //
 
 delimiter ;
 
-
-##cositas de la base de datos
-use clinicaodontologica;
-ALTER DATABASE clinicaodontologica CHARACTER SET utf8mb4 COLLATE utf8mb4_spanish_ci;
-ALTER TABLE paciente CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_spanish_ci;
