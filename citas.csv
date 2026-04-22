@@ -1,0 +1,1282 @@
+idCita,idPaciente,idDoctor,idAuxiliar,fechaCita,horaCita,tratamiento,estadoCita
+001001,001,001,002,24/06/2025,14:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+001002,001,001,001,02/03/2025,17:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+001003,001,002,001,15/04/2024,11:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+001004,001,003,002,24/02/2024,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+001005,001,001,001,04/03/2024,11:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+001006,001,001,001,11/11/2025,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+001007,001,003,001,02/02/2025,11:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+002001,002,001,002,10/04/2026,16:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+002002,002,004,002,28/10/2025,15:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+002003,002,003,002,03/03/2024,14:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+002004,002,001,001,16/08/2025,14:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+003001,003,003,001,17/01/2025,14:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+003002,003,001,001,04/10/2024,14:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+003003,003,001,001,31/01/2025,17:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+004001,004,004,001,22/10/2024,09:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+004002,004,004,002,06/03/2026,14:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+004003,004,001,001,21/11/2023,15:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+004004,004,004,001,13/04/2023,09:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+005001,005,004,002,23/11/2025,14:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005002,005,001,001,18/05/2024,09:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005003,005,004,001,22/10/2025,10:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005004,005,001,001,26/11/2023,08:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005005,005,002,001,24/06/2024,11:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005006,005,003,001,16/03/2026,16:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005007,005,002,002,09/07/2025,14:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005008,005,002,002,09/09/2025,14:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005009,005,001,002,11/02/2024,09:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005010,005,003,001,29/04/2023,14:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005011,005,001,001,27/09/2024,09:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005012,005,004,001,14/11/2024,17:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005013,005,002,002,24/08/2024,17:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005014,005,001,002,07/10/2023,14:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005015,005,003,001,30/03/2025,17:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005016,005,001,001,18/03/2025,15:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005017,005,001,002,17/06/2023,11:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+005018,005,004,001,21/05/2023,09:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Pendiente
+006001,006,004,001,11/04/2026,15:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+006002,006,001,002,21/03/2026,16:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+006003,006,001,001,17/09/2023,09:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+006004,006,002,002,08/03/2025,09:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+006005,006,002,002,15/03/2025,09:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+006006,006,001,001,15/07/2024,10:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+006007,006,003,001,11/10/2025,09:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+006008,006,004,002,20/01/2025,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+006009,006,004,002,14/06/2023,08:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+006010,006,002,002,03/08/2023,15:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+006011,006,001,001,18/07/2025,08:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+007001,007,004,001,08/02/2025,16:30,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+007002,007,001,002,30/04/2024,10:30,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+007003,007,001,002,28/02/2026,08:00,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+007004,007,004,001,03/06/2025,10:00,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+007005,007,001,002,23/11/2025,15:00,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+008001,008,001,002,29/03/2024,10:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+008002,008,003,002,18/09/2025,14:30,Obturación con resina compuesta. Control a los 6 meses.,Pendiente
+009001,009,001,001,01/03/2025,10:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+009002,009,004,002,04/10/2025,17:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+009003,009,001,002,24/02/2024,15:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+009004,009,003,001,28/10/2024,09:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+010001,010,001,001,03/12/2025,14:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010002,010,003,001,19/03/2024,16:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010003,010,003,002,31/07/2025,14:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010004,010,002,002,21/07/2025,10:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010005,010,002,001,15/02/2026,14:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010006,010,003,002,21/12/2023,10:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010007,010,001,002,04/11/2023,16:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010008,010,002,002,10/02/2026,17:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010009,010,003,001,27/11/2025,17:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010010,010,002,002,07/06/2023,08:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010011,010,001,001,19/11/2025,15:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010012,010,001,001,14/04/2024,08:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010013,010,004,001,24/01/2025,08:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010014,010,004,001,03/05/2023,17:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010015,010,001,001,23/01/2025,08:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010016,010,002,001,28/05/2025,16:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+010017,010,001,001,17/09/2023,14:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+011001,011,001,001,02/08/2024,08:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011002,011,004,001,27/01/2024,15:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011003,011,002,001,06/09/2024,15:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011004,011,001,001,05/06/2024,15:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011005,011,002,002,14/12/2023,14:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011006,011,004,002,05/08/2023,09:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011007,011,004,001,25/10/2024,14:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011008,011,003,001,24/04/2025,08:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011009,011,002,001,22/04/2025,08:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011010,011,003,002,06/08/2024,14:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011011,011,002,002,07/04/2024,16:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011012,011,001,001,05/03/2024,10:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011013,011,003,002,05/09/2023,17:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011014,011,003,001,28/06/2024,10:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011015,011,001,001,03/01/2026,16:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011016,011,001,001,29/08/2023,11:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011017,011,004,002,20/01/2024,15:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011018,011,001,001,08/06/2024,11:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011019,011,004,001,08/01/2025,11:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+011020,011,002,002,27/11/2024,16:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+012001,012,001,001,28/10/2025,10:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+012002,012,004,001,17/10/2025,17:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+012003,012,001,001,22/10/2024,17:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+013001,013,003,002,16/11/2023,16:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+013002,013,004,002,01/05/2025,10:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+013003,013,004,002,07/07/2025,17:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+013004,013,001,002,01/04/2025,17:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+013005,013,001,002,05/08/2024,17:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+013006,013,001,002,23/09/2025,17:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+013007,013,003,002,13/03/2025,09:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+013008,013,004,002,19/03/2026,16:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+013009,013,002,001,10/12/2025,11:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+013010,013,001,001,14/11/2023,08:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+013011,013,002,002,21/03/2025,10:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+013012,013,001,001,01/03/2026,15:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+014001,014,002,001,24/02/2025,08:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+014002,014,001,001,12/02/2025,11:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+014003,014,003,002,31/03/2025,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+014004,014,003,002,20/04/2024,15:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+014005,014,001,002,28/11/2024,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+014006,014,001,001,09/09/2025,10:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+014007,014,003,002,29/01/2025,16:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+014008,014,004,002,15/05/2024,10:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+015001,015,004,001,02/08/2024,17:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015002,015,003,001,24/08/2023,08:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015003,015,001,002,01/06/2024,09:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015004,015,002,002,08/03/2024,08:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015005,015,001,002,06/04/2024,15:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015006,015,003,002,06/10/2024,15:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015007,015,003,001,04/05/2025,11:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015008,015,001,001,14/10/2025,17:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015009,015,003,002,21/02/2025,09:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015010,015,002,001,23/06/2024,11:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015011,015,001,002,14/07/2025,14:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015012,015,003,002,03/05/2025,08:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015013,015,003,002,17/03/2025,16:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015014,015,001,001,10/04/2025,10:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015015,015,001,002,06/12/2025,10:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+015016,015,002,002,17/04/2024,17:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Pendiente
+016001,016,002,002,17/04/2024,14:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+016002,016,004,001,08/12/2024,08:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Pendiente
+017001,017,001,001,22/10/2025,10:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+017002,017,004,002,02/07/2024,17:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+017003,017,002,002,29/06/2025,11:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+017004,017,002,002,03/06/2023,17:00,Pulido y sellado con resina fluida. Control en 3 meses.,Pendiente
+018001,018,001,001,02/01/2025,14:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+018002,018,004,001,19/01/2025,15:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+018003,018,002,001,18/09/2025,08:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+018004,018,004,001,02/03/2025,14:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+018005,018,002,001,18/11/2025,09:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+018006,018,001,001,18/11/2024,09:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+018007,018,001,002,21/11/2025,09:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+018008,018,002,002,12/03/2024,15:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+018009,018,004,001,12/02/2024,08:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+018010,018,001,002,25/08/2023,11:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+018011,018,003,001,24/06/2024,09:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+018012,018,001,001,14/07/2024,14:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+018013,018,001,002,23/01/2025,11:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Pendiente
+019001,019,001,002,15/12/2024,17:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+019002,019,002,002,11/12/2023,11:00,Pulido y sellado con resina fluida. Control en 3 meses.,Pendiente
+020001,020,002,001,10/08/2025,10:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+020002,020,001,002,26/04/2025,16:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+020003,020,002,001,29/10/2025,11:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+020004,020,001,002,22/10/2023,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+020005,020,002,002,08/11/2024,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+020006,020,002,001,06/05/2024,17:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+020007,020,001,001,09/07/2025,09:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+020008,020,004,002,15/12/2024,10:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+021001,021,004,001,09/03/2026,14:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+021002,021,001,001,02/04/2024,08:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+021003,021,003,001,04/06/2023,14:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+021004,021,003,002,30/05/2025,17:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+021005,021,003,001,02/05/2025,15:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+021006,021,003,001,06/02/2025,14:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+021007,021,004,001,08/06/2023,09:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+022001,022,003,002,11/08/2023,14:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+022002,022,001,002,22/04/2025,11:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+022003,022,003,001,11/02/2026,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Pendiente
+023001,023,001,002,26/02/2024,10:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023002,023,004,001,09/10/2025,10:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023003,023,002,001,11/03/2024,11:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023004,023,004,001,29/05/2023,09:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023005,023,001,002,05/11/2023,14:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023006,023,001,001,13/05/2023,17:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023007,023,002,002,23/09/2023,15:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023008,023,001,001,17/06/2024,09:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023009,023,003,001,16/05/2025,11:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023010,023,001,002,29/12/2024,17:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023011,023,004,002,19/01/2025,16:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023012,023,002,001,16/12/2025,10:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023013,023,002,002,22/10/2025,16:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023014,023,001,002,15/06/2025,11:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023015,023,001,001,09/08/2024,09:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023016,023,002,001,02/06/2024,17:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+023017,023,002,002,13/06/2023,09:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Pendiente
+024001,024,001,002,16/08/2023,11:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024002,024,002,002,09/11/2023,15:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024003,024,002,002,07/07/2025,11:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024004,024,003,002,04/09/2023,17:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024005,024,001,001,24/02/2024,15:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024006,024,001,001,29/01/2025,17:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024007,024,001,001,19/10/2023,16:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024008,024,004,002,19/01/2025,09:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024009,024,002,001,03/08/2023,08:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024010,024,001,002,08/11/2025,11:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024011,024,002,002,25/04/2025,10:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024012,024,001,002,17/02/2024,15:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024013,024,004,002,05/02/2026,11:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024014,024,003,002,11/07/2025,08:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024015,024,003,001,08/03/2025,14:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024016,024,003,002,23/11/2024,17:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024017,024,002,001,16/03/2024,16:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024018,024,001,002,11/11/2025,08:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024019,024,004,001,21/06/2023,14:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+024020,024,003,002,09/01/2026,17:30,Mantenimiento preventivo y limpieza. Control anual.,Pendiente
+025001,025,003,002,08/06/2024,08:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Pendiente
+026001,026,002,001,21/01/2024,08:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026002,026,002,001,25/06/2023,10:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026003,026,001,002,12/08/2023,15:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026004,026,004,001,22/06/2023,09:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026005,026,004,001,13/12/2025,10:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026006,026,002,001,04/01/2025,14:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026007,026,003,002,27/02/2026,14:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026008,026,004,002,25/08/2023,11:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026009,026,001,002,15/07/2024,09:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026010,026,002,001,25/12/2025,15:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026011,026,001,001,28/06/2024,08:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026012,026,003,002,09/11/2023,08:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026013,026,002,001,25/02/2024,15:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026014,026,001,001,05/05/2024,10:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026015,026,001,002,02/09/2025,08:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026016,026,003,002,11/01/2024,08:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026017,026,001,001,31/10/2024,10:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+026018,026,001,002,22/12/2025,14:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Pendiente
+027001,027,003,001,09/05/2023,09:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027002,027,002,001,08/09/2023,11:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027003,027,003,002,02/04/2024,09:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027004,027,002,002,13/11/2023,09:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027005,027,001,002,25/03/2025,15:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027006,027,001,001,23/07/2023,09:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027007,027,001,001,16/05/2025,08:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027008,027,001,001,06/05/2024,17:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027009,027,002,001,16/02/2024,17:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027010,027,003,002,26/06/2023,15:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027011,027,001,001,03/08/2025,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027012,027,003,001,17/05/2024,16:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027013,027,001,001,05/08/2024,14:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+027014,027,001,002,27/12/2025,09:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+028001,028,002,002,08/03/2025,10:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+028002,028,001,001,24/04/2025,11:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+028003,028,001,002,05/04/2026,15:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+028004,028,003,001,08/10/2023,14:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+028005,028,002,002,08/01/2025,16:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+028006,028,003,001,19/12/2024,09:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+028007,028,001,001,08/04/2026,09:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+028008,028,002,001,17/01/2024,10:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+028009,028,001,002,16/11/2024,15:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+029001,029,004,001,29/07/2025,14:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+029002,029,004,002,07/10/2023,14:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+029003,029,004,001,24/10/2024,15:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+029004,029,003,001,19/07/2023,10:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+029005,029,004,002,07/12/2023,14:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+029006,029,003,001,04/08/2024,14:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+029007,029,003,001,26/10/2024,10:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+029008,029,004,001,10/08/2024,08:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Pendiente
+030001,030,004,001,06/10/2023,09:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+030002,030,004,002,01/02/2024,09:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+030003,030,001,002,23/12/2024,08:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+030004,030,001,001,21/01/2025,08:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+030005,030,001,001,03/07/2024,17:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+030006,030,003,002,21/07/2024,11:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+030007,030,001,001,27/01/2024,09:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+030008,030,002,001,11/09/2023,10:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+030009,030,001,001,31/03/2026,10:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+030010,030,003,001,05/05/2024,10:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+030011,030,001,001,18/02/2026,15:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+031001,031,003,002,10/03/2025,15:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031002,031,003,002,20/03/2025,15:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031003,031,001,002,06/10/2024,09:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031004,031,001,001,30/09/2025,15:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031005,031,003,001,24/06/2023,09:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031006,031,004,002,29/03/2025,16:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031007,031,002,002,28/11/2025,16:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031008,031,003,002,17/08/2023,16:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031009,031,001,002,30/10/2023,11:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031010,031,001,001,25/10/2024,09:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031011,031,002,002,07/07/2023,14:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031012,031,001,002,09/02/2024,09:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031013,031,001,001,17/01/2026,08:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031014,031,004,002,26/12/2025,16:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031015,031,001,001,11/06/2024,16:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031016,031,004,002,24/10/2023,09:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031017,031,001,002,30/01/2025,10:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031018,031,001,001,10/04/2026,14:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031019,031,002,001,02/01/2026,16:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+031020,031,002,002,16/01/2024,09:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+032001,032,001,001,30/05/2023,14:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+032002,032,001,001,21/05/2023,14:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+032003,032,003,001,24/05/2024,10:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+032004,032,001,001,09/10/2023,17:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+032005,032,001,001,20/09/2023,09:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+032006,032,002,001,29/01/2024,14:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+032007,032,002,002,13/09/2023,16:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+032008,032,002,002,13/06/2024,08:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+032009,032,001,001,19/11/2024,16:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+032010,032,001,001,19/08/2025,15:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+032011,032,003,002,18/01/2026,10:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+032012,032,001,001,03/09/2024,10:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+033001,033,003,001,08/07/2025,16:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033002,033,004,001,02/03/2025,14:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033003,033,004,002,22/07/2025,10:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033004,033,004,001,16/06/2024,08:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033005,033,004,001,01/03/2024,16:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033006,033,003,002,20/08/2025,10:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033007,033,001,001,27/04/2023,16:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033008,033,004,001,28/11/2024,15:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033009,033,002,001,31/08/2025,14:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033010,033,001,002,26/01/2024,17:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033011,033,002,001,04/03/2026,14:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033012,033,001,002,21/08/2025,10:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033013,033,002,002,26/03/2026,15:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033014,033,004,001,28/12/2023,11:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033015,033,004,001,20/12/2025,10:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033016,033,003,001,23/03/2025,17:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033017,033,001,002,09/11/2023,15:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+033018,033,002,001,10/12/2024,10:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+034001,034,003,001,06/09/2024,17:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034002,034,001,001,03/12/2024,14:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034003,034,001,002,18/01/2024,11:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034004,034,002,001,26/02/2025,17:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034005,034,001,002,29/12/2024,17:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034006,034,003,002,14/02/2025,15:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034007,034,002,002,25/08/2025,09:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034008,034,004,002,18/06/2024,08:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034009,034,004,001,11/05/2024,11:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034010,034,004,001,24/10/2023,16:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034011,034,002,001,25/09/2024,09:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034012,034,003,002,28/11/2025,10:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034013,034,003,001,07/05/2024,08:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034014,034,002,001,31/05/2025,11:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+034015,034,004,001,17/01/2026,14:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+035001,035,001,001,27/11/2023,17:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+035002,035,001,001,01/08/2024,14:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+035003,035,004,002,20/09/2025,11:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+035004,035,004,002,03/07/2024,08:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+035005,035,003,001,19/02/2026,14:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+035006,035,002,002,14/11/2023,17:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+035007,035,001,001,02/12/2023,15:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+035008,035,001,002,15/07/2024,15:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+035009,035,002,002,31/01/2024,10:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+035010,035,004,001,30/07/2023,09:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+036001,036,004,001,30/04/2024,15:30,Detartraje supragingival. Control semestral.,Completada
+036002,036,001,002,28/01/2026,10:00,Detartraje supragingival. Control semestral.,Completada
+036003,036,001,002,07/12/2024,16:00,Detartraje supragingival. Control semestral.,Completada
+036004,036,003,001,14/11/2025,15:30,Detartraje supragingival. Control semestral.,Completada
+036005,036,002,002,23/01/2026,14:00,Detartraje supragingival. Control semestral.,Completada
+036006,036,001,002,25/10/2024,17:00,Detartraje supragingival. Control semestral.,Completada
+036007,036,004,001,06/08/2024,11:00,Detartraje supragingival. Control semestral.,Completada
+036008,036,003,002,17/07/2025,08:30,Detartraje supragingival. Control semestral.,Completada
+036009,036,002,001,11/05/2025,09:30,Detartraje supragingival. Control semestral.,Completada
+036010,036,001,001,01/08/2023,08:00,Detartraje supragingival. Control semestral.,Completada
+036011,036,001,001,13/09/2024,09:00,Detartraje supragingival. Control semestral.,Completada
+036012,036,001,001,07/07/2024,15:00,Detartraje supragingival. Control semestral.,Completada
+036013,036,002,001,21/01/2025,14:30,Detartraje supragingival. Control semestral.,Completada
+036014,036,001,001,21/10/2024,17:00,Detartraje supragingival. Control semestral.,Completada
+036015,036,001,001,08/03/2025,08:30,Detartraje supragingival. Control semestral.,Completada
+036016,036,001,001,23/10/2025,15:30,Detartraje supragingival. Control semestral.,Completada
+037001,037,001,001,03/10/2025,16:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037002,037,001,002,10/05/2024,16:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037003,037,001,001,22/10/2025,14:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037004,037,004,001,07/09/2023,09:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037005,037,002,001,14/01/2025,15:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037006,037,001,001,21/03/2026,14:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037007,037,001,002,15/04/2025,17:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037008,037,001,002,10/06/2023,08:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037009,037,003,002,16/02/2025,11:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037010,037,001,001,09/11/2023,11:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037011,037,001,002,22/05/2023,15:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037012,037,001,002,11/04/2025,15:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037013,037,002,001,05/08/2024,08:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037014,037,001,002,22/12/2025,11:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+037015,037,004,002,17/12/2024,09:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+038001,038,003,002,29/08/2024,15:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038002,038,004,002,28/10/2024,16:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038003,038,002,002,05/11/2024,11:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038004,038,004,002,11/11/2023,08:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038005,038,001,001,09/01/2024,17:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038006,038,004,001,24/08/2023,11:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038007,038,003,002,22/07/2023,14:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038008,038,003,001,30/10/2023,14:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038009,038,001,002,10/03/2025,10:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038010,038,004,001,28/08/2023,10:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038011,038,003,001,22/04/2025,17:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038012,038,001,002,08/12/2025,16:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038013,038,001,001,28/10/2023,17:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038014,038,001,001,03/10/2024,09:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+038015,038,002,001,11/06/2024,14:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+039001,039,004,001,03/02/2025,10:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+039002,039,004,001,01/05/2024,15:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+039003,039,004,002,30/07/2025,09:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+039004,039,002,001,02/07/2024,14:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+039005,039,002,001,23/11/2023,15:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+039006,039,002,001,03/10/2024,15:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+039007,039,001,002,16/08/2024,10:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+039008,039,004,001,16/03/2024,10:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+040001,040,004,002,04/04/2025,09:30,Detartraje supragingival. Control semestral.,Completada
+040002,040,001,002,17/10/2025,10:30,Detartraje supragingival. Control semestral.,Completada
+040003,040,004,002,05/11/2025,10:00,Detartraje supragingival. Control semestral.,Completada
+040004,040,001,002,29/04/2023,14:30,Detartraje supragingival. Control semestral.,Completada
+040005,040,004,001,03/11/2023,15:30,Detartraje supragingival. Control semestral.,Completada
+040006,040,004,001,15/09/2025,10:00,Detartraje supragingival. Control semestral.,Completada
+040007,040,003,002,18/01/2025,11:30,Detartraje supragingival. Control semestral.,Completada
+040008,040,003,001,15/08/2023,10:30,Detartraje supragingival. Control semestral.,Completada
+040009,040,004,002,27/04/2023,17:30,Detartraje supragingival. Control semestral.,Completada
+040010,040,002,001,29/01/2026,14:00,Detartraje supragingival. Control semestral.,Completada
+040011,040,002,002,09/01/2024,09:30,Detartraje supragingival. Control semestral.,Completada
+040012,040,004,002,12/09/2025,11:00,Detartraje supragingival. Control semestral.,Completada
+040013,040,001,001,29/10/2024,08:30,Detartraje supragingival. Control semestral.,Completada
+040014,040,002,001,21/08/2023,09:00,Detartraje supragingival. Control semestral.,Completada
+041001,041,002,002,08/05/2023,11:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041002,041,001,002,30/07/2024,15:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041003,041,004,001,11/10/2024,15:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041004,041,001,001,28/06/2023,10:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041005,041,001,002,05/10/2024,16:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041006,041,002,001,12/04/2023,09:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041007,041,001,002,09/07/2023,14:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041008,041,001,002,02/12/2024,16:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041009,041,001,001,02/03/2025,08:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041010,041,001,001,05/01/2026,08:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041011,041,004,002,27/09/2023,11:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041012,041,001,001,23/11/2025,09:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041013,041,001,002,02/12/2025,17:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+041014,041,003,002,29/09/2024,17:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+042001,042,004,002,06/11/2024,16:30,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+042002,042,001,002,19/01/2026,08:30,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+042003,042,004,001,31/12/2023,09:00,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+042004,042,001,001,19/02/2025,08:00,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+042005,042,001,002,10/01/2025,16:30,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+043001,043,004,001,09/04/2024,15:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+043002,043,002,001,07/07/2025,08:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+043003,043,001,002,23/03/2024,09:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+043004,043,003,001,06/03/2024,14:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+043005,043,004,002,02/10/2023,08:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+043006,043,002,001,27/03/2025,09:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+043007,043,001,001,01/03/2026,16:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+043008,043,004,001,23/08/2024,16:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+043009,043,001,002,21/12/2024,09:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+043010,043,003,001,06/04/2024,11:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+043011,043,003,002,13/08/2025,15:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+043012,043,002,001,22/04/2025,16:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+043013,043,002,002,02/11/2023,08:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+044001,044,003,002,24/09/2025,08:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+044002,044,001,001,09/01/2025,14:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+044003,044,003,001,20/08/2025,17:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+044004,044,001,001,01/11/2023,10:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+044005,044,004,001,31/03/2025,08:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+044006,044,003,001,15/11/2025,09:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+044007,044,001,002,11/01/2024,08:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+044008,044,002,001,20/04/2025,14:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+044009,044,003,001,01/10/2025,08:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+044010,044,004,002,24/11/2025,17:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+044011,044,002,002,14/12/2024,15:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+044012,044,001,001,12/04/2025,09:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+045001,045,001,002,10/08/2024,10:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+045002,045,003,002,13/01/2025,09:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+045003,045,001,001,15/04/2025,15:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+045004,045,001,001,23/08/2024,09:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+045005,045,001,001,06/09/2023,17:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+045006,045,003,002,09/11/2025,10:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+045007,045,002,001,29/11/2025,14:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+046001,046,001,001,18/04/2025,17:00,Detartraje supragingival. Control semestral.,Completada
+046002,046,004,001,27/09/2023,11:00,Detartraje supragingival. Control semestral.,Completada
+046003,046,001,002,31/07/2024,08:30,Detartraje supragingival. Control semestral.,Completada
+046004,046,003,002,04/04/2025,08:30,Detartraje supragingival. Control semestral.,Completada
+046005,046,002,002,13/06/2023,15:00,Detartraje supragingival. Control semestral.,Completada
+046006,046,002,002,21/11/2025,17:00,Detartraje supragingival. Control semestral.,Completada
+046007,046,003,002,22/03/2025,09:00,Detartraje supragingival. Control semestral.,Completada
+046008,046,002,001,02/02/2024,17:30,Detartraje supragingival. Control semestral.,Completada
+046009,046,002,001,31/08/2023,10:00,Detartraje supragingival. Control semestral.,Completada
+046010,046,002,002,25/03/2024,10:30,Detartraje supragingival. Control semestral.,Completada
+046011,046,001,001,19/08/2023,11:00,Detartraje supragingival. Control semestral.,Completada
+046012,046,001,001,13/03/2025,14:00,Detartraje supragingival. Control semestral.,Completada
+046013,046,004,002,03/12/2025,10:30,Detartraje supragingival. Control semestral.,Completada
+047001,047,001,002,14/03/2026,09:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+047002,047,001,002,19/09/2025,09:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+047003,047,001,002,08/12/2023,09:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+047004,047,003,002,17/06/2023,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+047005,047,003,001,06/07/2024,14:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+047006,047,001,001,12/01/2024,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+047007,047,001,001,26/07/2025,15:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+047008,047,001,001,07/02/2026,16:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+047009,047,001,002,01/11/2023,10:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+047010,047,004,001,12/07/2024,17:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+047011,047,002,001,06/03/2026,16:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+048001,048,003,001,30/10/2025,15:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048002,048,001,002,11/08/2025,08:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048003,048,003,002,23/02/2025,11:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048004,048,001,001,27/04/2025,17:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048005,048,001,002,21/02/2025,15:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048006,048,001,001,04/08/2023,15:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048007,048,004,002,05/08/2023,11:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048008,048,001,001,25/08/2025,08:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048009,048,002,002,12/01/2026,17:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048010,048,001,001,04/08/2024,08:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048011,048,002,001,09/11/2024,11:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048012,048,003,002,20/04/2024,11:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048013,048,003,002,28/02/2024,14:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048014,048,001,002,21/11/2024,17:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048015,048,004,002,07/09/2024,08:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048016,048,003,001,15/01/2024,16:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048017,048,003,002,28/11/2025,16:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048018,048,001,002,15/01/2026,16:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048019,048,004,002,02/07/2024,15:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+048020,048,003,001,30/07/2024,17:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Pendiente
+049001,049,002,001,04/03/2026,09:30,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+050001,050,004,002,18/01/2024,16:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050002,050,003,002,01/03/2024,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050003,050,004,001,26/07/2025,17:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050004,050,001,002,30/05/2025,08:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050005,050,001,001,27/07/2025,10:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050006,050,003,002,22/02/2025,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050007,050,001,002,26/12/2025,08:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050008,050,004,001,21/02/2025,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050009,050,004,002,05/12/2024,15:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050010,050,001,002,06/10/2025,09:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050011,050,003,002,27/05/2025,16:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050012,050,003,001,02/09/2025,09:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050013,050,002,002,25/03/2025,14:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050014,050,001,001,12/01/2024,17:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050015,050,002,002,26/12/2023,09:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050016,050,001,001,12/12/2024,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+050017,050,001,001,09/09/2023,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+051001,051,004,001,22/03/2024,08:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+051002,051,001,002,17/10/2023,11:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+051003,051,002,001,02/07/2023,14:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+051004,051,001,001,10/08/2025,10:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+051005,051,003,002,16/12/2024,08:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+051006,051,001,001,06/06/2025,15:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+051007,051,001,002,29/05/2023,10:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+051008,051,003,002,28/05/2024,10:00,Mantenimiento preventivo y limpieza. Control anual.,Pendiente
+052001,052,004,002,13/07/2023,09:30,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+052002,052,004,002,24/03/2026,10:30,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+052003,052,001,002,04/03/2026,14:30,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+052004,052,003,001,05/09/2025,14:00,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+052005,052,001,001,13/10/2023,15:00,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+052006,052,001,001,14/02/2024,10:30,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+052007,052,003,001,02/03/2025,14:30,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+052008,052,003,001,18/10/2025,14:30,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+052009,052,001,002,28/09/2024,10:00,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+052010,052,001,002,24/04/2025,10:30,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+052011,052,001,001,22/11/2023,14:00,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+052012,052,004,002,17/04/2024,10:30,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+053001,053,004,001,24/08/2024,15:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+053002,053,003,001,03/12/2025,15:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+053003,053,004,001,09/01/2026,08:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+053004,053,002,001,15/01/2026,15:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+053005,053,004,002,27/09/2024,08:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+053006,053,001,002,20/03/2026,15:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+053007,053,001,002,18/12/2023,17:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+053008,053,002,002,05/07/2024,16:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+053009,053,001,002,24/08/2025,09:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+054001,054,003,002,01/10/2023,10:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054002,054,002,001,02/01/2026,09:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054003,054,001,002,04/01/2025,08:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054004,054,004,001,24/10/2023,15:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054005,054,003,002,13/07/2024,16:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054006,054,001,002,22/08/2023,11:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054007,054,001,001,01/01/2025,17:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054008,054,003,001,28/08/2023,16:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054009,054,003,002,25/10/2024,11:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054010,054,001,001,25/12/2024,16:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054011,054,001,001,23/12/2023,08:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054012,054,004,002,25/02/2025,11:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054013,054,004,002,16/05/2023,16:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054014,054,001,002,01/11/2024,17:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054015,054,004,001,03/01/2026,17:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+054016,054,003,001,09/07/2025,15:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+055001,055,004,002,20/12/2025,11:00,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,Completada
+055002,055,001,002,27/01/2025,11:00,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,Completada
+055003,055,002,001,12/06/2025,08:30,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,Completada
+056001,056,004,002,17/08/2025,10:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+056002,056,003,001,06/11/2024,09:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+056003,056,001,001,28/11/2023,09:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+056004,056,003,002,23/11/2024,08:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+057001,057,002,001,05/06/2023,11:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+057002,057,004,001,22/07/2024,09:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058001,058,003,001,03/09/2025,08:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058002,058,001,001,23/10/2024,15:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058003,058,003,002,27/04/2023,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058004,058,003,001,24/12/2023,08:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058005,058,004,002,13/08/2023,17:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058006,058,001,001,31/08/2024,14:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058007,058,003,002,02/10/2024,16:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058008,058,001,002,23/06/2023,09:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058009,058,004,001,03/04/2025,10:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058010,058,002,001,01/04/2024,09:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058011,058,004,002,07/09/2025,14:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058012,058,001,001,25/07/2023,15:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058013,058,002,002,25/05/2023,17:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058014,058,002,001,24/03/2025,17:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058015,058,001,002,18/06/2025,17:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+058016,058,001,001,20/03/2025,17:30,Pulido y sellado con resina fluida. Control en 3 meses.,Pendiente
+059001,059,001,001,25/01/2025,16:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+059002,059,004,001,19/12/2024,15:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+059003,059,001,002,31/12/2024,10:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+059004,059,003,002,06/07/2025,15:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+059005,059,001,002,16/04/2025,17:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+059006,059,001,001,26/02/2024,15:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+059007,059,001,001,16/01/2024,17:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+060001,060,004,001,22/03/2025,09:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060002,060,001,002,01/07/2024,15:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060003,060,004,001,18/07/2024,14:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060004,060,002,001,22/04/2024,09:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060005,060,003,002,24/04/2025,14:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060006,060,003,002,20/08/2023,11:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060007,060,003,002,14/05/2023,15:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060008,060,003,002,17/07/2023,11:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060009,060,003,001,10/09/2024,14:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060010,060,002,002,27/10/2024,17:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060011,060,003,002,31/01/2026,17:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060012,060,003,002,20/01/2025,16:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060013,060,001,001,07/04/2025,17:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060014,060,001,002,13/03/2025,17:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+060015,060,001,001,06/05/2024,08:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+061001,061,003,002,18/03/2024,09:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+061002,061,004,001,25/06/2025,10:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+061003,061,004,001,01/03/2026,08:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+061004,061,003,002,25/08/2025,08:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+061005,061,004,002,11/05/2023,17:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+061006,061,004,002,26/10/2023,11:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+061007,061,001,001,14/08/2025,16:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+061008,061,001,002,10/02/2024,14:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+061009,061,004,002,03/01/2024,10:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+062001,062,001,002,14/02/2026,11:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+062002,062,002,002,25/03/2024,11:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+062003,062,004,002,30/12/2024,08:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+062004,062,002,002,09/08/2025,11:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+062005,062,003,001,26/10/2024,10:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+062006,062,001,001,08/05/2024,10:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+063001,063,004,002,20/05/2023,15:00,Detartraje supragingival. Control semestral.,Completada
+063002,063,001,001,12/10/2024,08:30,Detartraje supragingival. Control semestral.,Completada
+063003,063,004,001,27/05/2025,16:00,Detartraje supragingival. Control semestral.,Completada
+063004,063,001,001,11/01/2026,11:00,Detartraje supragingival. Control semestral.,Completada
+063005,063,004,002,27/06/2025,11:30,Detartraje supragingival. Control semestral.,Completada
+063006,063,003,002,09/04/2026,15:30,Detartraje supragingival. Control semestral.,Completada
+063007,063,004,002,06/11/2024,10:30,Detartraje supragingival. Control semestral.,Completada
+063008,063,002,001,29/12/2024,15:00,Detartraje supragingival. Control semestral.,Completada
+063009,063,003,001,10/12/2025,14:30,Detartraje supragingival. Control semestral.,Completada
+063010,063,001,001,17/06/2023,15:00,Detartraje supragingival. Control semestral.,Completada
+064001,064,003,002,17/07/2023,17:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064002,064,001,002,05/09/2024,11:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064003,064,004,002,16/09/2025,10:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064004,064,002,002,02/07/2023,17:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064005,064,001,002,14/04/2023,10:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064006,064,001,001,06/12/2023,10:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064007,064,003,002,15/01/2025,16:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064008,064,004,002,29/03/2025,09:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064009,064,003,001,07/10/2023,10:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064010,064,004,001,04/06/2025,16:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064011,064,003,002,02/07/2025,10:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064012,064,001,001,21/10/2024,11:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064013,064,003,002,20/05/2023,17:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064014,064,001,002,22/07/2024,10:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064015,064,001,002,16/03/2026,08:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064016,064,003,001,22/06/2024,08:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064017,064,002,002,04/08/2024,10:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+064018,064,004,002,30/04/2025,17:30,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Pendiente
+065001,065,004,001,10/04/2024,16:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065002,065,003,002,14/03/2025,09:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065003,065,001,001,30/03/2026,08:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065004,065,001,001,06/08/2024,16:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065005,065,001,001,11/01/2025,11:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065006,065,001,001,15/08/2023,09:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065007,065,002,002,12/12/2025,09:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065008,065,001,002,27/03/2024,15:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065009,065,003,001,04/02/2025,14:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065010,065,004,001,11/05/2024,16:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065011,065,002,001,18/03/2026,11:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065012,065,001,002,29/10/2025,15:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065013,065,001,001,30/04/2023,16:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065014,065,002,002,19/08/2023,14:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+065015,065,003,001,11/01/2026,16:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+066001,066,004,001,19/01/2026,14:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+066002,066,003,002,15/10/2023,10:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+066003,066,001,001,10/01/2024,09:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+066004,066,003,002,16/04/2023,14:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+066005,066,004,002,04/03/2026,09:00,Obturación con resina compuesta. Control a los 6 meses.,Pendiente
+067001,067,002,002,13/07/2024,17:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+067002,067,004,001,24/10/2025,10:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+067003,067,001,001,05/08/2024,09:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+067004,067,001,002,23/11/2024,16:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+067005,067,003,001,05/12/2024,09:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Pendiente
+068001,068,002,002,10/08/2025,11:30,Detartraje supragingival. Control semestral.,Completada
+068002,068,003,002,14/02/2024,15:00,Detartraje supragingival. Control semestral.,Completada
+068003,068,001,002,14/09/2023,10:30,Detartraje supragingival. Control semestral.,Completada
+068004,068,003,001,19/09/2025,16:00,Detartraje supragingival. Control semestral.,Completada
+068005,068,003,001,29/05/2025,08:00,Detartraje supragingival. Control semestral.,Completada
+069001,069,002,002,31/01/2024,15:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069002,069,004,001,11/01/2025,14:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069003,069,001,001,03/04/2025,08:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069004,069,001,001,11/06/2025,17:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069005,069,002,001,29/02/2024,09:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069006,069,002,002,25/03/2026,10:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069007,069,001,002,08/06/2025,11:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069008,069,001,001,02/07/2025,15:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069009,069,001,002,02/10/2023,09:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069010,069,002,002,03/04/2024,11:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069011,069,001,001,03/05/2024,10:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069012,069,003,002,11/08/2024,14:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069013,069,004,002,28/06/2023,10:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069014,069,002,002,09/01/2024,17:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069015,069,004,001,24/12/2024,08:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069016,069,002,002,19/02/2025,14:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069017,069,001,002,17/01/2026,11:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069018,069,004,001,03/09/2024,09:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+069019,069,002,001,27/07/2023,17:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+070001,070,003,001,29/05/2023,11:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070002,070,002,002,15/06/2023,16:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070003,070,003,002,02/07/2023,14:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070004,070,001,001,13/11/2024,16:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070005,070,002,002,05/11/2024,16:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070006,070,001,002,06/05/2024,09:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070007,070,004,001,13/12/2023,17:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070008,070,001,001,24/12/2023,11:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070009,070,004,002,05/03/2025,08:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070010,070,002,001,02/12/2023,10:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070011,070,001,001,13/12/2025,15:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070012,070,001,002,05/08/2023,15:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070013,070,003,002,03/01/2026,10:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070014,070,003,002,20/05/2024,17:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070015,070,001,002,07/11/2025,16:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+070016,070,004,001,12/06/2024,16:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+071001,071,004,002,09/12/2025,17:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+071002,071,003,002,30/07/2024,17:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+071003,071,003,002,17/05/2024,17:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+071004,071,004,001,30/11/2024,10:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+071005,071,002,001,12/02/2025,17:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+072001,072,003,001,12/09/2024,16:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072002,072,003,001,31/03/2026,09:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072003,072,002,002,29/09/2024,09:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072004,072,002,001,09/10/2025,10:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072005,072,002,002,22/12/2025,10:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072006,072,004,001,14/11/2025,09:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072007,072,001,002,11/04/2024,17:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072008,072,002,002,17/10/2025,11:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072009,072,002,001,16/03/2024,08:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072010,072,003,002,16/08/2024,11:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072011,072,001,001,30/10/2023,17:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072012,072,001,001,04/07/2023,16:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072013,072,002,002,03/07/2023,17:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072014,072,001,002,03/04/2025,14:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072015,072,002,002,09/11/2024,15:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+072016,072,003,001,30/01/2024,10:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Pendiente
+073001,073,004,001,10/09/2024,14:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Pendiente
+074001,074,002,002,23/04/2023,11:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+074002,074,004,002,22/07/2025,09:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+074003,074,001,001,05/01/2025,14:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+074004,074,004,001,28/02/2025,11:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+074005,074,002,002,03/06/2024,11:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+074006,074,001,001,17/07/2025,14:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+075001,075,001,001,26/03/2024,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075002,075,004,002,08/05/2024,15:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075003,075,003,001,09/11/2023,09:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075004,075,002,002,19/02/2024,16:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075005,075,004,001,07/05/2025,09:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075006,075,001,002,16/05/2024,11:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075007,075,002,002,29/10/2024,14:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075008,075,004,001,11/04/2025,15:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075009,075,001,002,16/10/2023,10:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075010,075,001,001,01/01/2025,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075011,075,002,001,22/02/2025,08:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075012,075,001,002,07/12/2024,14:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075013,075,001,002,27/09/2024,16:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075014,075,001,002,26/09/2023,16:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+075015,075,002,001,25/09/2023,09:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Pendiente
+076001,076,003,002,14/03/2025,09:30,Detartraje supragingival. Control semestral.,Completada
+076002,076,002,001,04/04/2026,15:30,Detartraje supragingival. Control semestral.,Completada
+076003,076,002,001,03/05/2023,14:30,Detartraje supragingival. Control semestral.,Completada
+076004,076,002,001,20/04/2025,09:00,Detartraje supragingival. Control semestral.,Completada
+076005,076,002,002,07/11/2024,15:00,Detartraje supragingival. Control semestral.,Completada
+076006,076,001,002,13/06/2024,11:30,Detartraje supragingival. Control semestral.,Completada
+076007,076,001,001,30/07/2024,10:30,Detartraje supragingival. Control semestral.,Completada
+076008,076,002,002,27/07/2025,16:30,Detartraje supragingival. Control semestral.,Completada
+076009,076,003,002,13/09/2025,15:30,Detartraje supragingival. Control semestral.,Completada
+076010,076,003,002,03/12/2025,15:30,Detartraje supragingival. Control semestral.,Completada
+076011,076,002,002,06/01/2026,11:00,Detartraje supragingival. Control semestral.,Completada
+076012,076,001,001,27/10/2024,08:30,Detartraje supragingival. Control semestral.,Completada
+076013,076,003,002,05/03/2025,10:00,Detartraje supragingival. Control semestral.,Completada
+076014,076,002,002,11/03/2026,11:30,Detartraje supragingival. Control semestral.,Completada
+076015,076,002,002,18/12/2024,15:00,Detartraje supragingival. Control semestral.,Completada
+076016,076,001,002,29/11/2025,10:30,Detartraje supragingival. Control semestral.,Completada
+077001,077,004,001,29/08/2024,11:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077002,077,001,002,22/03/2024,15:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077003,077,001,002,12/06/2024,16:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077004,077,004,001,12/06/2024,16:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077005,077,002,002,23/03/2026,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077006,077,001,001,27/08/2024,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077007,077,002,002,30/05/2024,08:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077008,077,002,002,04/04/2024,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077009,077,001,002,05/05/2025,11:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077010,077,002,002,18/02/2026,10:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077011,077,002,001,17/10/2023,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077012,077,003,001,12/07/2025,14:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077013,077,003,002,22/12/2025,11:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077014,077,003,001,04/06/2023,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077015,077,001,002,26/10/2023,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077016,077,004,002,14/12/2024,08:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077017,077,004,001,08/02/2025,11:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077018,077,001,002,20/06/2024,16:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077019,077,001,001,13/06/2025,10:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+077020,077,003,002,29/08/2024,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+078001,078,002,002,17/04/2025,09:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+078002,078,001,001,13/08/2025,16:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+078003,078,004,001,19/02/2026,09:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+078004,078,002,001,18/04/2024,15:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+079001,079,001,002,09/11/2023,15:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079002,079,003,001,15/10/2024,16:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079003,079,003,002,28/08/2024,08:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079004,079,003,001,05/10/2024,11:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079005,079,001,002,11/11/2024,15:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079006,079,003,002,29/04/2024,08:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079007,079,001,001,12/02/2024,09:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079008,079,001,002,08/02/2026,15:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079009,079,001,002,25/04/2024,11:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079010,079,003,002,23/07/2024,17:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079011,079,003,001,20/04/2023,16:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079012,079,003,001,07/11/2024,08:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079013,079,002,001,09/01/2024,14:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079014,079,004,002,03/06/2025,14:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079015,079,001,002,15/02/2025,16:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079016,079,001,001,06/05/2024,17:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+079017,079,003,002,27/07/2025,14:30,Mantenimiento preventivo y limpieza. Control anual.,Pendiente
+080001,080,004,001,10/01/2025,08:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+080002,080,001,001,27/03/2024,14:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+080003,080,002,001,04/06/2024,08:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+080004,080,003,002,03/01/2026,09:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+080005,080,002,002,07/03/2024,15:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+080006,080,001,002,29/07/2025,17:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+080007,080,001,002,25/05/2025,09:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+080008,080,003,001,28/10/2024,16:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+080009,080,002,001,13/05/2025,09:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+080010,080,004,002,07/07/2024,10:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+080011,080,002,001,17/09/2024,15:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+080012,080,001,001,16/10/2023,09:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+080013,080,001,002,17/05/2024,17:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+081001,081,002,001,21/12/2025,14:30,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,Completada
+081002,081,004,001,28/01/2025,16:30,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,Completada
+081003,081,003,001,16/03/2026,09:30,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,Completada
+081004,081,002,002,07/06/2025,14:30,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,Completada
+081005,081,004,002,08/04/2025,11:00,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,Completada
+081006,081,001,002,11/10/2025,08:00,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,Completada
+081007,081,003,001,14/09/2023,10:00,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,Completada
+081008,081,001,002,10/02/2025,09:30,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,Pendiente
+082001,082,001,001,05/09/2023,14:00,Detartraje supragingival. Control semestral.,Completada
+082002,082,004,001,07/11/2023,16:00,Detartraje supragingival. Control semestral.,Completada
+082003,082,001,001,04/05/2025,14:00,Detartraje supragingival. Control semestral.,Completada
+082004,082,002,001,10/05/2024,15:00,Detartraje supragingival. Control semestral.,Pendiente
+083001,083,001,002,13/09/2024,09:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083002,083,001,001,19/09/2025,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083003,083,003,001,23/03/2024,11:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083004,083,001,001,10/05/2024,09:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083005,083,004,001,16/11/2023,10:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083006,083,001,001,21/10/2025,17:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083007,083,002,002,03/09/2024,16:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083008,083,004,001,10/07/2024,11:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083009,083,001,001,12/04/2025,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083010,083,001,001,07/04/2026,14:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083011,083,001,002,02/04/2026,14:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083012,083,001,001,17/07/2025,09:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083013,083,003,001,04/05/2024,08:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+083014,083,001,002,26/01/2024,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+084001,084,001,002,01/08/2023,14:00,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+084002,084,004,002,24/05/2024,10:00,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+084003,084,003,002,14/11/2025,17:30,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+084004,084,003,001,12/03/2025,11:00,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,Completada
+085001,085,001,002,20/06/2025,11:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+085002,085,004,001,05/04/2024,11:30,Obturación con resina compuesta. Control a los 6 meses.,Pendiente
+086001,086,003,001,14/12/2024,11:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+087001,087,004,002,08/05/2025,14:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087002,087,003,002,20/03/2025,14:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087003,087,002,002,11/05/2024,10:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087004,087,002,002,11/05/2023,10:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087005,087,002,001,24/08/2023,10:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087006,087,002,002,12/02/2025,16:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087007,087,004,001,13/11/2023,15:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087008,087,001,001,01/10/2025,15:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087009,087,002,002,14/01/2025,11:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087010,087,001,002,11/10/2025,14:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087011,087,002,002,27/03/2025,14:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087012,087,002,001,09/06/2025,15:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087013,087,001,001,15/04/2024,14:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087014,087,003,002,06/07/2024,09:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087015,087,001,001,07/05/2025,14:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087016,087,001,001,26/04/2024,09:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087017,087,004,002,10/07/2023,15:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087018,087,002,002,14/09/2023,15:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+087019,087,001,002,09/04/2026,11:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+088001,088,003,001,08/07/2024,10:00,Detartraje supragingival. Control semestral.,Completada
+088002,088,002,002,19/04/2023,17:30,Detartraje supragingival. Control semestral.,Completada
+088003,088,003,002,29/11/2023,09:00,Detartraje supragingival. Control semestral.,Completada
+088004,088,001,002,06/03/2025,14:30,Detartraje supragingival. Control semestral.,Completada
+088005,088,003,002,17/02/2025,16:30,Detartraje supragingival. Control semestral.,Completada
+088006,088,003,002,05/12/2023,10:00,Detartraje supragingival. Control semestral.,Completada
+088007,088,002,001,21/04/2024,14:00,Detartraje supragingival. Control semestral.,Completada
+088008,088,001,002,17/08/2023,15:30,Detartraje supragingival. Control semestral.,Completada
+088009,088,001,001,15/05/2025,15:30,Detartraje supragingival. Control semestral.,Completada
+088010,088,001,002,04/12/2024,15:00,Detartraje supragingival. Control semestral.,Completada
+088011,088,004,001,14/02/2025,14:30,Detartraje supragingival. Control semestral.,Completada
+088012,088,001,002,28/09/2023,14:30,Detartraje supragingival. Control semestral.,Completada
+088013,088,003,002,28/09/2025,09:00,Detartraje supragingival. Control semestral.,Completada
+088014,088,004,002,13/01/2024,09:00,Detartraje supragingival. Control semestral.,Completada
+088015,088,003,001,02/09/2025,15:30,Detartraje supragingival. Control semestral.,Completada
+088016,088,003,002,15/06/2024,17:30,Detartraje supragingival. Control semestral.,Completada
+088017,088,001,001,16/11/2024,08:30,Detartraje supragingival. Control semestral.,Completada
+089001,089,002,001,22/09/2024,15:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089002,089,002,001,27/07/2023,17:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089003,089,003,001,13/03/2025,17:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089004,089,001,001,22/05/2023,15:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089005,089,001,002,31/05/2024,14:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089006,089,001,002,10/04/2024,15:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089007,089,001,001,05/05/2024,10:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089008,089,003,001,15/05/2024,08:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089009,089,001,002,13/11/2025,14:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089010,089,004,002,24/04/2025,15:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089011,089,003,002,19/08/2023,15:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089012,089,003,002,08/03/2025,17:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089013,089,001,002,23/10/2025,16:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089014,089,001,001,06/03/2024,08:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089015,089,002,002,09/12/2023,08:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+089016,089,001,001,31/07/2024,09:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+090001,090,003,002,08/07/2023,16:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090002,090,003,002,24/08/2024,16:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090003,090,001,002,10/01/2024,15:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090004,090,004,001,13/11/2024,11:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090005,090,003,002,20/12/2024,14:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090006,090,003,001,10/09/2025,09:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090007,090,001,002,12/02/2026,10:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090008,090,003,002,03/07/2023,16:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090009,090,002,001,23/12/2024,15:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090010,090,002,002,21/02/2024,17:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090011,090,002,001,18/11/2023,16:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090012,090,002,002,03/06/2025,15:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090013,090,002,002,06/08/2025,15:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090014,090,004,002,18/06/2025,08:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090015,090,003,002,24/01/2026,14:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090016,090,004,002,14/02/2026,10:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090017,090,003,002,20/04/2023,08:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090018,090,001,001,10/06/2024,17:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090019,090,003,002,29/05/2025,09:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+090020,090,004,001,22/03/2024,08:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+091001,091,001,001,24/03/2024,11:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091002,091,002,002,21/06/2025,11:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091003,091,001,001,10/05/2023,11:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091004,091,004,001,25/03/2024,17:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091005,091,004,001,09/06/2025,16:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091006,091,001,001,27/03/2025,14:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091007,091,003,002,11/02/2025,15:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091008,091,001,001,02/02/2024,09:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091009,091,003,002,08/03/2025,10:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091010,091,003,001,25/12/2024,09:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091011,091,001,002,24/04/2024,11:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091012,091,001,001,06/12/2023,14:00,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091013,091,001,001,13/05/2024,09:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+091014,091,001,001,15/01/2025,08:30,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,Completada
+092001,092,001,002,18/12/2025,10:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+092002,092,003,002,19/04/2023,17:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+092003,092,001,002,04/08/2024,14:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+092004,092,002,002,29/08/2023,14:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+092005,092,003,001,06/05/2023,14:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+092006,092,001,002,05/10/2024,17:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+092007,092,003,002,26/05/2023,14:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+092008,092,001,001,19/11/2024,15:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+092009,092,002,001,16/05/2025,10:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+092010,092,002,001,20/09/2024,10:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+092011,092,002,001,07/08/2023,15:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+092012,092,001,002,01/02/2024,08:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+093001,093,003,002,21/06/2024,08:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093002,093,001,001,10/10/2025,16:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093003,093,002,001,26/05/2023,15:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093004,093,002,002,19/11/2023,16:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093005,093,004,001,01/12/2023,11:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093006,093,001,001,28/07/2023,10:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093007,093,001,001,16/09/2025,08:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093008,093,001,002,13/08/2023,15:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093009,093,004,002,23/11/2023,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093010,093,001,001,19/03/2025,10:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093011,093,004,002,19/05/2024,09:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093012,093,002,001,22/05/2025,17:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093013,093,003,002,08/11/2025,15:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093014,093,002,002,05/02/2024,09:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093015,093,003,002,04/04/2025,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093016,093,004,001,15/07/2023,10:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093017,093,001,001,15/06/2024,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093018,093,002,002,12/01/2025,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+093019,093,001,002,28/06/2025,16:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+094001,094,001,002,04/01/2024,11:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094002,094,001,002,21/10/2023,11:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094003,094,002,001,26/02/2025,14:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094004,094,004,002,20/07/2023,11:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094005,094,002,001,05/01/2025,14:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094006,094,001,002,27/08/2024,09:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094007,094,002,002,08/05/2023,14:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094008,094,003,001,26/07/2025,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094009,094,001,001,22/09/2024,16:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094010,094,001,002,05/12/2025,11:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094011,094,001,002,12/12/2024,16:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094012,094,002,001,03/10/2025,14:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094013,094,003,002,18/08/2025,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094014,094,003,001,15/04/2023,10:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094015,094,001,001,10/08/2023,15:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094016,094,003,002,27/08/2025,08:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+094017,094,004,001,01/09/2023,11:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+095001,095,001,001,24/02/2026,10:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095002,095,001,002,28/08/2024,14:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095003,095,002,001,08/01/2026,15:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095004,095,003,001,29/10/2025,17:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095005,095,004,001,13/03/2024,14:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095006,095,001,001,15/10/2023,10:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095007,095,001,002,24/03/2024,08:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095008,095,002,002,05/10/2025,10:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095009,095,001,001,31/08/2024,16:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095010,095,002,001,15/02/2024,10:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095011,095,001,002,26/11/2025,17:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095012,095,003,001,25/09/2024,14:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095013,095,004,001,16/01/2025,11:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095014,095,001,002,14/06/2024,11:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095015,095,001,001,26/04/2024,11:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095016,095,001,002,10/03/2024,16:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095017,095,002,001,08/04/2024,17:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095018,095,001,002,26/08/2023,09:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095019,095,003,001,01/07/2023,14:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+095020,095,003,001,28/07/2024,11:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+096001,096,001,002,28/06/2025,10:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+097001,097,001,001,07/12/2023,17:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097002,097,001,002,17/05/2025,15:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097003,097,003,001,21/11/2024,10:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097004,097,003,001,25/03/2024,17:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097005,097,002,002,02/01/2024,08:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097006,097,002,001,19/10/2024,15:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097007,097,002,002,27/05/2025,16:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097008,097,003,002,23/06/2023,16:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097009,097,003,002,14/12/2023,08:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097010,097,003,001,26/03/2024,15:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097011,097,002,001,23/05/2023,16:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097012,097,001,001,22/11/2024,16:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097013,097,001,001,23/09/2024,16:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097014,097,002,002,29/09/2024,15:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097015,097,004,001,16/07/2025,08:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097016,097,004,002,03/06/2025,14:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097017,097,004,001,29/11/2024,10:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097018,097,004,002,01/11/2024,10:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097019,097,001,001,12/09/2023,09:30,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+097020,097,001,001,02/02/2026,08:00,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,Completada
+098001,098,002,002,03/01/2024,11:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+098002,098,003,001,24/06/2023,17:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+098003,098,003,001,05/12/2025,08:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+098004,098,003,002,07/04/2026,17:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+098005,098,004,002,11/07/2023,11:30,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+098006,098,003,002,29/04/2023,09:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Completada
+098007,098,002,001,14/01/2025,17:00,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,Pendiente
+099001,099,003,002,09/02/2024,08:00,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,Completada
+100001,100,001,001,07/04/2024,09:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100002,100,002,001,05/05/2024,10:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100003,100,004,001,09/02/2026,10:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100004,100,004,002,18/03/2025,16:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100005,100,001,002,11/04/2024,14:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100006,100,004,002,20/07/2023,17:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100007,100,001,002,28/12/2023,11:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100008,100,003,001,18/06/2023,09:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100009,100,003,001,29/06/2023,11:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100010,100,002,002,02/08/2025,09:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100011,100,001,002,03/10/2025,10:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100012,100,001,001,09/09/2025,14:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100013,100,002,002,08/08/2024,10:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100014,100,001,002,15/09/2024,15:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100015,100,004,001,22/07/2023,15:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100016,100,001,002,11/08/2024,09:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+100017,100,001,001,12/05/2023,08:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+101001,101,004,002,14/11/2024,14:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+101002,101,004,002,14/11/2024,17:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+101003,101,001,001,24/06/2023,11:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+101004,101,001,001,29/07/2023,15:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+101005,101,002,001,04/10/2024,10:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+101006,101,001,001,22/12/2024,15:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+101007,101,001,002,01/12/2023,17:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+101008,101,002,001,31/03/2024,16:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+101009,101,003,002,16/08/2023,11:00,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+101010,101,001,002,06/10/2024,08:30,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,Completada
+102001,102,002,001,30/11/2025,16:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+102002,102,001,002,01/11/2023,08:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+102003,102,001,002,07/07/2025,11:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+102004,102,001,002,04/06/2025,17:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+102005,102,003,001,21/09/2024,09:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+102006,102,004,002,26/11/2025,14:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+102007,102,003,001,01/11/2024,09:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+102008,102,003,002,11/02/2025,17:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+102009,102,003,002,28/06/2023,15:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+102010,102,001,002,30/05/2024,09:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+102011,102,001,002,21/12/2024,16:30,Obturación con resina compuesta. Control a los 6 meses.,Completada
+102012,102,001,002,15/02/2025,17:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+102013,102,002,002,12/03/2025,08:00,Obturación con resina compuesta. Control a los 6 meses.,Completada
+103001,103,001,001,06/04/2025,11:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+103002,103,002,002,05/04/2025,11:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+103003,103,001,002,11/03/2025,09:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+103004,103,001,002,10/10/2025,09:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+103005,103,001,002,10/01/2025,09:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+103006,103,002,001,06/09/2024,16:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+103007,103,004,002,02/02/2025,11:30,Mantenimiento preventivo y limpieza. Control anual.,Completada
+103008,103,002,001,09/06/2025,08:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+103009,103,003,001,07/05/2023,15:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+103010,103,002,002,04/11/2025,17:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+103011,103,001,001,22/05/2024,15:00,Mantenimiento preventivo y limpieza. Control anual.,Completada
+103012,103,003,002,05/04/2025,09:30,Mantenimiento preventivo y limpieza. Control anual.,Pendiente
+104001,104,001,002,09/06/2025,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104002,104,001,002,05/07/2024,17:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104003,104,001,002,27/03/2025,15:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104004,104,001,002,17/11/2024,08:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104005,104,002,001,31/12/2024,09:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104006,104,003,002,01/11/2025,10:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104007,104,002,002,08/09/2023,14:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104008,104,002,001,22/05/2024,09:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104009,104,004,001,14/12/2025,09:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104010,104,001,002,25/12/2023,16:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104011,104,004,002,22/04/2024,17:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104012,104,001,002,19/11/2023,14:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104013,104,004,002,13/04/2023,10:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104014,104,004,001,05/10/2024,16:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+104015,104,001,001,29/07/2024,11:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+105001,105,001,001,09/11/2023,16:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+105002,105,001,001,23/11/2024,10:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+105003,105,004,002,27/02/2024,17:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+105004,105,001,002,21/06/2024,14:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+105005,105,001,001,09/04/2024,10:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+105006,105,003,001,02/01/2026,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+105007,105,002,002,06/06/2024,17:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+105008,105,004,002,16/11/2025,11:30,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+105009,105,003,001,04/03/2024,16:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Completada
+105010,105,001,001,26/07/2023,08:00,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,Pendiente
+106001,106,001,001,14/02/2024,14:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+106002,106,003,002,05/10/2024,10:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+106003,106,001,001,09/03/2026,16:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+106004,106,002,001,08/12/2024,14:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+106005,106,001,002,04/07/2024,17:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+106006,106,001,002,25/06/2024,16:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+106007,106,001,002,18/02/2024,16:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+106008,106,004,001,31/12/2025,17:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+106009,106,002,001,18/09/2025,10:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+106010,106,004,001,27/09/2023,14:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+106011,106,003,002,31/10/2023,08:00,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+106012,106,001,002,04/10/2025,14:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+106013,106,002,001,10/08/2023,14:30,Pulido y sellado con resina fluida. Control en 3 meses.,Completada
+107001,107,004,002,21/09/2023,16:00,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+107002,107,002,002,09/04/2025,15:00,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+107003,107,003,002,14/08/2024,08:30,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+107004,107,004,002,08/07/2024,14:30,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,Completada
+108001,108,001,002,20/11/2024,10:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+108002,108,003,001,10/08/2025,17:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+108003,108,002,001,24/04/2024,08:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+108004,108,004,001,31/07/2023,11:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+108005,108,003,002,21/03/2026,16:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+108006,108,001,002,14/12/2023,14:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+108007,108,001,002,15/03/2024,10:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+108008,108,004,002,13/05/2023,14:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+108009,108,002,001,16/04/2025,15:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+108010,108,002,001,26/08/2025,16:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+108011,108,001,001,04/07/2024,09:30,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+108012,108,004,001,22/02/2024,10:00,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,Completada
+109001,109,001,002,27/09/2023,10:00,Detartraje supragingival. Control semestral.,Completada
+109002,109,001,001,11/05/2023,15:00,Detartraje supragingival. Control semestral.,Completada
+109003,109,002,001,23/09/2023,14:00,Detartraje supragingival. Control semestral.,Completada
+109004,109,001,001,14/08/2024,08:30,Detartraje supragingival. Control semestral.,Completada
+109005,109,003,002,10/04/2024,15:00,Detartraje supragingival. Control semestral.,Completada
+109006,109,001,001,07/10/2024,14:30,Detartraje supragingival. Control semestral.,Completada
+109007,109,002,001,15/06/2024,08:00,Detartraje supragingival. Control semestral.,Completada
+109008,109,001,001,26/08/2024,10:30,Detartraje supragingival. Control semestral.,Completada
+109009,109,001,002,11/08/2023,14:00,Detartraje supragingival. Control semestral.,Completada
+109010,109,003,001,31/03/2024,17:30,Detartraje supragingival. Control semestral.,Completada
+110001,110,001,001,02/09/2023,17:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110002,110,003,002,27/09/2023,08:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110003,110,001,002,10/11/2025,09:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110004,110,001,001,30/05/2025,14:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110005,110,004,001,24/01/2024,17:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110006,110,001,001,07/06/2024,17:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110007,110,001,002,24/09/2024,15:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110008,110,001,002,16/06/2023,09:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110009,110,003,002,06/10/2023,11:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110010,110,004,001,06/06/2024,11:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110011,110,004,002,24/01/2024,10:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110012,110,003,001,07/05/2023,08:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110013,110,001,001,28/11/2023,11:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110014,110,001,001,06/10/2025,08:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110015,110,001,001,12/03/2026,09:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110016,110,001,002,31/12/2024,09:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110017,110,001,001,22/11/2024,16:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110018,110,003,002,24/07/2023,11:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110019,110,003,001,28/06/2025,16:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+110020,110,001,002,17/03/2025,14:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+111001,111,003,001,04/12/2023,09:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+111002,111,001,001,09/12/2025,17:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+111003,111,004,001,13/08/2024,14:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+112001,112,001,002,02/11/2025,11:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+112002,112,004,001,21/02/2024,14:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+112003,112,003,002,23/02/2025,10:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+112004,112,002,002,15/01/2026,16:30,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+112005,112,003,002,11/08/2023,09:00,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,Completada
+113001,113,001,002,20/01/2026,11:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+113002,113,003,001,22/02/2026,17:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+113003,113,004,001,30/12/2023,16:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+113004,113,001,001,30/07/2024,15:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+113005,113,001,001,08/09/2023,08:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+114001,114,004,001,15/03/2024,09:00,Detartraje supragingival. Control semestral.,Completada
+114002,114,001,002,07/06/2024,17:00,Detartraje supragingival. Control semestral.,Completada
+114003,114,001,002,13/03/2024,14:00,Detartraje supragingival. Control semestral.,Completada
+114004,114,004,002,06/03/2024,10:30,Detartraje supragingival. Control semestral.,Completada
+114005,114,004,002,29/06/2025,09:00,Detartraje supragingival. Control semestral.,Completada
+114006,114,002,001,01/06/2024,14:00,Detartraje supragingival. Control semestral.,Completada
+114007,114,003,001,14/08/2024,16:30,Detartraje supragingival. Control semestral.,Completada
+114008,114,002,001,05/09/2025,17:30,Detartraje supragingival. Control semestral.,Completada
+115001,115,003,001,22/12/2025,11:30,Detartraje supragingival. Control semestral.,Completada
+115002,115,003,001,11/07/2024,08:00,Detartraje supragingival. Control semestral.,Completada
+115003,115,001,002,25/07/2023,14:30,Detartraje supragingival. Control semestral.,Completada
+115004,115,003,001,29/10/2025,16:00,Detartraje supragingival. Control semestral.,Completada
+115005,115,003,002,10/10/2024,09:30,Detartraje supragingival. Control semestral.,Completada
+115006,115,001,001,08/11/2023,10:30,Detartraje supragingival. Control semestral.,Completada
+116001,116,002,001,15/03/2026,11:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+116002,116,002,001,30/06/2024,09:30,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+116003,116,002,001,03/08/2024,16:00,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,Completada
+117001,117,004,001,08/02/2024,16:00,Detartraje supragingival. Control semestral.,Completada
+117002,117,004,002,12/05/2024,15:30,Detartraje supragingival. Control semestral.,Completada
+117003,117,003,002,09/06/2025,15:00,Detartraje supragingival. Control semestral.,Completada
+117004,117,001,001,16/05/2023,16:00,Detartraje supragingival. Control semestral.,Completada
+117005,117,003,002,14/12/2023,16:30,Detartraje supragingival. Control semestral.,Completada
+117006,117,004,002,20/08/2023,08:00,Detartraje supragingival. Control semestral.,Completada
+117007,117,001,001,04/06/2024,15:00,Detartraje supragingival. Control semestral.,Completada
+117008,117,003,001,06/11/2023,16:00,Detartraje supragingival. Control semestral.,Completada
+117009,117,001,002,17/09/2025,16:00,Detartraje supragingival. Control semestral.,Completada
+117010,117,004,002,18/06/2025,11:00,Detartraje supragingival. Control semestral.,Completada
+117011,117,003,002,29/03/2025,09:00,Detartraje supragingival. Control semestral.,Completada
+117012,117,003,001,26/03/2024,14:00,Detartraje supragingival. Control semestral.,Completada
+117013,117,001,001,27/06/2025,15:30,Detartraje supragingival. Control semestral.,Completada
+117014,117,001,002,03/11/2025,17:30,Detartraje supragingival. Control semestral.,Completada
+117015,117,001,001,24/09/2024,08:00,Detartraje supragingival. Control semestral.,Completada
+117016,117,001,001,18/12/2024,09:00,Detartraje supragingival. Control semestral.,Completada
+117017,117,004,002,03/07/2024,15:30,Detartraje supragingival. Control semestral.,Completada
+118001,118,001,001,11/05/2024,17:00,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+118002,118,001,002,11/08/2023,09:30,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",Completada
+119001,119,003,001,05/10/2025,17:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119002,119,001,002,15/05/2023,11:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119003,119,004,002,11/05/2023,16:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119004,119,002,001,01/08/2025,11:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119005,119,001,001,02/11/2025,10:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119006,119,003,001,07/06/2024,09:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119007,119,003,001,04/01/2024,16:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119008,119,001,002,21/02/2024,11:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119009,119,001,001,19/09/2023,17:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119010,119,004,002,02/07/2023,15:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119011,119,003,001,28/03/2025,09:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119012,119,003,002,23/07/2024,09:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119013,119,002,002,31/10/2024,11:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119014,119,003,001,15/11/2025,15:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119015,119,004,001,27/02/2026,09:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119016,119,001,001,10/04/2025,15:00,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119017,119,001,001,29/07/2024,10:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119018,119,002,001,16/02/2025,16:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119019,119,001,002,22/12/2025,09:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Completada
+119020,119,001,001,13/05/2024,11:30,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",Pendiente
+120001,120,001,001,16/04/2024,11:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120002,120,002,001,27/07/2025,08:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120003,120,001,001,20/12/2025,15:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120004,120,002,002,27/05/2023,10:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120005,120,001,002,08/02/2025,11:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120006,120,001,001,22/10/2025,11:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120007,120,001,001,17/07/2025,08:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120008,120,004,001,20/11/2024,15:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120009,120,002,002,23/11/2025,11:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120010,120,004,001,06/06/2023,15:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120011,120,002,002,05/06/2025,10:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120012,120,001,001,22/01/2024,08:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120013,120,001,001,18/01/2025,10:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120014,120,001,002,27/10/2024,09:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120015,120,001,001,19/06/2025,08:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120016,120,002,002,13/09/2024,17:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120017,120,004,002,30/11/2023,08:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120018,120,002,002,20/10/2024,17:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120019,120,001,001,30/06/2024,16:00,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
+120020,120,002,001,14/07/2025,09:30,Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,Completada
