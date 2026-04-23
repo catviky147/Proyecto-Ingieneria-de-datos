@@ -33,9 +33,7 @@ documentoPaciente int (10) not null,
 direccionPaciente varchar (100)not null,
 fechaNacPaciente date not null,
 Preexistencias varchar (500),
-Alergias varchar (100),
-usuarioFK int(10),
-foreign key (usuarioFK) references usuario(idUsuario) ON DELETE CASCADE
+Alergias varchar (100)
 );
 
 create table historiaClinica(
@@ -107,10 +105,6 @@ FROM citaOdontologico c
 INNER JOIN paciente p ON c.pacienteFK = p.idpaciente
 WHERE c.horario >= CURDATE();
 
--- 7. Seguridad: Log de usuarios 
-SELECT nombreUsuario, correoElectronico, rol 
-FROM usuario 
-WHERE rol != 'Paciente';
 
 #HU01 Crear historias clinicas
 
