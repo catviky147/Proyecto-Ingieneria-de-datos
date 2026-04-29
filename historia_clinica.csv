@@ -1,0 +1,121 @@
+idHistoriaClinica,idPaciente,estado,fechaApertura,diagnostico,tratamiento,numeroCitas
+001,001,Activa,11/01/2025,Pequeña fractura de esmalte en incisivo central,Pulido y sellado con resina fluida. Control en 3 meses.,7
+002,002,Activa,26/12/2022,"Oclusión normal, tejidos blandos saludables",Mantenimiento preventivo y limpieza. Control anual.,4
+003,003,Inactiva,09/04/2022,Bruxismo severo con desgaste oclusal avanzado,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,3
+004,004,Activa,23/07/2021,Maloclusión clase III con apiñamiento severo,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,4
+005,005,Inactiva,05/07/2023,Salud periodontal óptima sin hallazgos relevantes,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,18
+006,006,Activa,08/09/2022,Buen estado de salud bucodental,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,11
+007,007,Inactiva,11/07/2023,Fractura radicular vertical en premolar,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,5
+008,008,Activa,10/10/2025,Caries incipiente en molar superior derecho,Obturación con resina compuesta. Control a los 6 meses.,2
+009,009,Activa,14/08/2023,Periodontitis crónica generalizada severa,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,4
+010,010,Activa,20/07/2025,Salud periodontal óptima sin hallazgos relevantes,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,17
+011,011,Activa,05/06/2023,Caries incipiente en molar superior derecho,Obturación con resina compuesta. Control a los 6 meses.,20
+012,012,Activa,10/07/2022,"Sin lesiones cariosas activas, encías sanas",Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,3
+013,013,Inactiva,01/01/2023,Bruxismo severo con desgaste oclusal avanzado,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,12
+014,014,Activa,26/08/2024,Buen estado de salud bucodental,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,8
+015,015,Activa,05/12/2022,Hiperplasia gingival generalizada por medicamentos,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,16
+016,016,Activa,23/09/2024,Buen estado de salud bucodental,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,2
+017,017,Activa,24/11/2022,Pequeña fractura de esmalte en incisivo central,Pulido y sellado con resina fluida. Control en 3 meses.,4
+018,018,Inactiva,20/12/2023,Absceso dentoalveolar agudo,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",13
+019,019,Activa,10/04/2024,Pequeña fractura de esmalte en incisivo central,Pulido y sellado con resina fluida. Control en 3 meses.,2
+020,020,Activa,30/01/2023,Buen estado de salud bucodental,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,8
+021,021,Inactiva,22/04/2025,Sensibilidad dentinaria en incisivos,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,7
+022,022,Inactiva,15/11/2025,Buen estado de salud bucodental,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,3
+023,023,Activa,08/11/2023,Hiperplasia gingival generalizada por medicamentos,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,17
+024,024,Activa,19/02/2025,"Oclusión normal, tejidos blandos saludables",Mantenimiento preventivo y limpieza. Control anual.,20
+025,025,Activa,26/03/2025,Periodontitis crónica generalizada severa,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,1
+026,026,Activa,06/07/2022,Hiperplasia gingival generalizada por medicamentos,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,18
+027,027,Activa,21/01/2023,Pequeña fractura de esmalte en incisivo central,Pulido y sellado con resina fluida. Control en 3 meses.,14
+028,028,Inactiva,05/11/2021,Gingivitis leve por placa bacteriana,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,9
+029,029,Activa,05/04/2022,Gingivitis leve por placa bacteriana,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,8
+030,030,Activa,16/08/2021,Celulitis facial odontogénica de origen dental,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",11
+031,031,Activa,10/01/2022,Bruxismo severo con desgaste oclusal avanzado,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,20
+032,032,Activa,17/02/2022,Maloclusión clase III con apiñamiento severo,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,12
+033,033,Activa,05/06/2025,Sensibilidad dentinaria en incisivos,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,18
+034,034,Activa,16/09/2025,"Oclusión normal, tejidos blandos saludables",Mantenimiento preventivo y limpieza. Control anual.,15
+035,035,Activa,27/04/2023,Gingivitis leve por placa bacteriana,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,10
+036,036,Activa,05/04/2025,Sarro leve supragingival,Detartraje supragingival. Control semestral.,16
+037,037,Activa,22/10/2021,Caries incipiente en molar superior derecho,Obturación con resina compuesta. Control a los 6 meses.,15
+038,038,Inactiva,30/09/2022,Pequeña fractura de esmalte en incisivo central,Pulido y sellado con resina fluida. Control en 3 meses.,15
+039,039,Activa,08/10/2022,"Oclusión normal, tejidos blandos saludables",Mantenimiento preventivo y limpieza. Control anual.,8
+040,040,Activa,10/11/2021,Sarro leve supragingival,Detartraje supragingival. Control semestral.,14
+041,041,Activa,10/04/2024,"Sin lesiones cariosas activas, encías sanas",Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,14
+042,042,Inactiva,01/10/2023,Fractura radicular vertical en premolar,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,5
+043,043,Activa,10/03/2025,"Oclusión normal, tejidos blandos saludables",Mantenimiento preventivo y limpieza. Control anual.,13
+044,044,Inactiva,16/05/2025,Periodontitis crónica generalizada severa,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,12
+045,045,Activa,10/04/2023,Hiperplasia gingival generalizada por medicamentos,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,7
+046,046,Inactiva,15/02/2026,Sarro leve supragingival,Detartraje supragingival. Control semestral.,13
+047,047,Activa,16/05/2022,Pequeña fractura de esmalte en incisivo central,Pulido y sellado con resina fluida. Control en 3 meses.,11
+048,048,Inactiva,21/10/2021,Edentulismo parcial extenso con reabsorción ósea,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,20
+049,049,Inactiva,15/11/2024,Quiste radicular en molar superior izquierdo,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,1
+050,050,Activa,31/01/2022,Buen estado de salud bucodental,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,17
+051,051,Inactiva,17/04/2021,"Oclusión normal, tejidos blandos saludables",Mantenimiento preventivo y limpieza. Control anual.,8
+052,052,Inactiva,13/04/2021,Quiste radicular en molar superior izquierdo,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,12
+053,053,Inactiva,15/04/2021,"Sin lesiones cariosas activas, encías sanas",Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,9
+054,054,Inactiva,06/04/2025,Gingivitis leve por placa bacteriana,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,16
+055,055,Inactiva,07/02/2024,Caries profunda con compromiso pulpar en molar inferior,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,3
+056,056,Activa,22/11/2022,Salud periodontal óptima sin hallazgos relevantes,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,4
+057,057,Activa,21/12/2023,Pequeña fractura de esmalte en incisivo central,Pulido y sellado con resina fluida. Control en 3 meses.,2
+058,058,Activa,21/04/2025,Pequeña fractura de esmalte en incisivo central,Pulido y sellado con resina fluida. Control en 3 meses.,16
+059,059,Activa,17/02/2026,Hiperplasia gingival generalizada por medicamentos,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,7
+060,060,Inactiva,27/08/2021,Edentulismo parcial extenso con reabsorción ósea,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,15
+061,061,Activa,26/07/2024,Hiperplasia gingival generalizada por medicamentos,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,9
+062,062,Activa,19/10/2023,Edentulismo parcial extenso con reabsorción ósea,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,6
+063,063,Inactiva,20/12/2025,Sarro leve supragingival,Detartraje supragingival. Control semestral.,10
+064,064,Activa,17/10/2022,Periodontitis crónica generalizada severa,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,18
+065,065,Activa,13/06/2021,Sensibilidad dentinaria en incisivos,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,15
+066,066,Activa,12/05/2024,Caries incipiente en molar superior derecho,Obturación con resina compuesta. Control a los 6 meses.,5
+067,067,Inactiva,01/01/2026,Celulitis facial odontogénica de origen dental,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",5
+068,068,Activa,04/09/2024,Sarro leve supragingival,Detartraje supragingival. Control semestral.,5
+069,069,Activa,14/02/2023,Maloclusión clase III con apiñamiento severo,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,19
+070,070,Activa,31/05/2022,Absceso dentoalveolar agudo,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",16
+071,071,Activa,10/05/2021,Bruxismo severo con desgaste oclusal avanzado,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,5
+072,072,Inactiva,19/01/2022,Sensibilidad dentinaria en incisivos,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,16
+073,073,Activa,28/04/2023,Sensibilidad dentinaria en incisivos,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,1
+074,074,Inactiva,07/11/2021,Absceso dentoalveolar agudo,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",6
+075,075,Activa,04/04/2023,Buen estado de salud bucodental,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,15
+076,076,Activa,21/11/2025,Sarro leve supragingival,Detartraje supragingival. Control semestral.,16
+077,077,Activa,25/07/2022,Buen estado de salud bucodental,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,20
+078,078,Activa,19/06/2021,Absceso dentoalveolar agudo,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",4
+079,079,Activa,04/10/2023,"Oclusión normal, tejidos blandos saludables",Mantenimiento preventivo y limpieza. Control anual.,17
+080,080,Activa,13/01/2026,Salud periodontal óptima sin hallazgos relevantes,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,13
+081,081,Inactiva,16/06/2025,Caries profunda con compromiso pulpar en molar inferior,Endodoncia del diente afectado seguida de corona cerámica. Plan en 3 sesiones.,8
+082,082,Inactiva,09/03/2025,Sarro leve supragingival,Detartraje supragingival. Control semestral.,4
+083,083,Activa,07/11/2025,Pequeña fractura de esmalte en incisivo central,Pulido y sellado con resina fluida. Control en 3 meses.,14
+084,084,Inactiva,07/10/2024,Quiste radicular en molar superior izquierdo,Apicectomía y curetaje del quiste bajo anestesia local. Control radiográfico a los 3 meses.,4
+085,085,Activa,28/11/2021,Caries incipiente en molar superior derecho,Obturación con resina compuesta. Control a los 6 meses.,2
+086,086,Activa,06/03/2026,Hiperplasia gingival generalizada por medicamentos,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,1
+087,087,Inactiva,30/12/2025,Maloclusión clase III con apiñamiento severo,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,19
+088,088,Activa,11/09/2023,Sarro leve supragingival,Detartraje supragingival. Control semestral.,17
+089,089,Activa,24/11/2022,Caries incipiente en molar superior derecho,Obturación con resina compuesta. Control a los 6 meses.,16
+090,090,Activa,04/10/2023,Bruxismo severo con desgaste oclusal avanzado,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,20
+091,091,Activa,06/10/2022,Maloclusión clase III con apiñamiento severo,Tratamiento de ortodoncia correctiva con brackets metálicos. Duración estimada 24 meses.,14
+092,092,Activa,19/05/2023,Sensibilidad dentinaria en incisivos,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,12
+093,093,Activa,30/01/2022,Buen estado de salud bucodental,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,19
+094,094,Activa,10/01/2025,Pequeña fractura de esmalte en incisivo central,Pulido y sellado con resina fluida. Control en 3 meses.,17
+095,095,Inactiva,19/08/2025,Celulitis facial odontogénica de origen dental,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",20
+096,096,Activa,23/01/2025,Gingivitis leve por placa bacteriana,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,1
+097,097,Inactiva,22/03/2025,Hiperplasia gingival generalizada por medicamentos,Gingivectomía quirúrgica y ajuste farmacológico con médico tratante. Control posquirúrgico semanal.,20
+098,098,Activa,21/01/2022,Sensibilidad dentinaria en incisivos,Aplicación de barniz de flúor y desensibilizante. Control en 1 mes.,7
+099,099,Inactiva,24/03/2025,Periodontitis crónica generalizada severa,Raspado y alisado radicular bajo anestesia local. Reevaluación periodontal a las 6 semanas.,1
+100,100,Inactiva,03/10/2024,Gingivitis leve por placa bacteriana,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,17
+101,101,Activa,21/04/2023,Bruxismo severo con desgaste oclusal avanzado,Ferulización con placa de descarga y rehabilitación oclusal. Seguimiento mensual.,10
+102,102,Activa,14/05/2023,Caries incipiente en molar superior derecho,Obturación con resina compuesta. Control a los 6 meses.,13
+103,103,Inactiva,05/06/2021,"Oclusión normal, tejidos blandos saludables",Mantenimiento preventivo y limpieza. Control anual.,12
+104,104,Activa,17/11/2024,Pequeña fractura de esmalte en incisivo central,Pulido y sellado con resina fluida. Control en 3 meses.,15
+105,105,Activa,03/12/2024,Buen estado de salud bucodental,Control de rutina y limpieza profesional. Próxima cita en 6 meses.,10
+106,106,Activa,01/11/2023,Pequeña fractura de esmalte en incisivo central,Pulido y sellado con resina fluida. Control en 3 meses.,13
+107,107,Activa,18/01/2023,Fractura radicular vertical en premolar,Extracción del diente afectado y colocación de implante diferido. Cirugía en dos fases.,4
+108,108,Activa,15/10/2024,Gingivitis leve por placa bacteriana,Profilaxis dental y enseñanza de técnica de cepillado. Control en 3 meses.,12
+109,109,Activa,11/01/2023,Sarro leve supragingival,Detartraje supragingival. Control semestral.,10
+110,110,Activa,18/02/2025,Absceso dentoalveolar agudo,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",20
+111,111,Activa,04/09/2022,Celulitis facial odontogénica de origen dental,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",3
+112,112,Activa,24/12/2025,Salud periodontal óptima sin hallazgos relevantes,Control preventivo y limpieza profesional. Cita de seguimiento en 6 meses.,5
+113,113,Activa,05/06/2024,"Sin lesiones cariosas activas, encías sanas",Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,5
+114,114,Activa,30/11/2025,Sarro leve supragingival,Detartraje supragingival. Control semestral.,8
+115,115,Activa,26/02/2025,Sarro leve supragingival,Detartraje supragingival. Control semestral.,6
+116,116,Activa,06/06/2022,Edentulismo parcial extenso con reabsorción ósea,Rehabilitación con implantes oseointegrados y corona sobre implante. Plan quirúrgico en etapas.,3
+117,117,Activa,16/12/2022,Sarro leve supragingival,Detartraje supragingival. Control semestral.,17
+118,118,Activa,04/02/2025,Absceso dentoalveolar agudo,"Drenaje quirúrgico, antibioticoterapia y posterior extracción o tratamiento de conductos según evolución.",2
+119,119,Inactiva,22/07/2025,Celulitis facial odontogénica de origen dental,"Hospitalización, antibióticos intravenosos y drenaje quirúrgico urgente.",20
+120,120,Activa,05/01/2024,"Sin lesiones cariosas activas, encías sanas",Limpieza de mantenimiento y aplicación de flúor. Revisión en 6 meses.,20
