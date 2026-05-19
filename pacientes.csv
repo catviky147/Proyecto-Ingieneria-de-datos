@@ -1,4 +1,4 @@
-idPaciente,nombrePaciente,documentoPaciente,edadPaciente,fechaNaPaciente,tipoSangre,preexistencias,acudientePaciente,eps,telefonoPaciente,telefonoUrgencia,direccionPaciente,direccionTrabajo
+idPaciente,nombrePaciente,documentoPaciente,edadPaciente,fechaNaPaciente,tipoSangrePaciente,preexistenciaPaciente,acudientePaciente,epsPaciente,telefonoPaciente,telefonoUrgencia,direccionPaciente,direccionTrabajo
 1,Carlos Reyes Medina,196699713,15,04/12/2010,A-,Hipertensión arterial,Felipe Castro,Nueva EPS,3258509126,3177701200,"Carrera 2 #7-40, El Rosal, Cundinamarca","Carrera 30 #45-03, Teusaquillo"
 2,Isabella Guerrero Cárdenas,352865762,18,17/10/2007,A+,,,Sura,3287405367,3179795010,"Carrera 11 #93-70, Chapinero Alto",
 3,Nicolás Sánchez Flores,578054227,63,18/08/1963,O+,,,Salud Total,3111663638,3105334035,"Carrera 22 #59-11, Barrios Unidos","Carrera 7 #71-21, Chapinero"

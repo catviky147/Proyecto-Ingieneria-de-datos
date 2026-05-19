@@ -1,0 +1,121 @@
+idAnamnesis,idPaciente,documentoPaciente,alergiasPaciente,embarazo,medicaciondiariaPaciente,antecedentesfaPaciente
+1,1,196699713,Anestésicos locales (lidocaína),No,,Cáncer oral familiar
+2,2,352865762,,No aplica,Losartán 50mg,Cardiopatía familiar
+3,3,578054227,,No aplica,Losartán 50mg,Diabetes tipo 2 familiar
+4,4,159368553,,No aplica,Atorvastatina 40mg,Diabetes tipo 2 familiar
+5,5,459912919,,Sí - tercer trimestre,Levotiroxina 100mcg,
+6,6,481619987,,No aplica,,Diabetes tipo 2 familiar
+7,7,685765611,,No aplica,Losartán 50mg,Cardiopatía familiar
+8,8,930054627,Ibuprofeno,No aplica,Enalapril 20mg,
+9,9,829521169,,Sí - tercer trimestre,Losartán 50mg,Asma familiar
+10,10,984364241,,No aplica,Losartán 50mg,Enfermedad renal familiar
+11,11,812973878,,No aplica,Enalapril 20mg,Cáncer oral familiar
+12,12,524219931,,No aplica,Ibuprofeno 400mg (esporádico),
+13,13,918681807,,No aplica,Atorvastatina 40mg,Asma familiar
+14,14,147494574,Aspirina,No aplica,Metformina 850mg,Cáncer oral familiar
+15,15,608025373,,No aplica,Losartán 50mg,Cardiopatía familiar
+16,16,935675369,,No aplica,Ibuprofeno 400mg (esporádico),Epilepsia familiar
+17,17,973390270,Amoxicilina,No,,Asma familiar
+18,18,367150385,Metronidazol,No aplica,,Epilepsia familiar
+19,19,1055118908,,No aplica,Ibuprofeno 400mg (esporádico),Epilepsia familiar
+20,20,348084210,Ibuprofeno,No aplica,Enalapril 20mg,Cáncer oral familiar
+21,21,186058026,,No,Atorvastatina 40mg,Enfermedad renal familiar
+22,22,654238817,,No aplica,Enalapril 20mg,Diabetes tipo 2 familiar
+23,23,534596786,,No aplica,Levotiroxina 100mcg,Diabetes tipo 2 familiar
+24,24,298387975,,No aplica,Enalapril 20mg,Cáncer oral familiar
+25,25,1095357688,Metronidazol,Sí - tercer trimestre,Ibuprofeno 400mg (esporádico),Epilepsia familiar
+26,26,928450660,,No aplica,Enalapril 20mg,Cardiopatía familiar
+27,27,778389475,,No aplica,Atorvastatina 40mg,Diabetes tipo 2 familiar
+28,28,895395511,,No aplica,,Cardiopatía familiar
+29,29,487672768,,Sí - primer trimestre,,Cardiopatía familiar
+30,30,609416364,,No aplica,Ibuprofeno 400mg (esporádico),Diabetes tipo 2 familiar
+31,31,92156705,,No aplica,Levotiroxina 100mcg,Cáncer oral familiar
+32,32,13631985,,No aplica,Levotiroxina 100mcg,Epilepsia familiar
+33,33,654937160,,No aplica,Metformina 850mg,Epilepsia familiar
+34,34,656284941,Látex,No aplica,Losartán 50mg,Cáncer oral familiar
+35,35,192097028,,No aplica,Atorvastatina 40mg,Diabetes tipo 2 familiar
+36,36,1030347521,,No aplica,Enalapril 20mg,Hipertensión familiar
+37,37,922994505,,Sí - tercer trimestre,Atorvastatina 40mg,Cardiopatía familiar
+38,38,691392169,,No aplica,Losartán 50mg,Enfermedad renal familiar
+39,39,605521585,,No aplica,Levotiroxina 100mcg,Cáncer oral familiar
+40,40,506630252,Metronidazol,No aplica,Atorvastatina 40mg,Cardiopatía familiar
+41,41,51944547,Sulfas,Sí - primer trimestre,Ibuprofeno 400mg (esporádico),
+42,42,845064486,,No aplica,Losartán 50mg,
+43,43,190275792,,No aplica,Ibuprofeno 400mg (esporádico),Epilepsia familiar
+44,44,607551532,,No aplica,Levotiroxina 100mcg,Cáncer oral familiar
+45,45,438123802,Cefalosporinas,No,Losartán 50mg,Epilepsia familiar
+46,46,255957461,,No aplica,Losartán 50mg,Enfermedad renal familiar
+47,47,269963764,,No aplica,Levotiroxina 100mcg,Enfermedad renal familiar
+48,48,997282730,,No aplica,Losartán 50mg,Cáncer oral familiar
+49,49,196107154,,No aplica,Losartán 50mg,Cáncer oral familiar
+50,50,564807581,,No aplica,Atorvastatina 40mg,Asma familiar
+51,51,1032402165,,No aplica,Enalapril 20mg,Asma familiar
+52,52,1026319161,,No aplica,Metformina 850mg,Cardiopatía familiar
+53,53,687634051,,No aplica,Enalapril 20mg,Enfermedad renal familiar
+54,54,659114718,,No aplica,,
+55,55,955899551,,No aplica,Ibuprofeno 400mg (esporádico),Diabetes tipo 2 familiar
+56,56,335831273,,No aplica,Losartán 50mg,Hipertensión familiar
+57,57,826855596,,Sí - segundo trimestre,Enalapril 20mg,Diabetes tipo 2 familiar
+58,58,525106548,Metronidazol,No aplica,Levotiroxina 100mcg,Asma familiar
+59,59,985024849,,No aplica,Enalapril 20mg,Enfermedad renal familiar
+60,60,315450100,,No aplica,Enalapril 20mg,Cáncer oral familiar
+61,61,1070417158,,Sí - tercer trimestre,Ibuprofeno 400mg (esporádico),
+62,62,588770519,,No aplica,Atorvastatina 40mg,Diabetes tipo 2 familiar
+63,63,725774335,,No aplica,Atorvastatina 40mg,Cáncer oral familiar
+64,64,552022401,,No aplica,Ibuprofeno 400mg (esporádico),Epilepsia familiar
+65,65,1080505778,Látex,No,Metformina 850mg,Asma familiar
+66,66,677330844,Amoxicilina,No aplica,Losartán 50mg,Enfermedad renal familiar
+67,67,1046159949,Aspirina,No aplica,,Cáncer oral familiar
+68,68,583748917,,No aplica,Enalapril 20mg,Hipertensión familiar
+69,69,820052427,,Sí - tercer trimestre,,Cáncer oral familiar
+70,70,828687658,,No aplica,Ibuprofeno 400mg (esporádico),Cardiopatía familiar
+71,71,955550388,,No aplica,Losartán 50mg,Epilepsia familiar
+72,72,182475834,,No aplica,Ibuprofeno 400mg (esporádico),Hipertensión familiar
+73,73,498523064,Amoxicilina,Sí - tercer trimestre,Ibuprofeno 400mg (esporádico),
+74,74,322608752,,No aplica,Enalapril 20mg,Epilepsia familiar
+75,75,317342969,,No aplica,Levotiroxina 100mcg,
+76,76,652428853,,No aplica,,Epilepsia familiar
+77,77,644003224,,Sí - primer trimestre,Losartán 50mg,
+78,78,480308659,,No aplica,Losartán 50mg,Diabetes tipo 2 familiar
+79,79,203559947,,No aplica,,Enfermedad renal familiar
+80,80,643811434,,No aplica,Ibuprofeno 400mg (esporádico),Diabetes tipo 2 familiar
+81,81,986645563,,Sí - tercer trimestre,Ibuprofeno 400mg (esporádico),Hipertensión familiar
+82,82,485382438,,No aplica,Losartán 50mg,Enfermedad renal familiar
+83,83,218718232,Cefalosporinas,No aplica,Enalapril 20mg,Hipertensión familiar
+84,84,886422184,Cefalosporinas,No aplica,Metformina 850mg,Asma familiar
+85,85,272335998,,No aplica,Enalapril 20mg,Cardiopatía familiar
+86,86,454867064,Ibuprofeno,No aplica,Atorvastatina 40mg,Cáncer oral familiar
+87,87,246065031,Sulfas,No aplica,Levotiroxina 100mcg,Epilepsia familiar
+88,88,254060020,,No aplica,Levotiroxina 100mcg,Enfermedad renal familiar
+89,89,76895490,,No,Losartán 50mg,Cardiopatía familiar
+90,90,280994374,,No aplica,,Epilepsia familiar
+91,91,255702336,,No aplica,,Cardiopatía familiar
+92,92,866266548,,No aplica,Enalapril 20mg,Cardiopatía familiar
+93,93,210210112,,No,,
+94,94,918249979,,No aplica,Losartán 50mg,Diabetes tipo 2 familiar
+95,95,799331346,,No aplica,,Epilepsia familiar
+96,96,673539552,,No aplica,,Cardiopatía familiar
+97,97,742068555,,Sí - primer trimestre,Atorvastatina 40mg,Enfermedad renal familiar
+98,98,116864129,,No aplica,Losartán 50mg,Hipertensión familiar
+99,99,1055035878,Metronidazol,No aplica,Atorvastatina 40mg,Enfermedad renal familiar
+100,100,714637393,Metronidazol,No aplica,Losartán 50mg,Enfermedad renal familiar
+101,101,177208675,,Sí - segundo trimestre,Losartán 50mg,Diabetes tipo 2 familiar
+102,102,998050566,Codeína,No aplica,,Asma familiar
+103,103,174023462,,No aplica,Metformina 850mg,Asma familiar
+104,104,338285367,,No aplica,Levotiroxina 100mcg,Enfermedad renal familiar
+105,105,959634581,,No,Atorvastatina 40mg,Diabetes tipo 2 familiar
+106,106,174778569,,No aplica,,Asma familiar
+107,107,414241177,,No aplica,Atorvastatina 40mg,Epilepsia familiar
+108,108,542025595,,No aplica,Ibuprofeno 400mg (esporádico),Diabetes tipo 2 familiar
+109,109,122454087,Amoxicilina,No aplica,Losartán 50mg,Cardiopatía familiar
+110,110,313715132,,No aplica,Enalapril 20mg,Enfermedad renal familiar
+111,111,284435010,,No aplica,Losartán 50mg,Asma familiar
+112,112,469975242,,No aplica,Losartán 50mg,Cáncer oral familiar
+113,113,91062112,,Sí - segundo trimestre,Losartán 50mg,Diabetes tipo 2 familiar
+114,114,892312155,Cefalosporinas,No aplica,Levotiroxina 100mcg,Diabetes tipo 2 familiar
+115,115,956175724,,No aplica,,
+116,116,1042060568,Anestésicos locales (lidocaína),No aplica,,Cardiopatía familiar
+117,117,206953391,,No aplica,Levotiroxina 100mcg,Enfermedad renal familiar
+118,118,694370545,,No aplica,Levotiroxina 100mcg,Cardiopatía familiar
+119,119,973364334,Aspirina,No aplica,Ibuprofeno 400mg (esporádico),Asma familiar
+120,120,522044934,,No aplica,,Hipertensión familiar
