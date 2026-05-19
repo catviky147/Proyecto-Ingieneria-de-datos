@@ -1,0 +1,121 @@
+idPago,idPaciente,fechaApertura,estadoPago,cotizacion,saldoTotal,abono,saldoADeber,observaciones
+1,1,11/01/2025,completado,120000,118000,118000,0,Pago completo recibido.
+2,2,26/12/2022,completado,80000,73000,73000,0,Pago completo recibido.
+3,3,09/04/2022,completado,350000,385000,385000,0,Pago completo recibido.
+4,4,23/07/2021,pagando,4500000,4394000,2502000,1892000,"Pago parcial recibido, pendiente saldo."
+5,5,05/07/2023,completado,80000,81000,81000,0,Pago completo recibido.
+6,6,08/09/2022,completado,80000,84000,84000,0,Pago completo recibido.
+7,7,11/07/2023,completado,280000,321000,321000,0,Pago completo recibido.
+8,8,10/10/2025,pagando,180000,176000,66000,110000,"Pago parcial recibido, pendiente saldo."
+9,9,14/08/2023,pagando,420000,382000,130000,252000,"Pago parcial recibido, pendiente saldo."
+10,10,20/07/2025,pagando,80000,82000,44000,38000,Acuerdo de pago en cuotas.
+11,11,05/06/2023,pagando,180000,156000,80000,76000,Acuerdo de pago en cuotas.
+12,12,10/07/2022,pagando,80000,94000,50000,44000,Paciente realizando abonos periódicos.
+13,13,01/01/2023,debe,350000,367000,33000,334000,Paciente notificado de saldo pendiente.
+14,14,26/08/2024,pagando,80000,93000,63000,30000,Acuerdo de pago en cuotas.
+15,15,05/12/2022,debe,550000,576000,136000,440000,Acuerdo de pago pendiente de formalizar.
+16,16,23/09/2024,completado,80000,73000,73000,0,Pago completo recibido.
+17,17,24/11/2022,pagando,120000,109000,56000,53000,Acuerdo de pago en cuotas.
+18,18,20/12/2023,completado,480000,508000,508000,0,Pago completo recibido.
+19,19,10/04/2024,completado,120000,126000,126000,0,Pago completo recibido.
+20,20,30/01/2023,completado,80000,72000,72000,0,Pago completo recibido.
+21,21,22/04/2025,debe,75000,86000,14000,72000,Sin abono registrado. Requiere gestión de cobro.
+22,22,15/11/2025,completado,80000,75000,75000,0,Pago completo recibido.
+23,23,08/11/2023,completado,550000,606000,606000,0,Pago completo recibido.
+24,24,19/02/2025,debe,80000,86000,3000,83000,Acuerdo de pago pendiente de formalizar.
+25,25,26/03/2025,pagando,420000,440000,266000,174000,Acuerdo de pago en cuotas.
+26,26,06/07/2022,completado,550000,490000,490000,0,Pago completo recibido.
+27,27,21/01/2023,debe,120000,114000,12000,102000,Paciente notificado de saldo pendiente.
+28,28,05/11/2021,completado,90000,103000,103000,0,Pago completo recibido.
+29,29,05/04/2022,completado,90000,91000,91000,0,Pago completo recibido.
+30,30,16/08/2021,debe,950000,888000,80000,808000,Acuerdo de pago pendiente de formalizar.
+31,31,10/01/2022,completado,350000,306000,306000,0,Pago completo recibido.
+32,32,17/02/2022,completado,4500000,4695000,4695000,0,Pago completo recibido.
+33,33,05/06/2025,completado,75000,69000,69000,0,Pago completo recibido.
+34,34,16/09/2025,completado,80000,90000,90000,0,Pago completo recibido.
+35,35,27/04/2023,completado,90000,89000,89000,0,Pago completo recibido.
+36,36,05/04/2025,debe,110000,97000,22000,75000,Acuerdo de pago pendiente de formalizar.
+37,37,22/10/2021,pagando,180000,204000,85000,119000,"Pago parcial recibido, pendiente saldo."
+38,38,30/09/2022,pagando,120000,111000,39000,72000,"Pago parcial recibido, pendiente saldo."
+39,39,08/10/2022,completado,80000,87000,87000,0,Pago completo recibido.
+40,40,10/11/2021,pagando,110000,123000,52000,71000,Acuerdo de pago en cuotas.
+41,41,10/04/2024,debe,80000,80000,18000,62000,Sin abono registrado. Requiere gestión de cobro.
+42,42,01/10/2023,completado,280000,327000,327000,0,Pago completo recibido.
+43,43,10/03/2025,debe,80000,81000,18000,63000,Sin abono registrado. Requiere gestión de cobro.
+44,44,16/05/2025,debe,420000,431000,28000,403000,Sin abono registrado. Requiere gestión de cobro.
+45,45,10/04/2023,pagando,550000,542000,328000,214000,Acuerdo de pago en cuotas.
+46,46,15/02/2026,pagando,110000,107000,78000,29000,"Pago parcial recibido, pendiente saldo."
+47,47,16/05/2022,completado,120000,128000,128000,0,Pago completo recibido.
+48,48,21/10/2021,debe,3200000,3121000,269000,2852000,Acuerdo de pago pendiente de formalizar.
+49,49,15/11/2024,completado,620000,600000,600000,0,Pago completo recibido.
+50,50,31/01/2022,debe,80000,90000,15000,75000,Acuerdo de pago pendiente de formalizar.
+51,51,17/04/2021,completado,80000,75000,75000,0,Pago completo recibido.
+52,52,13/04/2021,pagando,620000,681000,343000,338000,Acuerdo de pago en cuotas.
+53,53,15/04/2021,completado,80000,85000,85000,0,Pago completo recibido.
+54,54,06/04/2025,completado,90000,91000,91000,0,Pago completo recibido.
+55,55,07/02/2024,debe,780000,797000,195000,602000,Paciente notificado de saldo pendiente.
+56,56,22/11/2022,debe,80000,81000,19000,62000,Sin abono registrado. Requiere gestión de cobro.
+57,57,21/12/2023,pagando,120000,132000,70000,62000,"Pago parcial recibido, pendiente saldo."
+58,58,21/04/2025,pagando,120000,127000,91000,36000,"Pago parcial recibido, pendiente saldo."
+59,59,17/02/2026,completado,550000,607000,607000,0,Pago completo recibido.
+60,60,27/08/2021,completado,3200000,2742000,2742000,0,Pago completo recibido.
+61,61,26/07/2024,pagando,550000,523000,408000,115000,Acuerdo de pago en cuotas.
+62,62,19/10/2023,debe,3200000,3037000,476000,2561000,Acuerdo de pago pendiente de formalizar.
+63,63,20/12/2025,completado,110000,115000,115000,0,Pago completo recibido.
+64,64,17/10/2022,debe,420000,462000,92000,370000,Sin abono registrado. Requiere gestión de cobro.
+65,65,13/06/2021,completado,75000,83000,83000,0,Pago completo recibido.
+66,66,12/05/2024,debe,180000,173000,39000,134000,Acuerdo de pago pendiente de formalizar.
+67,67,01/01/2026,completado,950000,1028000,1028000,0,Pago completo recibido.
+68,68,04/09/2024,completado,110000,128000,128000,0,Pago completo recibido.
+69,69,14/02/2023,completado,4500000,4196000,4196000,0,Pago completo recibido.
+70,70,31/05/2022,debe,480000,499000,48000,451000,Sin abono registrado. Requiere gestión de cobro.
+71,71,10/05/2021,pagando,350000,364000,276000,88000,"Pago parcial recibido, pendiente saldo."
+72,72,19/01/2022,completado,75000,68000,68000,0,Pago completo recibido.
+73,73,28/04/2023,completado,75000,70000,70000,0,Pago completo recibido.
+74,74,07/11/2021,completado,480000,410000,410000,0,Pago completo recibido.
+75,75,04/04/2023,completado,80000,81000,81000,0,Pago completo recibido.
+76,76,21/11/2025,pagando,110000,120000,68000,52000,"Pago parcial recibido, pendiente saldo."
+77,77,25/07/2022,completado,80000,68000,68000,0,Pago completo recibido.
+78,78,19/06/2021,completado,480000,449000,449000,0,Pago completo recibido.
+79,79,04/10/2023,completado,80000,92000,92000,0,Pago completo recibido.
+80,80,13/01/2026,pagando,80000,69000,40000,29000,Acuerdo de pago en cuotas.
+81,81,16/06/2025,completado,780000,704000,704000,0,Pago completo recibido.
+82,82,09/03/2025,completado,110000,119000,119000,0,Pago completo recibido.
+83,83,07/11/2025,completado,120000,134000,134000,0,Pago completo recibido.
+84,84,07/10/2024,completado,620000,562000,562000,0,Pago completo recibido.
+85,85,28/11/2021,pagando,180000,175000,70000,105000,"Pago parcial recibido, pendiente saldo."
+86,86,06/03/2026,completado,550000,499000,499000,0,Pago completo recibido.
+87,87,30/12/2025,pagando,4500000,5251000,3527000,1724000,Paciente realizando abonos periódicos.
+88,88,11/09/2023,debe,110000,120000,5000,115000,Paciente notificado de saldo pendiente.
+89,89,24/11/2022,pagando,180000,155000,76000,79000,Acuerdo de pago en cuotas.
+90,90,04/10/2023,pagando,350000,398000,242000,156000,"Pago parcial recibido, pendiente saldo."
+91,91,06/10/2022,pagando,4500000,4064000,3034000,1030000,"Pago parcial recibido, pendiente saldo."
+92,92,19/05/2023,completado,75000,75000,75000,0,Pago completo recibido.
+93,93,30/01/2022,completado,80000,88000,88000,0,Pago completo recibido.
+94,94,10/01/2025,pagando,120000,127000,97000,30000,Paciente realizando abonos periódicos.
+95,95,19/08/2025,pagando,950000,926000,323000,603000,Paciente realizando abonos periódicos.
+96,96,23/01/2025,pagando,90000,93000,56000,37000,Paciente realizando abonos periódicos.
+97,97,22/03/2025,completado,550000,627000,627000,0,Pago completo recibido.
+98,98,21/01/2022,completado,75000,86000,86000,0,Pago completo recibido.
+99,99,24/03/2025,completado,420000,419000,419000,0,Pago completo recibido.
+100,100,03/10/2024,pagando,90000,94000,29000,65000,Paciente realizando abonos periódicos.
+101,101,21/04/2023,completado,350000,313000,313000,0,Pago completo recibido.
+102,102,14/05/2023,pagando,180000,170000,76000,94000,Acuerdo de pago en cuotas.
+103,103,05/06/2021,completado,80000,79000,79000,0,Pago completo recibido.
+104,104,17/11/2024,pagando,120000,116000,53000,63000,Acuerdo de pago en cuotas.
+105,105,03/12/2024,debe,80000,86000,21000,65000,Sin abono registrado. Requiere gestión de cobro.
+106,106,01/11/2023,pagando,120000,134000,77000,57000,"Pago parcial recibido, pendiente saldo."
+107,107,18/01/2023,pagando,280000,300000,231000,69000,"Pago parcial recibido, pendiente saldo."
+108,108,15/10/2024,pagando,90000,88000,66000,22000,Paciente realizando abonos periódicos.
+109,109,11/01/2023,completado,110000,100000,100000,0,Pago completo recibido.
+110,110,18/02/2025,completado,480000,417000,417000,0,Pago completo recibido.
+111,111,04/09/2022,debe,950000,889000,21000,868000,Paciente notificado de saldo pendiente.
+112,112,24/12/2025,completado,80000,83000,83000,0,Pago completo recibido.
+113,113,05/06/2024,debe,80000,73000,3000,70000,Sin abono registrado. Requiere gestión de cobro.
+114,114,30/11/2025,debe,110000,96000,4000,92000,Sin abono registrado. Requiere gestión de cobro.
+115,115,26/02/2025,debe,110000,99000,1000,98000,Sin abono registrado. Requiere gestión de cobro.
+116,116,06/06/2022,debe,3200000,3709000,69000,3640000,Acuerdo de pago pendiente de formalizar.
+117,117,16/12/2022,completado,110000,102000,102000,0,Pago completo recibido.
+118,118,04/02/2025,pagando,480000,484000,235000,249000,Paciente realizando abonos periódicos.
+119,119,22/07/2025,pagando,950000,880000,356000,524000,Paciente realizando abonos periódicos.
+120,120,05/01/2024,completado,80000,80000,80000,0,Pago completo recibido.
