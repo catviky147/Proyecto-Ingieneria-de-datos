@@ -1,0 +1,8 @@
+idUsuario,nombreUsuario,telefono,correoElectronico,tipoDocumento,userName,contrasena,rolUsuario
+USR001,Dr. Alejandro Bermúdez Ríos,3101234567,abermúdez@clinica.com,CC,abermúdez,5jR0jEPAtv,odontólogo
+USR002,Dra. Mónica Salcedo Vargas,3209876543,msalcedo@clinica.com,CC,msalcedo,Q2o#VA1DH0,odontólogo
+USR003,Dr. Fernando Ospina Castillo,3154567890,fospina@clinica.com,CC,fospina,2!CYztlDes,odontólogo
+USR004,Dra. Claudia Morales Peñaranda,3007654321,cmorales@clinica.com,CC,cmorales,rSqs1mVMxt,odontólogo
+USR001-ADM,Dr. Alejandro Bermúdez Ríos,3101234567,abermúdez@clinica.com,CC,abermúdez_adm,6EVaWwkxIN,administrador
+USR005,Valentina Prado Suárez,3112345678,vprado@clinica.com,CC,vprado,rlwNjoZfmr,auxiliar
+USR006,Daniela Fuentes Mora,3223456789,dfuentes@clinica.com,CC,dfuentes,ol0nMsYrm!,auxiliar
