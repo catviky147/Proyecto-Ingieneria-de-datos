@@ -1,0 +1,4 @@
+{"usuarioId":{"$oid":"60d5f9f8b8e5a72d4c8e4567"},"tarjetaProfesional":"TP100001","especialidad":"Ortodoncia"}
+{"usuarioId":{"$oid":"60d5f9f8b8e5a72d4c8e4568"},"tarjetaProfesional":"TP100002","especialidad":"Endodoncia"}
+{"usuarioId":{"$oid":"60d5f9f8b8e5a72d4c8e4569"},"tarjetaProfesional":"TP100003","especialidad":"Periodoncia"}
+{"usuarioId":{"$oid":"60d5f9f8b8e5a72d4c8e4570"},"tarjetaProfesional":"TP100004","especialidad":"Cirugía Oral"}
