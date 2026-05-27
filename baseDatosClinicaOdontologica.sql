@@ -67,7 +67,6 @@ foreign key (odontologoFK) references odontologo(idOdontologo),
 foreign key (pacienteFK) references paciente(idpaciente),
 foreign key (pagoFK) references pago(idPago)
 );
-
 -- =======================================================
 -- 2. SECCIÓN DE CONSULTAS (Las 1 general y 7 específicas)
 -- =======================================================
@@ -247,7 +246,7 @@ end //
 
 delimiter ;
 
-#HU05
+#HU05 registrar asistencia
 alter table citaOdontologico
 add asistencia tinyint (1) default 0;
 
@@ -359,7 +358,7 @@ begin
             nombrePaciente    = coalesce(p_nombrePaciente, nombrePaciente),
             direccionPaciente = coalesce(p_direccionPaciente, direccionPaciente),
             Preexistencias    = coalesce(p_preexistencias, Preexistencias),
-            Alergias          = coalesce(p_alergias, Alergias)
+            Alergias     																																																																								     = coalesce(p_alergias, Alergias)
         where idpaciente = v_idPaciente;
 
         set p_mensaje = concat('Paciente ', v_idPaciente, ' actualizado correctamente.');
@@ -367,4 +366,50 @@ begin
 end //
 
 delimiter ;
+
+
+#=======crear historias clinicas====
+call crear_historia_Clinica('Juan Pérez', 123456789, 'Calle 1 #2-3', '1990-05-15', 'Hipertensión', 'Ninguna', @mensaje, @id_paciente1);
+select @mensaje, @id_paciente;
+select * from paciente 
+where documentoPaciente="123456789";
+
+call crear_historia_Clinica('María Gómez', 987654321, 'Carrera 4 #5-6', '1985-10-20', 'Ninguna', 'Penicilina', @mensaje, @id_paciente2);
+select @mensaje, @id_paciente;
+select * from paciente 
+where documentoPaciente="987654321";
+
+#===== Filtar por preexistencia
+call filtrar_por_preexistencia('Diabetes');
+
+# busqueda de historia clinica
+-- buscar por nombre
+call buscar_historia_clinica('Carlos Prueba');
+
+-- buscar por documento
+call buscar_historia_clinica('1122334455');
+
+-- buscar por nombre parcial
+call buscar_historia_clinica('Carlos');
+
+
+#===== registrar asistencia
+call registrar_asistencia('123456789', 1, @mensaje);
+select @mensaje;
+
+#===== registrar consentimiento
+call registrar_consentimiento('Carlos Prueba', 1, @mensaje);
+select @mensaje;
+
+-- verificar que quedó en 1
+select idHistoriaClinica, consentimiento 
+from historiaClinica 
+where pacienteFK = @id_paciente;
+
+#Actualizar informacion del paciente
+
+call actualizar_paciente('1122334455', null, null, 'Hipertensión, Diabetes tipo 2', null, @mensaje);
+select @mensaje;
+
+select * from citaodontologico;
 

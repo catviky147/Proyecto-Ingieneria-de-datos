@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica Odontológica | Sistema</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="logo">
+                <i class="fas fa-tooth"></i>
+                <span>Clínica Dental</span>
+            </div>
+            
+            <div class="user-profile" id="userProfile"></div>
+            
+            <nav class="nav-menu">
+                <a href="#" class="nav-item active" data-tab="pacientes">
+                    <i class="fas fa-users"></i>
+                    <span>Pacientes</span>
+                </a>
+                <a href="#" class="nav-item" data-tab="citas">
+                    <i class="fas fa-calendar-check"></i>
+                    <span>Citas</span>
+                </a>
+                <a href="#" class="nav-item" data-tab="calendario">
+                    <i class="fas fa-calendar-alt"></i>
+                    <span>Calendario</span>
+                </a>
+                <a href="#" class="nav-item" data-tab="pagos">
+                    <i class="fas fa-credit-card"></i>
+                    <span>Pagos</span>
+                </a>
+            </nav>
+            
+            <button class="btn-logout" onclick="cerrarSesion()">
+                <i class="fas fa-sign-out-alt"></i>
+                <span>Cerrar Sesión</span>
+            </button>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-bar">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="globalSearch" placeholder="Buscar paciente, cita o pago...">
+                </div>
+                <div class="user-info" id="userInfo"></div>
+            </header>
+
+            <!-- Tab Pacientes -->
+            <div class="tab-content active" id="pacientes">
+                <div class="page-header">
+                    <h2><i class="fas fa-users"></i> Pacientes</h2>
+                    <button class="btn-primary" id="btnNuevoPaciente" onclick="mostrarModalPaciente()" style="display:none;">
+                        <i class="fas fa-plus"></i> Nuevo Paciente
+                    </button>
+                </div>
+                
+                <div class="filters">
+                    <input type="text" id="filterNombre" placeholder="Filtrar por nombre..." class="filter-input">
+                </div>
+
+                <div class="pacientes-grid" id="pacientesList"></div>
+            </div>
+
+            <!-- Tab Citas -->
+            <div class="tab-content" id="citas">
+                <div class="page-header">
+                    <h2><i class="fas fa-calendar-check"></i> Citas</h2>
+                    <button class="btn-primary" id="btnNuevaCita" onclick="mostrarModalCita()" style="display:none;">
+                        <i class="fas fa-plus"></i> Nueva Cita
+                    </button>
+                </div>
+
+                <div class="citas-list" id="citasList"></div>
+            </div>
+
+            <!-- Tab Calendario -->
+            <div class="tab-content" id="calendario">
+                <div class="page-header">
+                    <h2><i class="fas fa-calendar-alt"></i> Calendario de Citas</h2>
+                </div>
+                
+                <div class="calendar-container">
+                    <div class="calendar-header">
+                        <button onclick="cambiarMes(-1)"><i class="fas fa-chevron-left"></i></button>
+                        <h3 id="currentMonth"></h3>
+                        <button onclick="cambiarMes(1)"><i class="fas fa-chevron-right"></i></button>
+                    </div>
+                    <div class="calendar-weekdays">
+                        <span>Dom</span><span>Lun</span><span>Mar</span><span>Mié</span><span>Jue</span><span>Vie</span><span>Sáb</span>
+                    </div>
+                    <div class="calendar-days" id="calendarDays"></div>
+                </div>
+                
+                <div class="citas-del-dia">
+                    <h3>Citas del día seleccionado</h3>
+                    <div id="citasDelDia"></div>
+                </div>
+            </div>
+
+            <!-- Tab Pagos -->
+            <div class="tab-content" id="pagos">
+                <div class="page-header">
+                    <h2><i class="fas fa-credit-card"></i> Pagos</h2>
+                </div>
+
+                <div class="pagos-summary" id="pagosSummary"></div>
+                
+                <div class="pagos-filters">
+                    <select id="filtroMetodoPago" class="filter-select">
+                        <option value="">Todos los métodos</option>
+                        <option value="Efectivo">Efectivo</option>
+                        <option value="Tarjeta">Tarjeta</option>
+                        <option value="Transferencia">Transferencia</option>
+                    </select>
+                </div>
+
+                <div class="pagos-table-container">
+                    <table class="pagos-table">
+                        <thead>
+                            <tr><th>Cita ID</th><th>Fecha</th><th>Paciente</th><th>Monto</th><th>Método</th><th>Estado</th><th id="thAccionPago" style="display:none">Acción</th></tr>
+                        </thead>
+                        <tbody id="pagosList"></tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal Paciente -->
+    <div class="modal" id="modalPaciente">
+        <div class="modal-content">
+            <div class="modal-header"><h3>Nuevo Paciente</h3><span class="close" onclick="cerrarModal('modalPaciente')">&times;</span></div>
+            <form id="formPaciente">
+                <input type="text" placeholder="Nombre completo" required id="pacNombre">
+                <input type="number" placeholder="Documento" required id="pacDocumento">
+                <input type="text" placeholder="Dirección" required id="pacDireccion">
+                <input type="date" placeholder="Fecha nacimiento" required id="pacFechaNac">
+                <input type="text" placeholder="Teléfono" id="pacTelefono">
+                <input type="text" placeholder="Alergias" id="pacAlergias">
+                <textarea placeholder="Preexistencias" id="pacPreexistencias" rows="3"></textarea>
+                <button type="submit" class="btn-primary">Guardar Paciente</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal Cita -->
+    <div class="modal" id="modalCita">
+        <div class="modal-content">
+            <div class="modal-header"><h3>Nueva Cita</h3><span class="close" onclick="cerrarModal('modalCita')">&times;</span></div>
+            <form id="formCita">
+                <select required id="citaPaciente"><option value="">Seleccionar paciente</option></select>
+                <input type="datetime-local" required id="citaHorario">
+                <input type="text" placeholder="Tratamiento" required id="citaTratamiento">
+                <input type="text" placeholder="Observaciones" id="citaObservaciones">
+                <button type="submit" class="btn-primary">Agendar Cita</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal Pago (desde cita) -->
+    <div class="modal" id="modalPago">
+        <div class="modal-content">
+            <div class="modal-header"><h3>Registrar Pago</h3><span class="close" onclick="cerrarModal('modalPago')">&times;</span></div>
+            <form id="formPago">
+                <input type="hidden" id="pagoCitaId">
+                <p><strong>Cita:</strong> <span id="pagoCitaInfo"></span></p>
+                <input type="number" placeholder="Monto" required id="pagoMonto">
+                <select required id="pagoMetodo">
+                    <option value="Efectivo">Efectivo</option>
+                    <option value="Tarjeta">Tarjeta</option>
+                    <option value="Transferencia">Transferencia</option>
+                </select>
+                <button type="submit" class="btn-primary">Registrar Pago</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
