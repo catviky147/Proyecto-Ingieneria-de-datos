@@ -1,121 +1,121 @@
-idPaciente,nombrePaciente,direccionPaciente,fechaNaPaciente,preexistencias,alergias,acudientePaciente,documentoPaciente,edadPaciente,telefonoPaciente
-001,Carlos Reyes Medina,"Carrera 2 #7-40, El Rosal, Cundinamarca",04/12/2010,Hipertensión arterial,Anestésicos locales (lidocaína),Felipe Castro,196699713,15,3258509126
-002,Isabella Guerrero Cárdenas,"Carrera 11 #93-70, Chapinero Alto",17/10/2007,,,,352865762,18,3287405367
-003,Nicolás Sánchez Flores,"Carrera 22 #59-11, Barrios Unidos",18/08/1963,,,,578054227,63,3111663638
-004,Valeria Escobar Mendoza,"Calle 6 #32-15, Rafael Uribe",08/10/1984,,,,159368553,42,3112300889
-005,Sofía Peña Mendoza,"Transversal 93 #52-21, Engativá",12/04/2014,,,María López,459912919,12,3279898778
-006,David Peña Álvarez,"Calle 6 #14-22, Tenjo, Cundinamarca",05/09/2008,,,,481619987,18,3283774738
-007,Sofía González Ruiz,"Calle 26 #13-19, La Candelaria",30/07/1955,,,,685765611,71,3157076502
-008,Paola Medina Paredes,"Calle 6 #32-15, Rafael Uribe",08/08/1987,,Ibuprofeno,,930054627,39,3256640927
-009,Miguel Moreno Molina,"Calle 68 #14-40, Chapinero",28/04/1983,,,,829521169,43,3259957580
-010,Camila Ramos Ramírez,"Carrera 66 #10-30, Fontibón",01/01/2007,,,,984364241,19,3100871157
-011,Sergio Ortiz Delgado,"Calle 15 #9-30, Funza, Cundinamarca",30/12/1981,,,,812973878,44,3143365489
-012,Adriana Rodríguez Ramírez,"Carrera 9 #15-30, Villavicencio, Meta",19/03/1953,VIH controlado,,,524219931,73,3115549169
-013,Miguel Ríos Paredes,"Carrera 24 #67-11, Barrios Unidos",10/07/2014,,,Roberto Medina,918681807,12,3156854146
-014,Andrea Aguilar Guerrero,"Calle 32 #14-50, Teusaquillo",06/02/2016,,Aspirina,Lucía Ramírez,147494574,10,3190754153
-015,Pablo Martínez Ramos,"Carrera 9 #79-45, Chapinero",11/02/2019,Hipotiroidismo,,Diana Herrera,608025373,7,3279577354
-016,Rafael Ríos Romero,"Calle 22 #43-12, Mártires",01/12/2012,,,Felipe Castro,935675369,13,3195106029
-017,Catalina Ramos Sánchez,"Carrera 24 #67-11, Barrios Unidos",18/01/2010,Anemia,Amoxicilina,Felipe Castro,973390270,16,3137629899
-018,Samuel Vásquez García,"Av. Ferrocarril #10-22, Ibagué, Tolima",11/02/1946,,Metronidazol,,367150385,80,3209095943
-019,Nicolás Gómez Peña,"Calle 49 #34-10, Chapinero",04/10/2007,Artritis reumatoide,,,1055118908,19,3141552957
-020,Ana López Cárdenas,"Calle 4 #7-18, Facatativá, Cundinamarca",11/07/1992,,Ibuprofeno,,348084210,34,3115268494
-021,Claudia Mora Medina,"Calle 44 #20-35, Teusaquillo",03/11/1983,,,,186058026,42,3212534830
-022,Isabella Gómez Suárez,"Calle 68 #14-40, Chapinero",08/09/2016,,,Sandra Jiménez,654238817,10,3222735287
-023,Hernán Gómez Torres,"Av. Simón Bolívar #14-22, Montería, Córdoba",18/11/1951,Anemia,,,534596786,74,3199194173
-024,Tomás Paredes Ortiz,"Carrera 66 #10-30, Fontibón",06/12/1951,Hipertensión arterial,,,298387975,74,3170992030
-025,Daniel Ramos Ruiz,"Calle 57B #20-30, Chapinero",26/02/1976,Diabetes tipo 2,Metronidazol,,1095357688,50,3231139270
-026,Camila Torres Gómez,"Calle 5 #7-30, Pasto, Nariño",27/05/2014,Hipotiroidismo,,Lucía Ramírez,928450660,12,3250567291
-027,Camilo Torres Martínez,"Carrera 3 #8-20, La Calera, Cundinamarca",02/11/2004,,,,778389475,21,3156391990
-028,Óscar Medina Moreno,"123 Main Street, Miami, Florida, EE.UU.",11/01/1945,Cardiopatía,,,895395511,81,3106653539
-029,Rafael Sánchez Álvarez,"Calle 57B #20-30, Chapinero",10/06/1961,,,,487672768,65,3153572423
-030,Tomás Castro Suárez,"Av. Circunvalar #14-20, Pereira, Risaralda",18/11/2003,,,,609416364,22,3194260071
-031,Luis Gómez Jiménez,"Carrera 13 #85-45, Chapinero",26/02/1984,,,,92156705,42,3129099087
-032,Nicolás Mora Castro,"Av. Circunvalar #14-20, Pereira, Risaralda",24/05/2009,,,Roberto Medina,13631985,17,3239565055
-033,Laura Ramos Escobar,"Carrera 7 #8-15, Manizales, Caldas",15/12/2004,,,,654937160,21,3236129661
-034,Sebastián Romero Álvarez,"Calle 57B #20-30, Chapinero",10/01/1977,,Látex,,656284941,49,3209004973
-035,Lucía Ruiz Delgado,"Carrera 9 #5-30, Chía, Cundinamarca",07/01/1993,,,,192097028,33,3176178333
-036,Rafael Castro Vargas,"Calle 53 #36-78, Chapinero",15/02/2021,,,Carlos Gómez,1030347521,5,3264087607
-037,Isabella Vargas García,"Calle 100 #14-56, Chicó",06/12/1957,Epilepsia,,,922994505,68,3158744720
-038,Rafael Peña Aguilar,"Calle 49 #34-10, Chapinero",13/08/1943,,,,691392169,83,3218802399
-039,Mateo Ríos Guerrero,"Carrera 17 #102-45, Usaquén",16/02/2009,,,Diana Herrera,605521585,17,3239935353
-040,Carolina Silva Vásquez,"Av. Boyacá #12-67, Bosa",29/12/2017,,Metronidazol,Paola Torres,506630252,8,3202820253
-041,Sebastián Romero Álvarez,"Carrera 5 #10-15, Zipaquirá, Cundinamarca",08/08/1956,,Sulfas,,51944547,70,3254535701
-042,Roberto Herrera Reyes,"Calle 6 #32-15, Rafael Uribe",28/10/1995,,,,845064486,30,3190229086
-043,Óscar Suárez Cárdenas,"Av. NQS #40-55, Puente Aranda",26/10/1984,,,,190275792,41,3272536795
-044,Sara Peña Silva,"Carrera 4 #6-35, Bojacá, Cundinamarca",25/04/2003,Hipertensión arterial,,,607551532,23,3213162947
-045,Samuel González Martínez,"Calle 165 #60-10, Suba",16/02/1971,,Cefalosporinas,,438123802,55,3105470719
-046,Sandra Gómez Mendoza,"Carrera 103 #25-40, Fontibón",19/08/2014,Diabetes tipo 2,,María López,255957461,12,3143960548
-047,Juan Cárdenas Medina,"Calle 72 #10-34, Chapinero",16/03/2017,,,Lucía Ramírez,269963764,9,3251916362
-048,Sergio Romero Soto,"Carrera 53 #72-30, Barranquilla, Atlántico",16/04/2017,,,Paola Torres,997282730,9,3289866719
-049,Lucía Molina Cárdenas,"Calle Gran Vía 45, Madrid, España",15/02/2009,Anemia,,Diana Herrera,196107154,17,3174874230
-050,Gabriela Silva Jiménez,"Carrera 25 #40-10, Neiva, Huila",12/04/1991,VIH controlado,,,564807581,35,3191359012
-051,Juan Medina Romero,"Carrera 103 #25-40, Fontibón",13/02/1991,,,,1032402165,35,3273383238
-052,Sandra Medina Ortiz,"Carrera 7 #8-15, Manizales, Caldas",19/04/1978,,,,1026319161,48,3248571764
-053,Sofía Ortiz Gómez,"Calle 68 #14-40, Chapinero",19/01/2011,,,Roberto Medina,687634051,15,3132092731
-054,Claudia Castro Cruz,"Calle 18 #23-40, Cúcuta, Norte de Santander",12/01/2011,Diabetes tipo 2,,Roberto Medina,659114718,15,3103797922
-055,Sergio García Mora,"Calle 6 #14-22, Tenjo, Cundinamarca",15/06/2007,Diabetes tipo 2,,,955899551,19,3191457553
-056,Adriana González Mora,"Carrera 15 #85-12, Usaquén",10/11/1979,,,,335831273,46,3140049920
-057,Gloria Palacios Escobar,"Calle 77 #20-10, Barrios Unidos",07/07/2011,VIH controlado,,Diana Herrera,826855596,15,3220934054
-058,Gabriel Ruiz Gómez,"Calle 165 #60-10, Suba",01/01/1978,,Metronidazol,,525106548,48,3146657719
-059,Ana Herrera Cruz,"Carrera 43 #19-10, Barrios Unidos",07/10/1974,,,,985024849,52,3119107171
-060,Claudia Vásquez Herrera,"Carrera 6 #11-40, Mosquera, Cundinamarca",26/02/1979,Asma bronquial,,,315450100,47,3119168932
-061,Esteban Ortiz Suárez,"Calle 6 #14-22, Tenjo, Cundinamarca",26/06/1950,Diabetes tipo 2,,,1070417158,76,3217510001
-062,Juan Herrera Mora,"Calle 85 #20-15, Chapinero",24/10/1983,Hipotiroidismo,,,588770519,42,3254685122
-063,Diana Soto Pérez,"Calle Gran Vía 45, Madrid, España",10/05/1993,,,,725774335,33,3186183419
-064,Valeria Paredes Martínez,"Calle 163 #45-20, Suba",23/03/1994,Enfermedad renal crónica,,,552022401,32,3186778146
-065,Ángela López Castro,"Calle 39 Sur #78-10, Kennedy",27/08/1989,,Látex,,1080505778,37,3267881881
-066,Claudia Rodríguez Palacios,"Calle 80 #69-10, Engativá",02/01/1967,Enfermedad renal crónica,Amoxicilina,,677330844,59,3247864721
-067,Juliana Cruz Delgado,"Carrera 9 #79-45, Chapinero",13/05/1974,Epilepsia,Aspirina,,1046159949,52,3226760532
-068,Jorge Romero Ramos,"Calle 35 #28-45, Bucaramanga, Santander",29/06/1952,Asma bronquial,,,583748917,74,3100688606
-069,Tatiana Ríos Flores,"123 Main Street, Miami, Florida, EE.UU.",18/07/2004,,,,820052427,22,3222230639
-070,Isabella Romero Martínez,"Transversal 30 #56-22, Chapinero",12/06/2005,,,,828687658,21,3203637225
-071,Miguel Delgado Cárdenas,"Carrera 77B #50-20, Kennedy",04/12/2003,,,,955550388,22,3126766155
-072,Roberto Gómez Ramos,"Calle 4 #7-18, Facatativá, Cundinamarca",04/05/1981,,,,182475834,45,3188198652
-073,Mauricio González Medina,"Calle 8 #3-14, Gachancipá, Cundinamarca",09/03/1980,,Amoxicilina,,498523064,46,3124261017
-074,Alejandro López Cruz,"Av. Primero de Mayo #22-45, Tunjuelito",21/05/2002,,,,322608752,24,3165551249
-075,Mauricio Álvarez Escobar,"Carrera 50 #12-15, Puente Aranda",24/06/1976,,,,317342969,50,3162327610
-076,Patricia Vásquez Moreno,"Av. Roosevelt #12-30, Cali, Valle del Cauca",07/04/2019,,,Felipe Castro,652428853,7,3271513801
-077,Felipe Álvarez Mora,"Carrera 25 #40-10, Neiva, Huila",13/03/2002,,,,644003224,24,3105889365
-078,Valeria Cruz Herrera,"Calle 77 #20-10, Barrios Unidos",11/04/1982,Asma bronquial,,,480308659,44,3270890810
-079,Diego Guerrero Martínez,"Av. Roosevelt #12-30, Cali, Valle del Cauca",20/12/1983,,,,203559947,42,3179218109
-080,Valeria Moreno Gómez,"Avenida Paulista 1500, São Paulo, Brasil",16/06/1955,,,,643811434,71,3190923183
-081,Laura Suárez García,"Calle 72 #10-34, Chapinero",15/12/2008,,,María López,986645563,17,3198941459
-082,María Escobar Paredes,"Carrera 60 #Calle 13 Sur, Bosa",21/08/2004,Anemia,,,485382438,22,3273852863
-083,Andrés Martínez Ortiz,"Av. Ciudad de Cali #68-30, Kennedy",11/12/1941,,Cefalosporinas,,218718232,84,3163028652
-084,Pablo Romero Sánchez,"Carrera 43 #19-10, Barrios Unidos",24/08/1964,Cardiopatía,Cefalosporinas,,886422184,62,3175092173
-085,Tatiana Flores López,"Calle 6 #14-22, Tenjo, Cundinamarca",18/01/1998,Artritis reumatoide,,,272335998,28,3222062265
-086,Isabella Torres Mora,"Calle 68 #14-40, Chapinero",23/07/2012,,Ibuprofeno,Andrés Vargas,454867064,14,3257406011
-087,Gabriela Vargas Torres,"Carrera 60 #Calle 13 Sur, Bosa",10/01/1987,,Sulfas,,246065031,39,3277451308
-088,María Jiménez Gómez,"Calle 15 #20-40, Cartagena, Bolívar",16/05/2020,,,Diana Herrera,254060020,6,3117061230
-089,Mauricio Martínez Aguilar,"Av. NQS #40-55, Puente Aranda",07/09/2006,,,,76895490,20,3116327694
-090,Laura Pérez Silva,"Calle 18 #23-40, Cúcuta, Norte de Santander",15/11/1981,,,,280994374,44,3173824044
-091,Lucía Delgado Palacios,"Av. Boyacá #64-30, Kennedy",07/10/1996,,,,255702336,30,3275748171
-092,Andrea Herrera Romero,"Carrera 8 #12-30, La Candelaria",02/06/2003,,,,866266548,23,3211666371
-093,Tomás Ríos González,"Calle 5 #7-30, Pasto, Nariño",25/11/2017,,,Carlos Gómez,210210112,8,3215930970
-094,Patricia Ramírez Romero,"Carrera 25 #40-10, Neiva, Huila",18/09/2002,Asma bronquial,,,918249979,24,3293558252
-095,Miguel Ríos Herrera,"Calle 10 #22-15, Medellín, Antioquia",10/04/1963,,,,799331346,63,3130839291
-096,Mauricio Reyes Rodríguez,"Calle 39 Sur #78-10, Kennedy",07/10/2013,Hipotiroidismo,,Sandra Jiménez,673539552,13,3191220987
-097,Mateo Aguilar Ruiz,"Calle 134 #7-23, Usaquén",02/06/2000,,,,742068555,26,3142254230
-098,Pablo López Vargas,"Av. Simón Bolívar #14-22, Montería, Córdoba",25/08/2014,Enfermedad renal crónica,,Carlos Gómez,116864129,12,3280917099
-099,Santiago Molina Ramírez,"Carrera 7 #110-45, Usaquén",25/09/2007,,Metronidazol,,1055035878,19,3241447797
-100,Diego Ruiz Torres,"Carrera 66 #10-30, Fontibón",10/03/1970,Enfermedad renal crónica,Metronidazol,,714637393,56,3132208053
-101,Laura Suárez Martínez,"Calle 85 #20-15, Chapinero",05/06/1995,,,,177208675,31,3184036572
-102,Nicolás Rodríguez Silva,"Transversal 30 #56-22, Chapinero",25/08/2014,Hipertensión arterial,Codeína,Sandra Jiménez,998050566,12,3285115785
-103,Catalina Ramos Herrera,"Calle 8 #3-14, Gachancipá, Cundinamarca",08/01/2004,,,,174023462,22,3237031813
-104,Felipe Sánchez Vargas,"Calle 49 #34-10, Chapinero",09/01/2009,Anemia,,Carlos Gómez,338285367,17,3275961861
-105,Gabriela Silva Vargas,"Calle 57B #20-30, Chapinero",10/06/1995,,,,959634581,31,3269486152
-106,Lucía Martínez López,"Calle 35 #28-45, Bucaramanga, Santander",08/03/2001,,,,174778569,25,3273051337
-107,Fernanda Paredes Martínez,"Calle 4 #7-18, Facatativá, Cundinamarca",01/08/1994,,,,414241177,32,3186309183
-108,Sandra Pérez Delgado,"Calle 18 #23-40, Cúcuta, Norte de Santander",02/11/1978,,,,542025595,47,3289950754
-109,Juliana Cruz Álvarez,"Carrera 17 #102-45, Usaquén",04/04/1998,,Amoxicilina,,122454087,28,3269352325
-110,Catalina Palacios Vargas,"Carrera 19 #63-45, Chapinero",07/08/2003,,,,313715132,23,3193904302
-111,Diego Paredes Álvarez,"123 Main Street, Miami, Florida, EE.UU.",30/03/1979,,,,284435010,47,3279883001
-112,Viviana Mendoza Rodríguez,"Calle 53 #36-78, Chapinero",13/01/2001,,,,469975242,25,3191733077
-113,Diego Sánchez Delgado,"Calle 49 #34-10, Chapinero",09/07/1969,,,,91062112,57,3277685277
-114,David Escobar Moreno,"Calle 74 #11-30, Chapinero",04/11/1972,,Cefalosporinas,,892312155,53,3197790878
-115,Diego Ríos Castro,"Transversal 30 #56-22, Chapinero",01/08/2001,,,,956175724,25,3223931274
-116,Rafael Palacios Torres,"Carrera 2 #7-40, El Rosal, Cundinamarca",08/11/1960,,Anestésicos locales (lidocaína),,1042060568,65,3199646490
-117,Jorge Guerrero Delgado,"Calle 74 #11-30, Chapinero",24/05/2015,,,Diana Herrera,206953391,11,3159602873
-118,Isabella Álvarez Pérez,"Calle 12 #8-50, Santa Marta, Magdalena",28/10/1999,,,,694370545,26,3126597423
-119,Juliana Ríos Torres,"Carrera 17 #102-45, Usaquén",10/06/1970,Hipertensión arterial,Aspirina,,973364334,56,3265181290
-120,Claudia Cruz Medina,"Carrera 6 #11-40, Mosquera, Cundinamarca",06/11/2005,,,,522044934,20,3212696060
+idPaciente,nombrePaciente,documentoPaciente,edadPaciente,fechaNaPaciente,tipoSangrePaciente,preexistenciaPaciente,acudientePaciente,epsPaciente,telefonoPaciente,telefonoUrgencia,direccionPaciente,direccionTrabajo
+1,Carlos Reyes Medina,196699713,15,04/12/2010,A-,Hipertensión arterial,Felipe Castro,Nueva EPS,3258509126,3177701200,"Carrera 2 #7-40, El Rosal, Cundinamarca","Carrera 30 #45-03, Teusaquillo"
+2,Isabella Guerrero Cárdenas,352865762,18,17/10/2007,A+,,,Sura,3287405367,3179795010,"Carrera 11 #93-70, Chapinero Alto",
+3,Nicolás Sánchez Flores,578054227,63,18/08/1963,O+,,,Salud Total,3111663638,3105334035,"Carrera 22 #59-11, Barrios Unidos","Carrera 7 #71-21, Chapinero"
+4,Valeria Escobar Mendoza,159368553,42,08/10/1984,B-,,,Coomeva,3112300889,3183131979,"Calle 6 #32-15, Rafael Uribe","Carrera 7 #71-21, Chapinero"
+5,Sofía Peña Mendoza,459912919,12,12/04/2014,B-,,María López,Sura,3279898778,3111003626,"Transversal 93 #52-21, Engativá","Carrera 7 #71-21, Chapinero"
+6,David Peña Álvarez,481619987,18,05/09/2008,B+,,,Compensar,3283774738,3156267415,"Calle 6 #14-22, Tenjo, Cundinamarca","Carrera 7 #71-21, Chapinero"
+7,Sofía González Ruiz,685765611,71,30/07/1955,A-,,,Salud Total,3157076502,3188231132,"Calle 26 #13-19, La Candelaria","Calle 100 #8A-49, Usaquén"
+8,Paola Medina Paredes,930054627,39,08/08/1987,A-,,,Famisanar,3256640927,3178339168,"Calle 6 #32-15, Rafael Uribe","Calle 72 #10-34, Chapinero"
+9,Miguel Moreno Molina,829521169,43,28/04/1983,AB+,,,Sanitas,3259957580,3175863473,"Calle 68 #14-40, Chapinero","Carrera 7 #71-21, Chapinero"
+10,Camila Ramos Ramírez,984364241,19,01/01/2007,A+,,,Sura,3100871157,3170166708,"Carrera 66 #10-30, Fontibón",
+11,Sergio Ortiz Delgado,812973878,44,30/12/1981,A+,,,Sanitas,3143365489,3142462441,"Calle 15 #9-30, Funza, Cundinamarca","Av. El Dorado #68C-61, Fontibón"
+12,Adriana Rodríguez Ramírez,524219931,73,19/03/1953,A-,VIH controlado,,Compensar,3115549169,3134999379,"Carrera 9 #15-30, Villavicencio, Meta","Calle 100 #8A-49, Usaquén"
+13,Miguel Ríos Paredes,918681807,12,10/07/2014,B-,,Roberto Medina,Compensar,3156854146,3127415205,"Carrera 24 #67-11, Barrios Unidos",
+14,Andrea Aguilar Guerrero,147494574,10,06/02/2016,B-,,Lucía Ramírez,Coomeva,3190754153,3189889098,"Calle 32 #14-50, Teusaquillo",
+15,Pablo Martínez Ramos,608025373,7,11/02/2019,A+,Hipotiroidismo,Diana Herrera,Compensar,3279577354,3196125636,"Carrera 9 #79-45, Chapinero","Carrera 7 #71-21, Chapinero"
+16,Rafael Ríos Romero,935675369,13,01/12/2012,B-,,Felipe Castro,Nueva EPS,3195106029,3142169044,"Calle 22 #43-12, Mártires","Av. El Dorado #68C-61, Fontibón"
+17,Catalina Ramos Sánchez,973390270,16,18/01/2010,AB+,Anemia,Felipe Castro,Nueva EPS,3137629899,3132035886,"Carrera 24 #67-11, Barrios Unidos","Carrera 7 #71-21, Chapinero"
+18,Samuel Vásquez García,367150385,80,11/02/1946,B-,,,Coomeva,3209095943,3135650176,"Av. Ferrocarril #10-22, Ibagué, Tolima",
+19,Nicolás Gómez Peña,1055118908,19,04/10/2007,AB-,Artritis reumatoide,,Nueva EPS,3141552957,3153121477,"Calle 49 #34-10, Chapinero","Calle 72 #10-34, Chapinero"
+20,Ana López Cárdenas,348084210,34,11/07/1992,O+,,,Famisanar,3115268494,3117566185,"Calle 4 #7-18, Facatativá, Cundinamarca","Calle 100 #8A-49, Usaquén"
+21,Claudia Mora Medina,186058026,42,03/11/1983,A+,,,Medplus,3212534830,3190152735,"Calle 44 #20-35, Teusaquillo","Calle 72 #10-34, Chapinero"
+22,Isabella Gómez Suárez,654238817,10,08/09/2016,B+,,Sandra Jiménez,Sanitas,3222735287,3186637649,"Calle 68 #14-40, Chapinero","Calle 100 #8A-49, Usaquén"
+23,Hernán Gómez Torres,534596786,74,18/11/1951,AB+,Anemia,,Sanitas,3199194173,3140264926,"Av. Simón Bolívar #14-22, Montería, Córdoba","Carrera 7 #71-21, Chapinero"
+24,Tomás Paredes Ortiz,298387975,74,06/12/1951,O-,Hipertensión arterial,,Famisanar,3170992030,3161367643,"Carrera 66 #10-30, Fontibón","Carrera 7 #71-21, Chapinero"
+25,Daniel Ramos Ruiz,1095357688,50,26/02/1976,O+,Diabetes tipo 2,,Medplus,3231139270,3142436584,"Calle 57B #20-30, Chapinero","Calle 100 #8A-49, Usaquén"
+26,Camila Torres Gómez,928450660,12,27/05/2014,B+,Hipotiroidismo,Lucía Ramírez,Salud Total,3250567291,3109736572,"Calle 5 #7-30, Pasto, Nariño","Av. El Dorado #68C-61, Fontibón"
+27,Camilo Torres Martínez,778389475,21,02/11/2004,B-,,,Coomeva,3156391990,3101250299,"Carrera 3 #8-20, La Calera, Cundinamarca","Av. El Dorado #68C-61, Fontibón"
+28,Óscar Medina Moreno,895395511,81,11/01/1945,O-,Cardiopatía,,Coomeva,3106653539,3161510041,"123 Main Street, Miami, Florida, EE.UU.","Carrera 7 #71-21, Chapinero"
+29,Rafael Sánchez Álvarez,487672768,65,10/06/1961,A-,,,Compensar,3153572423,3183370583,"Calle 57B #20-30, Chapinero","Carrera 7 #71-21, Chapinero"
+30,Tomás Castro Suárez,609416364,22,18/11/2003,A-,,,Sanitas,3194260071,3175563727,"Av. Circunvalar #14-20, Pereira, Risaralda","Calle 72 #10-34, Chapinero"
+31,Luis Gómez Jiménez,92156705,42,26/02/1984,AB+,,,Sanitas,3129099087,3113419256,"Carrera 13 #85-45, Chapinero",
+32,Nicolás Mora Castro,13631985,17,24/05/2009,A-,,Roberto Medina,Compensar,3239565055,3109832887,"Av. Circunvalar #14-20, Pereira, Risaralda","Carrera 7 #71-21, Chapinero"
+33,Laura Ramos Escobar,654937160,21,15/12/2004,O-,,,Salud Total,3236129661,3172160068,"Carrera 7 #8-15, Manizales, Caldas","Calle 100 #8A-49, Usaquén"
+34,Sebastián Romero Álvarez,656284941,49,10/01/1977,O-,,,Sura,3209004973,3128609087,"Calle 57B #20-30, Chapinero","Av. El Dorado #68C-61, Fontibón"
+35,Lucía Ruiz Delgado,192097028,33,07/01/1993,O+,,,Sanitas,3176178333,3167898694,"Carrera 9 #5-30, Chía, Cundinamarca","Av. El Dorado #68C-61, Fontibón"
+36,Rafael Castro Vargas,1030347521,5,15/02/2021,A+,,Carlos Gómez,Sanitas,3264087607,3135594597,"Calle 53 #36-78, Chapinero","Calle 72 #10-34, Chapinero"
+37,Isabella Vargas García,922994505,68,06/12/1957,AB-,Epilepsia,,Sura,3158744720,3117778019,"Calle 100 #14-56, Chicó","Av. El Dorado #68C-61, Fontibón"
+38,Rafael Peña Aguilar,691392169,83,13/08/1943,A-,,,Compensar,3218802399,3146843172,"Calle 49 #34-10, Chapinero","Av. El Dorado #68C-61, Fontibón"
+39,Mateo Ríos Guerrero,605521585,17,16/02/2009,AB+,,Diana Herrera,Sura,3239935353,3109233013,"Carrera 17 #102-45, Usaquén",
+40,Carolina Silva Vásquez,506630252,8,29/12/2017,A-,,Paola Torres,Sanitas,3202820253,3132787299,"Av. Boyacá #12-67, Bosa","Carrera 30 #45-03, Teusaquillo"
+41,Sebastián Romero Álvarez,51944547,70,08/08/1956,O+,,,Compensar,3254535701,3149597086,"Carrera 5 #10-15, Zipaquirá, Cundinamarca","Calle 100 #8A-49, Usaquén"
+42,Roberto Herrera Reyes,845064486,30,28/10/1995,O-,,,Sura,3190229086,3138250360,"Calle 6 #32-15, Rafael Uribe",
+43,Óscar Suárez Cárdenas,190275792,41,26/10/1984,B-,,,Salud Total,3272536795,3121172421,"Av. NQS #40-55, Puente Aranda","Carrera 30 #45-03, Teusaquillo"
+44,Sara Peña Silva,607551532,23,25/04/2003,A-,Hipertensión arterial,,Compensar,3213162947,3158812137,"Carrera 4 #6-35, Bojacá, Cundinamarca","Av. El Dorado #68C-61, Fontibón"
+45,Samuel González Martínez,438123802,55,16/02/1971,A+,,,Sanitas,3105470719,3172909480,"Calle 165 #60-10, Suba","Calle 72 #10-34, Chapinero"
+46,Sandra Gómez Mendoza,255957461,12,19/08/2014,B-,Diabetes tipo 2,María López,Famisanar,3143960548,3194427530,"Carrera 103 #25-40, Fontibón","Calle 72 #10-34, Chapinero"
+47,Juan Cárdenas Medina,269963764,9,16/03/2017,O+,,Lucía Ramírez,Coomeva,3251916362,3140603163,"Calle 72 #10-34, Chapinero","Av. El Dorado #68C-61, Fontibón"
+48,Sergio Romero Soto,997282730,9,16/04/2017,A-,,Paola Torres,Sanitas,3289866719,3182097999,"Carrera 53 #72-30, Barranquilla, Atlántico","Carrera 7 #71-21, Chapinero"
+49,Lucía Molina Cárdenas,196107154,17,15/02/2009,B-,Anemia,Diana Herrera,Nueva EPS,3174874230,3187775215,"Calle Gran Vía 45, Madrid, España","Carrera 30 #45-03, Teusaquillo"
+50,Gabriela Silva Jiménez,564807581,35,12/04/1991,A-,VIH controlado,,Coomeva,3191359012,3170993218,"Carrera 25 #40-10, Neiva, Huila","Av. El Dorado #68C-61, Fontibón"
+51,Juan Medina Romero,1032402165,35,13/02/1991,AB+,,,Sanitas,3273383238,3101049999,"Carrera 103 #25-40, Fontibón","Calle 72 #10-34, Chapinero"
+52,Sandra Medina Ortiz,1026319161,48,19/04/1978,O+,,,Coomeva,3248571764,3189639081,"Carrera 7 #8-15, Manizales, Caldas","Calle 72 #10-34, Chapinero"
+53,Sofía Ortiz Gómez,687634051,15,19/01/2011,AB-,,Roberto Medina,Medplus,3132092731,3174437458,"Calle 68 #14-40, Chapinero","Carrera 30 #45-03, Teusaquillo"
+54,Claudia Castro Cruz,659114718,15,12/01/2011,O-,Diabetes tipo 2,Roberto Medina,Sanitas,3103797922,3140181935,"Calle 18 #23-40, Cúcuta, Norte de Santander","Calle 100 #8A-49, Usaquén"
+55,Sergio García Mora,955899551,19,15/06/2007,B+,Diabetes tipo 2,,Compensar,3191457553,3189038526,"Calle 6 #14-22, Tenjo, Cundinamarca","Av. El Dorado #68C-61, Fontibón"
+56,Adriana González Mora,335831273,46,10/11/1979,O-,,,Compensar,3140049920,3113903144,"Carrera 15 #85-12, Usaquén",
+57,Gloria Palacios Escobar,826855596,15,07/07/2011,O-,VIH controlado,Diana Herrera,Medplus,3220934054,3118024248,"Calle 77 #20-10, Barrios Unidos","Av. El Dorado #68C-61, Fontibón"
+58,Gabriel Ruiz Gómez,525106548,48,01/01/1978,B-,,,Salud Total,3146657719,3135496015,"Calle 165 #60-10, Suba","Calle 100 #8A-49, Usaquén"
+59,Ana Herrera Cruz,985024849,52,07/10/1974,O+,,,Medplus,3119107171,3115492573,"Carrera 43 #19-10, Barrios Unidos","Carrera 30 #45-03, Teusaquillo"
+60,Claudia Vásquez Herrera,315450100,47,26/02/1979,A-,Asma bronquial,,Medplus,3119168932,3114366125,"Carrera 6 #11-40, Mosquera, Cundinamarca","Carrera 30 #45-03, Teusaquillo"
+61,Esteban Ortiz Suárez,1070417158,76,26/06/1950,B+,Diabetes tipo 2,,Coomeva,3217510001,3199645480,"Calle 6 #14-22, Tenjo, Cundinamarca","Calle 72 #10-34, Chapinero"
+62,Juan Herrera Mora,588770519,42,24/10/1983,B-,Hipotiroidismo,,Sura,3254685122,3174252420,"Calle 85 #20-15, Chapinero","Calle 100 #8A-49, Usaquén"
+63,Diana Soto Pérez,725774335,33,10/05/1993,B+,,,Compensar,3186183419,3120863865,"Calle Gran Vía 45, Madrid, España","Carrera 30 #45-03, Teusaquillo"
+64,Valeria Paredes Martínez,552022401,32,23/03/1994,AB-,Enfermedad renal crónica,,Sura,3186778146,3136553958,"Calle 163 #45-20, Suba","Carrera 7 #71-21, Chapinero"
+65,Ángela López Castro,1080505778,37,27/08/1989,AB+,,,Medplus,3267881881,3137816686,"Calle 39 Sur #78-10, Kennedy","Av. El Dorado #68C-61, Fontibón"
+66,Claudia Rodríguez Palacios,677330844,59,02/01/1967,O+,Enfermedad renal crónica,,Salud Total,3247864721,3181178885,"Calle 80 #69-10, Engativá","Calle 72 #10-34, Chapinero"
+67,Juliana Cruz Delgado,1046159949,52,13/05/1974,B-,Epilepsia,,Compensar,3226760532,3128270233,"Carrera 9 #79-45, Chapinero",
+68,Jorge Romero Ramos,583748917,74,29/06/1952,O-,Asma bronquial,,Sanitas,3100688606,3196316277,"Calle 35 #28-45, Bucaramanga, Santander","Calle 100 #8A-49, Usaquén"
+69,Tatiana Ríos Flores,820052427,22,18/07/2004,A+,,,Sanitas,3222230639,3146020613,"123 Main Street, Miami, Florida, EE.UU.","Calle 72 #10-34, Chapinero"
+70,Isabella Romero Martínez,828687658,21,12/06/2005,B-,,,Sanitas,3203637225,3127326368,"Transversal 30 #56-22, Chapinero","Carrera 30 #45-03, Teusaquillo"
+71,Miguel Delgado Cárdenas,955550388,22,04/12/2003,A+,,,Coomeva,3126766155,3192274302,"Carrera 77B #50-20, Kennedy","Carrera 30 #45-03, Teusaquillo"
+72,Roberto Gómez Ramos,182475834,45,04/05/1981,O-,,,Nueva EPS,3188198652,3185125977,"Calle 4 #7-18, Facatativá, Cundinamarca",
+73,Mauricio González Medina,498523064,46,09/03/1980,AB+,,,Medplus,3124261017,3135431319,"Calle 8 #3-14, Gachancipá, Cundinamarca",
+74,Alejandro López Cruz,322608752,24,21/05/2002,O+,,,Nueva EPS,3165551249,3167834855,"Av. Primero de Mayo #22-45, Tunjuelito",
+75,Mauricio Álvarez Escobar,317342969,50,24/06/1976,A-,,,Famisanar,3162327610,3165569635,"Carrera 50 #12-15, Puente Aranda",
+76,Patricia Vásquez Moreno,652428853,7,07/04/2019,B-,,Felipe Castro,Coomeva,3271513801,3133704923,"Av. Roosevelt #12-30, Cali, Valle del Cauca",
+77,Felipe Álvarez Mora,644003224,24,13/03/2002,O-,,,Sanitas,3105889365,3106818112,"Carrera 25 #40-10, Neiva, Huila","Carrera 7 #71-21, Chapinero"
+78,Valeria Cruz Herrera,480308659,44,11/04/1982,B-,Asma bronquial,,Compensar,3270890810,3112388090,"Calle 77 #20-10, Barrios Unidos","Av. El Dorado #68C-61, Fontibón"
+79,Diego Guerrero Martínez,203559947,42,20/12/1983,AB-,,,Coomeva,3179218109,3185132217,"Av. Roosevelt #12-30, Cali, Valle del Cauca","Calle 100 #8A-49, Usaquén"
+80,Valeria Moreno Gómez,643811434,71,16/06/1955,AB+,,,Compensar,3190923183,3156851377,"Avenida Paulista 1500, São Paulo, Brasil","Calle 72 #10-34, Chapinero"
+81,Laura Suárez García,986645563,17,15/12/2008,AB-,,María López,Sura,3198941459,3137135391,"Calle 72 #10-34, Chapinero",
+82,María Escobar Paredes,485382438,22,21/08/2004,B+,Anemia,,Sura,3273852863,3105917225,"Carrera 60 #Calle 13 Sur, Bosa","Av. El Dorado #68C-61, Fontibón"
+83,Andrés Martínez Ortiz,218718232,84,11/12/1941,O+,,,Compensar,3163028652,3100475894,"Av. Ciudad de Cali #68-30, Kennedy","Carrera 30 #45-03, Teusaquillo"
+84,Pablo Romero Sánchez,886422184,62,24/08/1964,B+,Cardiopatía,,Sanitas,3175092173,3144769200,"Carrera 43 #19-10, Barrios Unidos","Av. El Dorado #68C-61, Fontibón"
+85,Tatiana Flores López,272335998,28,18/01/1998,B-,Artritis reumatoide,,Nueva EPS,3222062265,3117558317,"Calle 6 #14-22, Tenjo, Cundinamarca",
+86,Isabella Torres Mora,454867064,14,23/07/2012,O+,,Andrés Vargas,Medplus,3257406011,3185511909,"Calle 68 #14-40, Chapinero","Calle 72 #10-34, Chapinero"
+87,Gabriela Vargas Torres,246065031,39,10/01/1987,AB+,,,Coomeva,3277451308,3135159040,"Carrera 60 #Calle 13 Sur, Bosa",
+88,María Jiménez Gómez,254060020,6,16/05/2020,AB+,,Diana Herrera,Coomeva,3117061230,3121687165,"Calle 15 #20-40, Cartagena, Bolívar","Av. El Dorado #68C-61, Fontibón"
+89,Mauricio Martínez Aguilar,76895490,20,07/09/2006,O-,,,Sanitas,3116327694,3199486328,"Av. NQS #40-55, Puente Aranda","Carrera 30 #45-03, Teusaquillo"
+90,Laura Pérez Silva,280994374,44,15/11/1981,B-,,,Medplus,3173824044,3159302158,"Calle 18 #23-40, Cúcuta, Norte de Santander","Av. El Dorado #68C-61, Fontibón"
+91,Lucía Delgado Palacios,255702336,30,07/10/1996,B+,,,Sura,3275748171,3174045292,"Av. Boyacá #64-30, Kennedy",
+92,Andrea Herrera Romero,866266548,23,02/06/2003,AB-,,,Nueva EPS,3211666371,3194713081,"Carrera 8 #12-30, La Candelaria","Calle 100 #8A-49, Usaquén"
+93,Tomás Ríos González,210210112,8,25/11/2017,A-,,Carlos Gómez,Medplus,3215930970,3157403166,"Calle 5 #7-30, Pasto, Nariño","Av. El Dorado #68C-61, Fontibón"
+94,Patricia Ramírez Romero,918249979,24,18/09/2002,A+,Asma bronquial,,Sura,3293558252,3175283645,"Carrera 25 #40-10, Neiva, Huila","Calle 100 #8A-49, Usaquén"
+95,Miguel Ríos Herrera,799331346,63,10/04/1963,A-,,,Medplus,3130839291,3101297845,"Calle 10 #22-15, Medellín, Antioquia",
+96,Mauricio Reyes Rodríguez,673539552,13,07/10/2013,B+,Hipotiroidismo,Sandra Jiménez,Famisanar,3191220987,3115015458,"Calle 39 Sur #78-10, Kennedy","Av. El Dorado #68C-61, Fontibón"
+97,Mateo Aguilar Ruiz,742068555,26,02/06/2000,B+,,,Coomeva,3142254230,3110099059,"Calle 134 #7-23, Usaquén","Carrera 30 #45-03, Teusaquillo"
+98,Pablo López Vargas,116864129,12,25/08/2014,AB+,Enfermedad renal crónica,Carlos Gómez,Famisanar,3280917099,3192747083,"Av. Simón Bolívar #14-22, Montería, Córdoba","Carrera 7 #71-21, Chapinero"
+99,Santiago Molina Ramírez,1055035878,19,25/09/2007,A-,,,Medplus,3241447797,3120005727,"Carrera 7 #110-45, Usaquén","Carrera 7 #71-21, Chapinero"
+100,Diego Ruiz Torres,714637393,56,10/03/1970,AB+,Enfermedad renal crónica,,Coomeva,3132208053,3173227889,"Carrera 66 #10-30, Fontibón","Calle 100 #8A-49, Usaquén"
+101,Laura Suárez Martínez,177208675,31,05/06/1995,AB+,,,Nueva EPS,3184036572,3104835614,"Calle 85 #20-15, Chapinero",
+102,Nicolás Rodríguez Silva,998050566,12,25/08/2014,AB-,Hipertensión arterial,Sandra Jiménez,Sanitas,3285115785,3149555330,"Transversal 30 #56-22, Chapinero","Calle 100 #8A-49, Usaquén"
+103,Catalina Ramos Herrera,174023462,22,08/01/2004,O+,,,Famisanar,3237031813,3178183110,"Calle 8 #3-14, Gachancipá, Cundinamarca",
+104,Felipe Sánchez Vargas,338285367,17,09/01/2009,A+,Anemia,Carlos Gómez,Sanitas,3275961861,3174158663,"Calle 49 #34-10, Chapinero",
+105,Gabriela Silva Vargas,959634581,31,10/06/1995,A-,,,Sura,3269486152,3119876811,"Calle 57B #20-30, Chapinero","Carrera 7 #71-21, Chapinero"
+106,Lucía Martínez López,174778569,25,08/03/2001,O+,,,Sura,3273051337,3157684996,"Calle 35 #28-45, Bucaramanga, Santander","Carrera 30 #45-03, Teusaquillo"
+107,Fernanda Paredes Martínez,414241177,32,01/08/1994,O-,,,Salud Total,3186309183,3117105448,"Calle 4 #7-18, Facatativá, Cundinamarca","Carrera 30 #45-03, Teusaquillo"
+108,Sandra Pérez Delgado,542025595,47,02/11/1978,A-,,,Sura,3289950754,3105614174,"Calle 18 #23-40, Cúcuta, Norte de Santander","Av. El Dorado #68C-61, Fontibón"
+109,Juliana Cruz Álvarez,122454087,28,04/04/1998,O+,,,Sura,3269352325,3141373735,"Carrera 17 #102-45, Usaquén","Calle 100 #8A-49, Usaquén"
+110,Catalina Palacios Vargas,313715132,23,07/08/2003,AB+,,,Coomeva,3193904302,3148942697,"Carrera 19 #63-45, Chapinero","Carrera 30 #45-03, Teusaquillo"
+111,Diego Paredes Álvarez,284435010,47,30/03/1979,B+,,,Nueva EPS,3279883001,3105354599,"123 Main Street, Miami, Florida, EE.UU.","Calle 72 #10-34, Chapinero"
+112,Viviana Mendoza Rodríguez,469975242,25,13/01/2001,AB-,,,Sura,3191733077,3148024342,"Calle 53 #36-78, Chapinero","Av. El Dorado #68C-61, Fontibón"
+113,Diego Sánchez Delgado,91062112,57,09/07/1969,A+,,,Compensar,3277685277,3128195995,"Calle 49 #34-10, Chapinero","Av. El Dorado #68C-61, Fontibón"
+114,David Escobar Moreno,892312155,53,04/11/1972,O+,,,Nueva EPS,3197790878,3191545441,"Calle 74 #11-30, Chapinero","Carrera 7 #71-21, Chapinero"
+115,Diego Ríos Castro,956175724,25,01/08/2001,B+,,,Compensar,3223931274,3133491314,"Transversal 30 #56-22, Chapinero","Calle 100 #8A-49, Usaquén"
+116,Rafael Palacios Torres,1042060568,65,08/11/1960,A-,,,Compensar,3199646490,3189514287,"Carrera 2 #7-40, El Rosal, Cundinamarca","Carrera 30 #45-03, Teusaquillo"
+117,Jorge Guerrero Delgado,206953391,11,24/05/2015,O+,,Diana Herrera,Sanitas,3159602873,3113796726,"Calle 74 #11-30, Chapinero","Carrera 30 #45-03, Teusaquillo"
+118,Isabella Álvarez Pérez,694370545,26,28/10/1999,B-,,,Medplus,3126597423,3147469942,"Calle 12 #8-50, Santa Marta, Magdalena",
+119,Juliana Ríos Torres,973364334,56,10/06/1970,B+,Hipertensión arterial,,Compensar,3265181290,3175146293,"Carrera 17 #102-45, Usaquén","Av. El Dorado #68C-61, Fontibón"
+120,Claudia Cruz Medina,522044934,20,06/11/2005,O-,,,Sanitas,3212696060,3154543049,"Carrera 6 #11-40, Mosquera, Cundinamarca","Calle 100 #8A-49, Usaquén"

@@ -1,0 +1,49 @@
+idMedicamento,idPaciente,documentoPaciente,alergiasPaciente,preexistenciaPaciente,medicamentoRecetado,dosis,frecuencia,duracionMedicamento,observaciones
+1,42,845064486,,,Ibuprofeno,400mg,Cada 8 horas por 3 días,10 días,No tomar con el estómago vacío. Evitar si hay gastritis.
+2,20,348084210,Ibuprofeno,,Clorhexidina enjuague,0.12%,2 veces al día por 10 días,2 semanas,No ingerir. No comer 30 min después del enjuague.
+3,51,1032402165,,,Clindamicina,300mg,Cada 6 horas por 7 días,2 días,Tomar con abundante agua. Reportar diarrea severa.
+4,84,886422184,Cefalosporinas,Cardiopatía,Ibuprofeno,400mg,Cada 8 horas por 3 días,2 semanas,No tomar con el estómago vacío. Evitar si hay gastritis.
+5,7,685765611,,,Ibuprofeno,400mg,Cada 8 horas por 3 días,2 semanas,No tomar con el estómago vacío. Evitar si hay gastritis.
+6,10,984364241,,,Amoxicilina,500mg,Cada 8 horas por 7 días,10 días,Tomar con alimentos. Completar el ciclo completo.
+7,106,174778569,,,Clindamicina,300mg,Cada 6 horas por 7 días,10 días,Tomar con abundante agua. Reportar diarrea severa.
+8,69,820052427,,,Cetirizina,10mg,Una vez al día por 5 días,2 días,Para control de reacciones alérgicas leves.
+9,13,918681807,,,Dexametasona,4mg,Cada 12 horas por 2 días,2 semanas,Solo postoperatorio. No suspender abruptamente.
+10,47,269963764,,,Clorhexidina enjuague,0.12%,2 veces al día por 10 días,2 días,No ingerir. No comer 30 min después del enjuague.
+11,75,317342969,,,Dexametasona,4mg,Cada 12 horas por 2 días,5 días,Solo postoperatorio. No suspender abruptamente.
+12,8,930054627,Ibuprofeno,,Clindamicina,300mg,Cada 6 horas por 7 días,5 días,Tomar con abundante agua. Reportar diarrea severa.
+13,65,1080505778,Látex,,Clindamicina,300mg,Cada 6 horas por 7 días,2 semanas,Tomar con abundante agua. Reportar diarrea severa.
+14,28,895395511,,Cardiopatía,Clorhexidina enjuague,0.12%,2 veces al día por 10 días,2 días,No ingerir. No comer 30 min después del enjuague.
+15,5,459912919,,,Cetirizina,10mg,Una vez al día por 5 días,10 días,Para control de reacciones alérgicas leves.
+16,12,524219931,,VIH controlado,Dexametasona,4mg,Cada 12 horas por 2 días,1 semana,Solo postoperatorio. No suspender abruptamente.
+17,56,335831273,,,Nimesulida,100mg,Cada 12 horas por 5 días,2 días,No administrar a menores de 12 años.
+18,54,659114718,,Diabetes tipo 2,Clorhexidina enjuague,0.12%,2 veces al día por 10 días,2 semanas,No ingerir. No comer 30 min después del enjuague.
+19,9,829521169,,,Ibuprofeno,400mg,Cada 8 horas por 3 días,5 días,No tomar con el estómago vacío. Evitar si hay gastritis.
+20,31,92156705,,,Paracetamol,500mg,Cada 6 horas según dolor,3 días,No exceder 4g en 24 horas.
+21,105,959634581,,,Dexametasona,4mg,Cada 12 horas por 2 días,10 días,Solo postoperatorio. No suspender abruptamente.
+22,71,955550388,,,Nimesulida,100mg,Cada 12 horas por 5 días,7 días,No administrar a menores de 12 años.
+23,55,955899551,,Diabetes tipo 2,Amoxicilina,500mg,Cada 8 horas por 7 días,5 días,Tomar con alimentos. Completar el ciclo completo.
+24,109,122454087,Amoxicilina,,Ibuprofeno,400mg,Cada 8 horas por 3 días,3 días,No tomar con el estómago vacío. Evitar si hay gastritis.
+25,73,498523064,Amoxicilina,,Clorhexidina enjuague,0.12%,2 veces al día por 10 días,2 días,No ingerir. No comer 30 min después del enjuague.
+26,16,935675369,,,Dexametasona,4mg,Cada 12 horas por 2 días,2 semanas,Solo postoperatorio. No suspender abruptamente.
+27,29,487672768,,,Dexametasona,4mg,Cada 12 horas por 2 días,1 semana,Solo postoperatorio. No suspender abruptamente.
+28,81,986645563,,,Nimesulida,100mg,Cada 12 horas por 5 días,1 semana,No administrar a menores de 12 años.
+29,93,210210112,,,Nimesulida,100mg,Cada 12 horas por 5 días,3 días,No administrar a menores de 12 años.
+30,110,313715132,,,Ibuprofeno,400mg,Cada 8 horas por 3 días,2 días,No tomar con el estómago vacío. Evitar si hay gastritis.
+31,97,742068555,,,Nimesulida,100mg,Cada 12 horas por 5 días,10 días,No administrar a menores de 12 años.
+32,74,322608752,,,Ibuprofeno,400mg,Cada 8 horas por 3 días,10 días,No tomar con el estómago vacío. Evitar si hay gastritis.
+33,91,255702336,,,Naproxeno,500mg,Cada 12 horas por 3 días,1 semana,Preferible tomar con alimentos.
+34,118,694370545,,,Clorhexidina enjuague,0.12%,2 veces al día por 10 días,1 semana,No ingerir. No comer 30 min después del enjuague.
+35,116,1042060568,Anestésicos locales (lidocaína),,Nimesulida,100mg,Cada 12 horas por 5 días,2 días,No administrar a menores de 12 años.
+36,94,918249979,,Asma bronquial,Paracetamol,500mg,Cada 6 horas según dolor,1 semana,No exceder 4g en 24 horas.
+37,6,481619987,,,Dexametasona,4mg,Cada 12 horas por 2 días,5 días,Solo postoperatorio. No suspender abruptamente.
+38,72,182475834,,,Nimesulida,100mg,Cada 12 horas por 5 días,2 días,No administrar a menores de 12 años.
+39,18,367150385,Metronidazol,,Metronidazol,500mg,Cada 12 horas por 5 días,3 días,Evitar consumo de alcohol durante el tratamiento.
+40,38,691392169,,,Ibuprofeno,400mg,Cada 8 horas por 3 días,2 semanas,No tomar con el estómago vacío. Evitar si hay gastritis.
+41,103,174023462,,,Amoxicilina,500mg,Cada 8 horas por 7 días,2 días,Tomar con alimentos. Completar el ciclo completo.
+42,19,1055118908,,Artritis reumatoide,Naproxeno,500mg,Cada 12 horas por 3 días,3 días,Preferible tomar con alimentos.
+43,70,828687658,,,Clindamicina,300mg,Cada 6 horas por 7 días,3 días,Tomar con abundante agua. Reportar diarrea severa.
+44,95,799331346,,,Paracetamol,500mg,Cada 6 horas según dolor,3 días,No exceder 4g en 24 horas.
+45,89,76895490,,,Ibuprofeno,400mg,Cada 8 horas por 3 días,5 días,No tomar con el estómago vacío. Evitar si hay gastritis.
+46,40,506630252,Metronidazol,,Nimesulida,100mg,Cada 12 horas por 5 días,5 días,No administrar a menores de 12 años.
+47,83,218718232,Cefalosporinas,,Cetirizina,10mg,Una vez al día por 5 días,2 días,Para control de reacciones alérgicas leves.
+48,24,298387975,,Hipertensión arterial,Metronidazol,500mg,Cada 12 horas por 5 días,3 días,Evitar consumo de alcohol durante el tratamiento.
